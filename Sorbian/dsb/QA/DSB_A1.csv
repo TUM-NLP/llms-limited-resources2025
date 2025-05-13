@@ -1,0 +1,140 @@
+question_id,question_level,context,question,possible_answers,correct_answer_num,question_type
+A1.1.H01,A1,"žona: Pětš, pśiźoš sobu do kina? 
+Pětš: Halo, Monika. Njewěm hyšći. Ga? 
+žona: Pónjeźele? 
+Pětš: Derje, pónjeźele.",Ga cotej Pětš a Monika do kina hyś?,"1 pónjeźele 
+2 pětk",1,listening_A1_1
+A1.1.H1,A1,"muž: Dobry źeń! Mě se groni Jan Koch. A kak se Wam groni? 
+žona: Dobry źeń! Ja som Anneliza Lehmannojc. 
+muž: A chto jo to, Waš pśijaśel? 
+žona: Ně, to jo mój bratš.",Ten muž jo,"1 pśijaśel. 
+2 bratš.",2,listening_A1_1
+A1.1.H2,A1,"muž: Dobry źeń! 
+žona: Dobry źeń! Mě se groni Karin Šmidtowa. 
+muž: Kak se Wam źo? 
+žona: Derje. A Wam? 
+muž: Teke derje. Ale mója źowka jo chóra. 
+žona: Dobre pólěpšenje. Na zasejwiźenje! 
+muž: Na zasejwiźenje!",Chto jo chóry?,"1 źowka
+2 Karin Šmidtowa",1,listening_A1_1
+A1.1.H3,A1,"Tina: Halo! 
+Marko: Witaj, Tina! Daj mě pšosym kluc za awto. 
+Tina: How, pšosym. 
+Marko: Wutšobny źěk! Mójo awto jo na reparaturje. 
+Tina: To jo škóda. 
+Marko: Ahoj! 
+Tina: Měj se derje!",Co co Marko měś?,"1 nowe awto
+2 kluc za awto",2,listening_A1_1
+A1.1.H4,A1,"muž 1: Dobry źeń! 
+muž 2: Wódajśo pšosym, sćo Wy kněz Šulc? 
+muž 1: Ně, to ja njejsom. Mójo mě jo Brězan. 
+muž 2: A źo jo kněz Šulc? 
+muž 1: Wón stoj tam slězy. 
+muž 2: Wutšobny źěk!",Źo stoj kněz Šulc?,"1 prězy
+2 slězy",2,listening_A1_1
+A1.1.H5,A1,"muž: Dobry wjacor! 
+žona: Dobry wjacor! Bydliśo Wy teke w Chóśebuzu?
+muž: Ně! 
+žona: A źo Wy bydliśo? 
+muž: Ja bydlim w Limbarku. 
+žona: Jo to wjelike město? 
+muž: Ně, to jo mała wjas.",Źo bydli muž?,"1 w Limbarku 
+2 w Chóśebuzu",1,listening_A1_1
+A1.1.H6,A1,"žona: Dobre zajtšo! Mě se groni Drechslerowa. 
+muž: Wódajśo, kak se Wam groni? 
+žona: Ja som Beata Drechslerowa a ja som ta nowa źiśownica. 
+muž: Oh, witajśo k nam! Ja som Bernd Janaš. Naša wjednica, kněni Nowakowa, jo górjejce w běrowje.",Kótare pówołanje ma kněni Drechslerowa?,"1 źiśownica
+2 ceptaŕka",1,listening_A1_1
+A1.1.H02,A1,Film „100 lět Domowina“ wiźiśo stwórtk w studiju rbb w Chóśebuzu.,Film wiźiśo stwórtk w Chóśebuzu.,"1 pšawje
+2 wopak",1,listening_A1_2
+A1.1.H7,A1,Koncert klasiskeje muziki jo źinsa wjacor w Serbskem domje. Kórtki móžośo hyšći kupiś.,Koncert jo witśe.,"1 pšawje
+2 wopak",2,listening_A1_2
+A1.1.H8,A1,Ricarda Brandtojc jo 19 lět stara a bydli w Bórkowach.,Ricarda Brandtojc jo 17 lět stara.,"1 pšawje
+2 wopak",2,listening_A1_2
+A1.1.H9,A1,"Cerwjena papjera lažy we fachu nalěwo, módra a žołta we fachu napšawo.",Žołta papjera lažy napšawo.,"1 pšawje
+2 wopak",1,listening_A1_2
+A1.1.H10,A1,We februarje jo Berlinale w Barlinju. Tam maju nowe filmy premjeru.,Berlinale jo we februarje.,"1 pšawje
+2 wopak",1,listening_A1_2
+A1.1.H11,A1,"Halo, Sabina, how jo Simona. Srjodu njamamy gymnastiku. Su ga prozniny. Comy ze źiśimi kólasowaś?",Simona co,"1 kólasowaś.
+2 na gymnastiku hyś.",1,listening_A1_3
+A1.1.H12,A1,"Mě se groni Manuela Petrikowa. Ja som ceptaŕka Wašogo syna, Morica. Mójo telefonowe cysło jo: 0355 / 485 76 448.",Telefonowe cysło wót kněni Petrikoweje jo ,1 0355 / 485 76 448. 2 0355 / 485 76 444.,1,listening_A1_3
+A1.1.H13,A1,Ja som Marek Kowalewski. Bydlim w Poznanju. Źo móžom serbski wuknuś? Zazwónijom witśe hyšći raz.,Kněz Kowalewski co ,"1 pólski wuknuś. 
+2 serbski wuknuś.",2,listening_A1_3
+A1.1.H14,A1,Mója źowka ma narodny źeń. Wóna co měś cejdejku z popoweju muziku. Maśo Wy tu nowu CD wót „Silbermond“?,Maś co kupiś,"1 DVD.
+2 CD.",2,listening_A1_3
+A1.1.H15,A1,My smy studenty z Wiena a comy woglědaś Pücklerowy park w Chóśebuzu. My smy z awtom. Móžomy tam parkowaś?,Studenty su,"1 z awtom.
+2 z busom.",1,listening_A1_3
+A1.1.L1,A1,Źěkuju se!,Pšawa replika jo:,"1 How pšosym! 
+2 Źo su móje knigły?",1,reading_A1_1
+A1.1.L2,A1,Až do witśego!,Pšawa replika jo:,"1 Na zasejwiźenje! 
+2 Kak se tebje źo?",1,reading_A1_1
+A1.1.L6,A1,"Pśepšosenje na premjeru 
+Pratyje 
+Ga? pětk, 30. september z. 19.00 
+Źo? w gósćeńcu „Burski dwór“ w Mósće 
+Moderacija: Adelheid Dawmowa a Horst Adam 
+Ludowe nakładnistwo Domowina
+Sukelnska 27 / Tuchmacherstr. 27 | 02625 Budyšyn / Bautzen 
+tel.: 03591 – 577 0 | faks: 03591 – 577 243",Prezentacija noweje Pratyje jo w Mósće.,"1 pšawje
+2 wopak",1,reading_A1_2
+A1.1.L7,A1,"Pśepšosenje na premjeru 
+Pratyje 
+Ga? pětk, 30. september z. 19.00 
+Źo? w gósćeńcu „Burski dwór“ w Mósće 
+Moderacija: Adelheid Dawmowa a Horst Adam 
+Ludowe nakładnistwo Domowina
+Sukelnska 27 / Tuchmacherstr. 27 | 02625 Budyšyn / Bautzen 
+tel.: 03591 – 577 0 | faks: 03591 – 577 243",Prezentacija jo w Mósćańskem muzeumje.,"1 pšawje
+2 wopak",2,reading_A1_2
+A1.1.L8,A1,"Pśepšosenje na premjeru 
+Pratyje 
+Ga? pětk, 30. september z. 19.00 
+Źo? w gósćeńcu „Burski dwór“ w Mósće 
+Moderacija: Adelheid Dawmowa a Horst Adam 
+Ludowe nakładnistwo Domowina
+Sukelnska 27 / Tuchmacherstr. 27 | 02625 Budyšyn / Bautzen 
+tel.: 03591 – 577 0 | faks: 03591 – 577 243",Ludowe nakładnistwo Domowina jo w Drježdźanach.,"1 pšawje
+2 wopak",2,reading_A1_2
+A1.1.L9,A1,"Fobojc familija
+Luba Milenka! 
+To jo mója familija. Wšykne su na wobrazu. Slězy wiźiš našu starku a našogo starkego. Nalěwo stej nan a mama. Ja stojm wesrjejź z wiolinu. Ja som 9 lět stary. Napšawo wiźiš móju sotšu Wandu. Wóna jo jadnasćo lět stara. Pawlina jo sedym lět stara. Mój mały bratš Majk jo w źiśowni. Wón jo tśi lěta stary. Mamy teke psa a kócku. Moppi jo carny a Minka jo bruna. 
+Luby póstrow, 
+twój pśijaśel Matej Fobo",Kněz Fobo a kněni Fobowa matej tśi źiśi. ,"1 pšawje
+2 wopak",2,reading_A1_2
+A1.1.L10,A1,"Fobojc familija
+Luba Milenka! 
+To jo mója familija. Wšykne su na wobrazu. Slězy wiźiš našu starku a našogo starkego. Nalěwo stej nan a mama. Ja stojm wesrjejź z wiolinu. Ja som 9 lět stary. Napšawo wiźiš móju sotšu Wandu. Wóna jo jadnasćo lět stara. Pawlina jo sedym lět stara. Mój mały bratš Majk jo w źiśowni. Wón jo tśi lěta stary. Mamy teke psa a kócku. Moppi jo carny a Minka jo bruna. 
+Luby póstrow, 
+twój pśijaśel Matej Fobo",Pawlina jo źewjeś lět stara.,"1 pšawje
+2 wopak",2,reading_A1_2
+A1.1.L03,A1,"Adresa Rěcnego centruma WITAJ: 
+RĚCNY CENTRUM WITAJ 
+jo w internaśe Dolnoserbskego gymnaziuma na Žylojskej droze 39",Rěcny centrum WITAJ jo na Žylojskej droze. ,"1 pšawje
+2 wopak",1,reading_A1_3
+A1.1.L11,A1,"Hort informěrujo:
+Lube mamy, lube nany, lube źiśi!
+Pśepšosyjomy Was stwórtk na familijowy źeń:
+z. l4.30 pijomy kafej
+z. l5.30 jo mały program źiśi 
+z. l6.00 grajkamy gromaźe na grajkanišću
+z. l7.00 grilujomy jěšnicki",Starjejše pśigótuju mały program.,"1 pšawje
+2 wopak",2,reading_A1_3
+A1.1.L12,A1,"Sekretariat jo wócynjony: 
+Pónjeźele a wałtoru 8.00 - 13.00 
+Stwórtk a pětk 8.00 - 13.00 
+Wałtoru 14.00 - 15.00 
+Stwórtk a pětk 14.00 - 15.00",Srjodu njejo sekretariat wócynjony.,"1 pšawje
+2 wopak",1,reading_A1_3
+A1.1.L13,A1,"W gósćeńcu: 
+!! Šnycel XL !! 
+Pśi nas móžośo derje wobjedowaś. Naše šnycle su wjelike a dobre. Kóńc tyźenja mamy 50 % rabat.",Sobotu njejo žeden rabat. ,"1 pšawje
+2 wopak",2,reading_A1_3
+A1.1.L14,A1,"Šula za dolnoserbsku rěc a kulturu cyni znate: 
+Lube serbšćinarje! 
+Pśiducy tyźeń su jatšy. Togodla njejo pónjeźele žedna wucba. 
+Kurs jo zasej wałtoru wjacor wót z. 17.30 do 19.00.","Pónjeźele njejo kurs, ale wałtoru. ","1 pšawje
+2 wopak",1,reading_A1_3
+A1.1.L15,A1,"Informacija za starjejšych: 
+Lube starjejše! 
+Co Waša źowka abo Waš syn na Dolnoserbski gymnazium? Wałtoru z. 19.00 jo informaciski wjacor. Powěda kněz Kowal, direktor Dolnoserbskego gymnaziuma w Chóśebuzu.",Wałtoru informěrujo kněz Kowal wó Dolnoserbskem gymnaziumje.,"1 pšawje
+2 wopak",1,reading_A1_3

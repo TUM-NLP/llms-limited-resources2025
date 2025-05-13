@@ -1,0 +1,138 @@
+question_id,question_level,context,question,possible_answers,correct_answer_num,question_type
+A1.1.H01,A1,"žona: Pětrje, přińdźeš sobu do kina?
+Pětr: Halo, Tereza. Njewěm hišće. Hdy to? 
+žona: Póndźelu? 
+Pětr: Haj, póndźelu.",Hdy chcetaj Tereza a Pětr do kina?,"1 póndźelu
+2 pjatk",1,listening_A1_1
+A1.1.H1,A1,"muž: Dobry dźeń! Rěkam Jan Koch. A kak wy rěkaće?
+žona: Dobry dźeń! Ja sym Anneliza Lehmanec.
+muž: A štó je to, waš přećel?
+žona: Ně, to je mój bratr.",Tón muž je,"1 přećel
+2 bratr",2,listening_A1_1
+A1.1.H2,A1,"muž: Dobry dźeń! 
+žona: Dobry dźeń! Rěkam Karin Šmitowa. 
+muž: Kak so wam wjedźe? 
+žona: Derje. A wam? 
+muž: Tež derje. Ale moja dźowka je chora. 
+žona: Dobre polěpšenje. Božemje. 
+muž: Božemje!",Štó je chory?,"1 dźowka 
+2 Karin Šmitowa",1,listening_A1_1
+A1.1.H3,A1,"muž: Halo, Tina! 
+žona: Witaj, Marko! Daj mi prošu kluč za awto. 
+muž: Tu prošu. 
+žona: Wutrobny dźak! Moje awto je na reparaturje. 
+muž: To je škoda. 
+žona: Měj so rjenje! 
+muž: Měj so rjenje!",Što chce Tina měć?,"1 nowe awto 
+2 kluč za awto",2,listening_A1_1
+A1.1.H4,A1,"muž 1: Dobry dźeń! 
+muž 2: Wodajće prošu, sće wy knjez Šołta? 
+muž 1: Ně, to ja njejsym. Moje mjeno je Brězan. 
+muž 2: A hdźe je knjez Šołta? 
+muž 1: Wón stej tam zady. 
+muž 2: Wutrobny dźak!",Hdźe steji knjez Šołta?,"1 prědku 
+2 zady",2,listening_A1_1
+A1.1.H5,A1,"muž: Dobry wječor! 
+žona: Dobry wječor! Bydliće wy tež w Budyšinje? 
+muž: Ně! 
+žona: A hdźe wy bydliće? 
+muž: Ja bydlu we Wěteńcy. 
+žona: Je to wulke město? 
+muž: Ně, to je mała wjeska.",Hdźe bydli muž?,"1 we Wěteńcy 
+2 w Budyšinje",1,listening_A1_1
+A1.1.H6,A1,"žona: Dobre ranje! Rěkam Beata Drechslerowa. 
+muž: Wodajće, kak wy rěkaće? 
+žona: Sym Beata Drechslerowa a ja sym ta nowa pěstowarka. 
+muž: Ow, witajće k nam! Moje mjeno je Bjarnat Jenč. Naša wjednica knjeni Nowakowa je horjeka w běrowje.",Kotre powołanje ma knjeni Drechslerowa?,"1 pěstowarka 
+2 wučerka",1,listening_A1_1
+A1.1.H02,A1,Film „100 lět Domowina“ widźiće štwórtk w studiju MDR w Budyšinje.,Film widźiće štwórtk w Budyšinje.,"1 prawje
+2 wopak",1,listening_A1_2
+A1.1.H7,A1,Koncert klasiskeje hudźby je dźensa wječor w Serbskim domje. Kartki móžeće hišće kupić.,Koncert je jutře.,"1 prawje
+2 wopak",2,listening_A1_2
+A1.1.H8,A1,Ricarda Brandtec je 19 lět stara a bydli w Smochćicach.,Ricarda Brandtec je 17 lět stara.,"1 prawje
+2 wopak",2,listening_A1_2
+A1.1.H9,A1,"Čerwjena papjera leži we fašku nalěwo, módra a žołta we fašku naprawo.",Žołta papjera leži naprawo.,"1 prawje
+2 wopak",1,listening_A1_2
+A1.1.H10,A1,W februarje je Berlinale w Berlinje. Tam maja nowe filmy premjeru.,Berlinale je w februarje.,"1 prawje
+2 wopak",1,listening_A1_2
+A1.1.H11,A1,"Halo, Sabina, tu je Simona. Srjedu nimamy gymnastiku. Su tola prózdniny. Chcemy z dźěćimi kolesować?",Simona chce,"1 kolesować
+2 na gymnastiku hić",1,listening_A1_3
+A1.1.H12,A1,Moje mjeno je Michaela Pjetašowa. Ja sym wučerka wašeho syna Měrćina. Moje telefonowe čisło je: 03591 / 485 76 448.,Telefonowe čisło wot knjenje Pjetašoweje je ,"1 03591 / 485 76 448
+2 03591 / 485 76 444.",1,listening_A1_3
+A1.1.H13,A1,Sym Marek Kowalewski. Bydlu w Poznanju. Hdźe móžu serbsce wuknyć? Zazwonju jutře hišće raz.,Knjez Kowalewski chce ,"1 pólsce wuknyć
+2 serbsce wuknyć.",2,listening_A1_3
+A1.1.H14,A1,Moja dźowka ma narodniny. Wona chce cejdejku z popowej hudźbu měć. Maće wy nowu cejdejku wot „Silbermond“?,Mać chce kupić,"1 DVD
+2 CD",2,listening_A1_3
+A1.1.H15,A1,My smy studenća z Wiena a chcemy hród Orthenburg w Budyšinje wopytać. Smy z awtom. Móžemy tam parkować?,Studenća su,"1 z awtom
+2 z busom",1,listening_A1_3
+A1.1.L1,A1,Dźakuju so!,Prawa replika je:,"1 Tu prošu! 
+2 Hdźe su moje knihi?",1,reading_A1_1
+A1.1.L2,A1,Hač do jutřišeho!,Prawa replika je:,"1 Božemje! 
+2 Kak so tebi wjedźe?",1,reading_A1_1
+A1.1.L6,A1,"Přeprošenje na premjeru 
+Serbskeje Protyki 
+Hdy? pjatk, 30. septembra, w 19:00 hodź. 
+Hdźe? w hosćencu „Meja“ w Radworju 
+Moderacija: Chrysta Nowakowa a Gerat Buk 
+Ludowe nakładnistwo Domowina 
+Sukelnska 27 | 02625 Budyšin 
+tel.: 035 91 - 577 0 | faks: 035 91 - 577 243",Prezentacija noweje Protyki je w Radworju.,"1 prawje
+2 wopak",1,reading_A1_2
+A1.1.L7,A1,"Přeprošenje na premjeru 
+Serbskeje Protyki 
+Hdy? pjatk, 30. septembra, w 19:00 hodź. 
+Hdźe? w hosćencu „Meja“ w Radworju 
+Moderacija: Chrysta Nowakowa a Gerat Buk 
+Ludowe nakładnistwo Domowina 
+Sukelnska 27 | 02625 Budyšin 
+tel.: 035 91 - 577 0 | faks: 035 91 - 577 243",Prezentacija je w muzeju.,"1 prawje
+2 wopak",2,reading_A1_2
+A1.1.L8,A1,"Přeprošenje na premjeru 
+Serbskeje Protyki 
+Hdy? pjatk, 30. septembra, w 19:00 hodź. 
+Hdźe? w hosćencu „Meja“ w Radworju 
+Moderacija: Chrysta Nowakowa a Gerat Buk 
+Ludowe nakładnistwo Domowina 
+Sukelnska 27 | 02625 Budyšin 
+tel.: 035 91 - 577 0 | faks: 035 91 - 577 243",Ludowe nakładnistwo Domowina je w Drježdźanach.,"1 prawje
+2 wopak",2,reading_A1_2
+A1.1.L9,A1,"Wornarjec swójba
+Luba Milenka! To je moja swójba. Wšitcy su na wobrazu. Zady widźiš našu wowku a našeho dźěda. Nalěwo staj nan a mać. Ja steju srjedźa z wiolinu. Sym dźewjeć lět stary. Naprawo widźiš moju sotru Wandu. Wona je jědnaće lět stara. Pawlina je sydom lět stara. Mój mały bratr Majk je w pěstowarni. Wón je tři lěta stary. Mamy tež psyka a kóčku. Moppy je čorny a Minka je bruna. 
+Luby postrow twój přećel 
+Matej Wornar",Knjez Wornar a knjeni Wornarjowa mataj tři dźěći.,"1 prawje
+2 wopak",2,reading_A1_2
+A1.1.L10,A1,"Wornarjec swójba
+Luba Milenka! To je moja swójba. Wšitcy su na wobrazu. Zady widźiš našu wowku a našeho dźěda. Nalěwo staj nan a mać. Ja steju srjedźa z wiolinu. Sym dźewjeć lět stary. Naprawo widźiš moju sotru Wandu. Wona je jědnaće lět stara. Pawlina je sydom lět stara. Mój mały bratr Majk je w pěstowarni. Wón je tři lěta stary. Mamy tež psyka a kóčku. Moppy je čorny a Minka je bruna. 
+Luby postrow twój přećel 
+Matej Wornar",Pawlina je dźewjeć lět stara.,"1 prawje
+2 wopak",2,reading_A1_2
+A1.1.L03,A1,"Adresa Rěčneho centruma WITAJ:
+RĚČNY CENTRUM WITAJ 
+ma nětko nowe běrowy w Serbskim domje na Póstowym naměsće 2.",Rěčny centrum WITAJ je w Serbskim domje. ,"1 prawje
+2 wopak",1,reading_A1_3
+A1.1.L11,A1,"Hort informuje:
+Lube maćerje, lubi nanojo, lube dźěći!
+Přeprošujemy Was pjatk na dźěćacy swjedźeń.
+– w l4.30 hodź. pijemy kofej
+– w l5.30 hodź. je mały program dźěći
+– w l6.00 hodź. hrajkamy sej hromadźe na hrajkanišću
+– w l7.00 hodź. grilujemy kołbaski",Starši přihotuja mały program.,"1 prawje
+2 wopak",2,reading_A1_3
+A1.1.L12,A1,"Sekretariat je wočinjeny: 
+póndźelu a wutoru: 8.00 - 13.00 
+štwórtk a pjatk: 8.00 - 13.00 
+wutoru: 14.00 - 15.00 
+štwórtk a pjatk: 14.00 - 15.00 ",Sekretariat srjedu wočinjeny njeje.,"1 prawje
+2 wopak",1,reading_A1_3
+A1.1.L13,A1,"W hosćencu:
+!! Šnicl XL !! 
+Pola nas móžeće derje wobjedować. Naše šnicle su wulke a dobre. Kónc tydźenja mamy 50 % rabata.",Sobotu njeje žadyn rabat. ,"1 prawje
+2 wopak",2,reading_A1_3
+A1.1.L14,A1,"Na durjach šule: 
+Lubi serbšćinarjo! 
+Přichodny tydźeń su jutry. Tohodla njeje póndźelu žana wučba. Kurs je zaso wutoru wječor wot 17.30 do 19.00 hodź.","Póndźelu njeje kurs, ale wutoru. ","1 prawje
+2 wopak",1,reading_A1_3
+A1.1.L15,A1,"Informacija za staršich: 
+Lubi starši, 
+chce Waša dźowka abo Waš syn na gymnazij chodźić? Wutoru w 19.00 hodź. je informaciski wječor. Porěči knjez Wjacławk ze Serbskeho gymnazija Budyšin.",Wutoru informuje knjez Wjacławk z Budyšina.,"1 prawje
+2 wopak",1,reading_A1_3

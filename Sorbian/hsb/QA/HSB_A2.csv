@@ -1,0 +1,145 @@
+question_id,question_level,context,question,possible_answers,correct_answer_num,question_type
+A2.1.H01,A2,"žona: Dobry dźeń. Prajće prošu, je tu gmejnski zarjad? 
+druha: Haj, tu sće cyle prawje. Móžu wam pomhać? 
+žona: Hdźe dźěła knjez Młynk, naš wjesnjanosta? Chcu z nim rěčeć. 
+druha: Knjez Młynk. Čakajće jónu. Myslu sej, zo je w stwě čisło 34. Haj, trjechi, stwa 34. To je tam zady nalěwo. 
+žona: Je wón dźensa tu? 
+druha: To bohužel njewěm. žona: Derje, ja pohladam. Stwa 34. Dźakuju so. Božemje.",W kotrej stwě dźěła knjez Młynk?,"1 24 
+2 43 
+3 34",3,listening_A2_1
+A2.1.H1,A2,"Hanka: Dobry dźeń. Bohužel njerěču derje serbsce. Je pola was kurs serbšćiny? 
+sekretarka: Haj, mamy jedyn kurs za započatkarjow w Pančicach-Kukowje. Tam pak su nětko hižo pruwowanja. A wot nazymy budźe dalši kurs. 
+Hanka: Derje, ja chcu rady serbsce wuknyć. 
+sekretarka: Chceće wy póndźelu abo wutoru přińć? 
+Hanka: Póndźelu ja njemóžu, chcu rady wutoru přińć. Nazymu wy prajiće, je to w septembrje abo oktobrje? 
+sekretarka: W oktobrje. Dóstanjeće list z informaciju.",Hdy chce Hanka na serbšćinu chodźić?,"1 póndźelu
+2 wutoru
+3 štwórtk",2,listening_A2_1
+A2.1.H2,A2,"susodka 1: Halo, chcemy dźensa do kina hić? 
+susodka 2: To je poprawom dobra ideja. Moje dźěći su doma, ale mój muž dźensa doma njeje. Wón dźěła w Hamburgu. 
+susodka 1: Ach wězo, to je škoda. Što wón tam dźěła? 
+susodka 2: Pětr je tam na montaži. Wón je elektrikar. 
+susodka 1: Je wón sobotu doma? 
+susodka 2: Haj, sobotu smy wšitcy doma. Chcemy sobotu do kina hić? 
+susodka 1: Haj, pojědźemy sobotu wječor na rjany film do Budyskeho kina. Měj so rjenje! 
+susodka 2: Hač do soboty!",Hdźe muž dźěła?,"1 w Chrósćicach 
+2 w Budyšinje 
+3 w Hamburgu",3,listening_A2_1
+A2.1.H3,A2,"susodka 1: Dźensa je rjane wjedro, móžemy wječor grilować. 
+susodka 2: Haj, to je dobra ideja. Štó přińdźe? 
+susodka 1: Smy tři swójby: Brězanec, Šołćic a my. Ja mam kołbaski, žonop a ketchup. 
+susodka 2: Prima, što hišće trjebamy? 
+susodka 1: Całty, chlěb, piwo, wino a wodu. Piju rady čerwjene wino. 
+susodka 2: Derje, póńdu nakupować. Přinjesu całty a chlěb, 10 bleškow piwa, 3 bleše wody a čerwjene wino. Je to wšo? 
+susodka 1: Haj, hač do wječora!",Što susodka rady pije?,"1 čerwjene wino 
+2 čerwjeny sekt 
+3 běłe wino",1,listening_A2_1
+A2.1.H4,A2,"Dobry dźeń. Chcu so rady na karate přizjewić. Je to móžno? 
+žona: Haj, to je móžno. Zapisam was do lisćiny. Kak wy rěkaće? 
+muž: Rěkam Měrćin Delan a bydlu w Budyšinje. 
+žona: A što dźěłaće? 
+muž: Sym rěznik a dźěłam w Kamjencu. 
+žona: Kak stary sće a kotre je waše telefonowe čisło? 
+muž: Sym 51 lět stary, moje čisło je 03591 / 560 731. žona: Informujemy was, hdyž so nowy kurs započnje.",Kak stary je knjez Delan?,"1 32 lět
+2 52 lět
+3 51 lět",3,listening_A2_1
+A2.1.H5,A2,"žona 1: Halo ... je to waša dźowka tam na hrajkanišću? 
+žona 2: Haj, to je naša Klara. A tón hólc, je to waš syn? 
+žona 1: Ně, ja mam tež dźowku. Naša Helena je hišće w šuli. Ja čakam tu na Helenu. 
+žona 2: Aha, a kak stara je waša dźowka? 
+žona 1: Helena je 7 lět stara. 
+žona 2: Potom móže sej wona tu popołdnju z našej Klaru hrajkać? 
+žona 1: Haj to dźe, snano srjedu? 
+žona 2: Jara rjenje!",Hdźe je Helena?,"1 w pěstowarni 
+2 na hrajkanišću 
+3 w šuli",3,listening_A2_1
+A2.1.H6,A2,"žona: Chwalen Jězus Chrystus! 
+dźěćo: Na wěki amen. Witajće k nam, Kralec ćeta. 
+žona: Wjerš pomazy. Franciska, praj prošu, je waša wowka doma? 
+dzěćo: Ně, wowka z dźědom nakupuje. Naš dźěd trjeba nowe črije. 
+žona: Su woni do Kamjenca jěli? 
+dźěćo: Ně, do Kulowa. Kak móžu wam pomhać, Kralec ćeta? 
+žona: Nimam žadyn chlěb wjace. Daj mi prošu 3 pomazki. Maš ty? 
+dźěćo: Wězo – prošu – 3 pomazki! 
+žona: Dźakuju so. Sy jara luba. Božemje!",Što Franciska Kralec ćeće da?,"1 3 pomazki 
+2 cyły chlěb 
+3 jednu pomazku",1,listening_A2_1
+A2.1.H02,A2,Lubi hosćo! Bohužel koncert dźensa njebudźe. Spěwarka Madlena Cyžowa je chora. Nowy termin je přichodny štwórtk w awli Šule Ćišinskeho w Pančicach-Kukowje.,Spěwarka je chora.,"1 prawje
+2 wopak",1,listening_A2_2
+A2.1.H7,A2,Witam was wutrobnje na našu gmejnsku zhromadźiznu w Chrósćicach. Dźensa chcu wam plany za nowu dróhu předstajić. Asfalt je stary a dyrbi so saněrować. Za to dyrbimy financy planować.,Wjesnjanosta z Chrósćic wita na wjesny swjedźeń.,"1 prawje
+2 wopak",2,listening_A2_2
+A2.1.H8,A2,"Lubi připosłucharjo! Prěnjeho měrca wočini nowy wobchod w Malešecach. Tam móžeće wot wutory hač do pjatka pjekarske twory, sad a zeleninu, mlokowe twory a tež mjaso a kołbasu kupić.",Póndźelu móžu w Malešecach nakupować.,"1 prawje
+2 wopak",2,listening_A2_2
+A2.1.H9,A2,"Kedźbu! Nětko je přestawka. Tam prědku je tankowanišćo. Tam je tež nuznik. Móžeće tu w busu kofej a ćopłe kołbaski kupić. Kofej płaći 50 centow a ćopłe kołbaski 1,20 €.",Móžemy w busu kofej a kołbaski kupić.,"1 prawje
+2 wopak",1,listening_A2_2
+A2.1.H10,A2,"To je naša nowa sekretarka. Wona rěka Weronika Nowakowa. Tři lěta bě sekretarka na Serbskim gymnaziju w Budyšinje. Wot 1. oktobra dźěła wona tu pola nas w Kulowje. Witajće k nam, knjeni Nowakowa!",Knjeni Nowakowa dźěła wot 1. oktobra w Kulowje.,"1 prawje
+2 wopak",1,listening_A2_2
+A2.1.H11,A2,"Halo Borbora, tu je Hańžka. Ja chcu póndźelu zaso do fitnesoweho studija jěć. Chcu sportować. Přińdźeš sobu? Jutře njejsym doma. Móžemoj pjatk wječor telefonować? Měj so rjenje!",Hdy chce Hańžka sportować? ,"1 jutře 
+2 póndźelu
+3 pjatk",2,listening_A2_3
+A2.1.H12,A2,"Dobry dźeń, Stefanie. Chcemy sobotu wječor do kina hić? Tam běži super-film „Die Friseurin“ z Gabrielu Mariju Šmajdźinej. Wona je Serbowka a bydli w Bremenje. Jeje mać pak bydli w Budyšinje. Božemje!",Hdźe bydli Gabriela Marija Šmajdźina?,"1 w Budyšinje 
+2 w Bremenje 
+3 w Berlinje",2,listening_A2_3
+A2.1.H13,A2,"Halo Kristina, prošu dźi nakupować. Přińdu hakle wječor domoj a chcemy potom pizzu jěsć. Za to trjebamy hišće cyble, salami a twarožk. Najlěpši je gouda, přinjes hnydom 500 gramow. Hač do wječora, moja luba!",Što dyrbi Kristina kupić? ,"1 cyble, salami a gouda 
+2 cyble, salami a twaroh 
+3 tomaty, salami a twarožk",1,listening_A2_3
+A2.1.H14,A2,"Halo, tu je Marja Brězanowa. Mam dźensa termin pola was. Bohužel njemóžu přińć. Moja dźowka je chora. Přichodny štwórtk zaso dźěłam. Maće pjatk swobodny termin? Prošu zazwońće mje na handy. Čisło maće.",Hdy Marja Brězanowa zaso dźěła?,"1 dźensa 
+2 štwórtk 
+3 pjatk",2,listening_A2_3
+A2.1.H15,A2,Halo mama! Tu je Julija. Smy w Drježdźanach. Smy w Semperowej operje byli. Tu je jara rjenje a nětko chcemy hišće do hosćenca. Naši hólcy chcedźa na piwo hić. Mi pak piwo njesłodźi. Piju rady cocktail. Sobotu sym zaso doma.,Hdźe chce Julija hić? ,"1 do Semperoweje opery 
+2 domoj 
+3 do hosćenca",3,listening_A2_3
+A2.1.L01,A2,"Luba Martina, 
+wjele zboža k narodninam. Bohužel njemóžu dźensa popołdnju k tebi na kofej přińć. Dyrbju dźensa dołho dźěłać. Ale sobotu na fetu přińdu. Trjebaš hišće něšto za fetu? Snano wino abo wodu? Napisaj mi, što dyrbju kupić. 
+Lubje strowi Daniela",Martina ma narodniny.,"1 prawje
+2 wopak",1,reading_A2_1
+A2.1.L1,A2,"Luba Martina, 
+wjele zboža k narodninam. Bohužel njemóžu dźensa popołdnju k tebi na kofej přińć. Dyrbju dźensa dołho dźěłać. Ale sobotu na fetu přińdu. Trjebaš hišće něšto za fetu? Snano wino abo wodu? Napisaj mi, što dyrbju kupić. 
+Lubje strowi Daniela",Daniela njepřińdźe na kofej.,"1 prawje
+2 wopak",1,reading_A2_1
+A2.1.L2,A2,"Luba Martina, 
+wjele zboža k narodninam. Bohužel njemóžu dźensa popołdnju k tebi na kofej přińć. Dyrbju dźensa dołho dźěłać. Ale sobotu na fetu přińdu. Trjebaš hišće něšto za fetu? Snano wino abo wodu? Napisaj mi, što dyrbju kupić. 
+Lubje strowi Daniela",Daniela chce piwo kupić.,"1 prawje
+2 wopak",2,reading_A2_1
+A2.1.L3,A2,"Luby knjez Wićazo,
+chceće rady Serbske Nowiny čitać. To nas wjeseli. Poskićimy Wam abonement na jedne lěto. To płaći w ćišćanej wersiji wot póndźele hač do pjatka k Wam domoj 79,20 €. Serbske Nowiny w pdf-formaće płaća 48,00 €.
+Prošu napisajće, što sej přejeće.",Knjez Wićaz chce Serbske Nowiny čitać.,"1 prawje
+2 wopak",1,reading_A2_1
+A2.1.L4,A2,"Luby knjez Wićazo,
+chceće rady Serbske Nowiny čitać. To nas wjeseli. Poskićimy Wam abonement na jedne lěto. To płaći w ćišćanej wersiji wot póndźele hač do pjatka k Wam domoj 79,20 €. Serbske Nowiny w pdf-formaće płaća 48,00 €.
+Prošu napisajće, što sej přejeće.",Serbske Nowiny dóstanjeće wot póndźele hač do soboty,"1 prawje
+2 wopak",2,reading_A2_1
+A2.1.L5,A2,"Luby knjez Wićazo,
+chceće rady Serbske Nowiny čitać. To nas wjeseli. Poskićimy Wam abonement na jedne lěto. To płaći w ćišćanej wersiji wot póndźele hač do pjatka k Wam domoj 79,20 €. Serbske Nowiny w pdf-formaće płaća 48,00 €.
+Prošu napisajće, što sej přejeće.","Abonement jako pdf-ka płaći 79,20 € na lěto.","1 prawje
+2 wopak",2,reading_A2_1
+A2.1.L11,A2,"Bórkowy – moja ródna wjes
+Rěkam Cornelia Pankowa. Sym so w Bórkowach narodźiła a dźensahišće tu bydlu. Sym nětko 36 lět stara a dźěłam jako marketingowasobudźěłaćerka w turistiskim běrowje. Lubuju swoje dźěło a swojudomiznu.
+Bórkowy su idyliska wjes, přez cyłu wjes běži rěka Sprjewja a sodźěli do wjele rěčkow – do znatych Błótow. W lěću je tu přecowjele turistow. Woni čołmikuja, padluja, kolesuja abo sowuchodźuja.
+Ale tež w zymje je tu rjenje. Mamy znatu termu, welnesoweposkitki we wšelakich hotelach, mały muzej a wjele móžnosćowza nakupowanje. Naša gmejna so tež wo kulturne zarjadowanjastara. Mamy tež serbske žiwjenje tu we wsy. Młodźina swjećiw Bórkowach zapust, jutrowny woheń, mejestajenje a kokot.Česćujemy tež delnjoserbsku spisowaćelku Minu Witkojc, kiž jetu bydliła. Kulturny dom – „Dom zetkawanja“ – nosy jeje mjeno.Pola nas mamy tež wjesnu biblioteku a rjanu rumnosć zazarjadowanja.
+Kóžde lěto w septembrje je w Bórkowach wulki wjesny swjedźeń.Na nim předstajeja rjemjeslnicy swoje dźěło a wikowarjo poskićujawšelake twory, jědźe a napoje. Kulturne programy so předstajejaa swjedźenski ćah ze wšelakimi wobrazami ćehnje po wsy.Na tajkich swjedźenjach widźiš přeco wjele žonow a holcoww serbskej narodnej drasće.",Knjeni Pankowa njebydli w Bórkowach.,"1 prawje
+2 wopak",2,reading_A2_3
+A2.1.L12,A2,"Bórkowy – moja ródna wjes
+Rěkam Cornelia Pankowa. Sym so w Bórkowach narodźiła a dźensahišće tu bydlu. Sym nětko 36 lět stara a dźěłam jako marketingowasobudźěłaćerka w turistiskim běrowje. Lubuju swoje dźěło a swojudomiznu.
+Bórkowy su idyliska wjes, přez cyłu wjes běži rěka Sprjewja a sodźěli do wjele rěčkow – do znatych Błótow. W lěću je tu přecowjele turistow. Woni čołmikuja, padluja, kolesuja abo sowuchodźuja.
+Ale tež w zymje je tu rjenje. Mamy znatu termu, welnesoweposkitki we wšelakich hotelach, mały muzej a wjele móžnosćowza nakupowanje. Naša gmejna so tež wo kulturne zarjadowanjastara. Mamy tež serbske žiwjenje tu we wsy. Młodźina swjećiw Bórkowach zapust, jutrowny woheń, mejestajenje a kokot.Česćujemy tež delnjoserbsku spisowaćelku Minu Witkojc, kiž jetu bydliła. Kulturny dom – „Dom zetkawanja“ – nosy jeje mjeno.Pola nas mamy tež wjesnu biblioteku a rjanu rumnosć zazarjadowanja.
+Kóžde lěto w septembrje je w Bórkowach wulki wjesny swjedźeń.Na nim předstajeja rjemjeslnicy swoje dźěło a wikowarjo poskićujawšelake twory, jědźe a napoje. Kulturne programy so předstajejaa swjedźenski ćah ze wšelakimi wobrazami ćehnje po wsy.Na tajkich swjedźenjach widźiš přeco wjele žonow a holcoww serbskej narodnej drasće.",Bórkowy su dźěl Błótow.,"1 prawje
+2 wopak",1,reading_A2_3
+A2.1.L13,A2,"Bórkowy – moja ródna wjes
+Rěkam Cornelia Pankowa. Sym so w Bórkowach narodźiła a dźensahišće tu bydlu. Sym nětko 36 lět stara a dźěłam jako marketingowasobudźěłaćerka w turistiskim běrowje. Lubuju swoje dźěło a swojudomiznu.
+Bórkowy su idyliska wjes, přez cyłu wjes běži rěka Sprjewja a sodźěli do wjele rěčkow – do znatych Błótow. W lěću je tu přecowjele turistow. Woni čołmikuja, padluja, kolesuja abo sowuchodźuja.
+Ale tež w zymje je tu rjenje. Mamy znatu termu, welnesoweposkitki we wšelakich hotelach, mały muzej a wjele móžnosćowza nakupowanje. Naša gmejna so tež wo kulturne zarjadowanjastara. Mamy tež serbske žiwjenje tu we wsy. Młodźina swjećiw Bórkowach zapust, jutrowny woheń, mejestajenje a kokot.Česćujemy tež delnjoserbsku spisowaćelku Minu Witkojc, kiž jetu bydliła. Kulturny dom – „Dom zetkawanja“ – nosy jeje mjeno.Pola nas mamy tež wjesnu biblioteku a rjanu rumnosć zazarjadowanja.
+Kóžde lěto w septembrje je w Bórkowach wulki wjesny swjedźeń.Na nim předstajeja rjemjeslnicy swoje dźěło a wikowarjo poskićujawšelake twory, jědźe a napoje. Kulturne programy so předstajejaa swjedźenski ćah ze wšelakimi wobrazami ćehnje po wsy.Na tajkich swjedźenjach widźiš přeco wjele žonow a holcoww serbskej narodnej drasće.",Knjeni Pankowa dźěła w „Domje zetkawanja“.,"1 prawje
+2 wopak",2,reading_A2_3
+A2.1.L14,A2,"Bórkowy – moja ródna wjes
+Rěkam Cornelia Pankowa. Sym so w Bórkowach narodźiła a dźensahišće tu bydlu. Sym nětko 36 lět stara a dźěłam jako marketingowasobudźěłaćerka w turistiskim běrowje. Lubuju swoje dźěło a swojudomiznu.
+Bórkowy su idyliska wjes, přez cyłu wjes běži rěka Sprjewja a sodźěli do wjele rěčkow – do znatych Błótow. W lěću je tu přecowjele turistow. Woni čołmikuja, padluja, kolesuja abo sowuchodźuja.
+Ale tež w zymje je tu rjenje. Mamy znatu termu, welnesoweposkitki we wšelakich hotelach, mały muzej a wjele móžnosćowza nakupowanje. Naša gmejna so tež wo kulturne zarjadowanjastara. Mamy tež serbske žiwjenje tu we wsy. Młodźina swjećiw Bórkowach zapust, jutrowny woheń, mejestajenje a kokot.Česćujemy tež delnjoserbsku spisowaćelku Minu Witkojc, kiž jetu bydliła. Kulturny dom – „Dom zetkawanja“ – nosy jeje mjeno.Pola nas mamy tež wjesnu biblioteku a rjanu rumnosć zazarjadowanja.
+Kóžde lěto w septembrje je w Bórkowach wulki wjesny swjedźeń.Na nim předstajeja rjemjeslnicy swoje dźěło a wikowarjo poskićujawšelake twory, jědźe a napoje. Kulturne programy so předstajejaa swjedźenski ćah ze wšelakimi wobrazami ćehnje po wsy.Na tajkich swjedźenjach widźiš přeco wjele žonow a holcoww serbskej narodnej drasće.",Kóžde druhe lěto je w Bórkowach wjesny swjedźeń. ,"1 prawje
+2 wopak",2,reading_A2_3
+A2.1.L15,A2,"Bórkowy – moja ródna wjes
+Rěkam Cornelia Pankowa. Sym so w Bórkowach narodźiła a dźensahišće tu bydlu. Sym nětko 36 lět stara a dźěłam jako marketingowasobudźěłaćerka w turistiskim běrowje. Lubuju swoje dźěło a swojudomiznu.
+Bórkowy su idyliska wjes, přez cyłu wjes běži rěka Sprjewja a sodźěli do wjele rěčkow – do znatych Błótow. W lěću je tu přecowjele turistow. Woni čołmikuja, padluja, kolesuja abo sowuchodźuja.
+Ale tež w zymje je tu rjenje. Mamy znatu termu, welnesoweposkitki we wšelakich hotelach, mały muzej a wjele móžnosćowza nakupowanje. Naša gmejna so tež wo kulturne zarjadowanjastara. Mamy tež serbske žiwjenje tu we wsy. Młodźina swjećiw Bórkowach zapust, jutrowny woheń, mejestajenje a kokot.Česćujemy tež delnjoserbsku spisowaćelku Minu Witkojc, kiž jetu bydliła. Kulturny dom – „Dom zetkawanja“ – nosy jeje mjeno.Pola nas mamy tež wjesnu biblioteku a rjanu rumnosć zazarjadowanja.
+Kóžde lěto w septembrje je w Bórkowach wulki wjesny swjedźeń.Na nim předstajeja rjemjeslnicy swoje dźěło a wikowarjo poskićujawšelake twory, jědźe a napoje. Kulturne programy so předstajejaa swjedźenski ćah ze wšelakimi wobrazami ćehnje po wsy.Na tajkich swjedźenjach widźiš přeco wjele žonow a holcoww serbskej narodnej drasće.",Na wjesnym swjedźenju su žony a holcy w serbskej narodnej drasće. ,"1 prawje
+2 wopak",1,reading_A2_3
