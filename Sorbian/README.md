@@ -25,7 +25,7 @@ Note: there are also a few overlapping sentence pairs for the training datasets 
 
 For both languages, the Question Answering datasets come from actual language certification exercises, with minimal format changes. 
 We only release *development* datasets, which correspond to A1-B2 levels, as denoted in the file names. 
-There are more than 300 questions.
+They are available in CSV and JSON formats (same content).
 
 The dataset contains the following columns:
 - `question_id`: the unique ID *per language* (e.g., `A1.1.H3`) composed of the level (e.g., A1), a source identifier (e.g., 1), a question type (e.g., H for listening, L for reading, and S for grammar exercises), and a question number (e.g., 3).

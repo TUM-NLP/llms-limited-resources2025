@@ -21,6 +21,16 @@ Datasets and details about both Upper Sorbian and Lower Sorbian can be found in 
 Datasets and details about Ukrainian can be found in the `Ukrainian` folder. 
 
 
+## Evaluation Methods
+
+We will use **chrF++** to evaluate machine translation and **accuracy** to evaluate question answering.
+
+The final ranking in the leaderboard will consider the scores from MT and QA equally.
+
+For consistency with the previous WMT 2022 Shared Task, we also report BLEU for MT.
+
+
+
 ## Contact / Organisers
 Please join our Google group for further information: https://groups.google.com/g/slavic-llms-mt2025.
 
