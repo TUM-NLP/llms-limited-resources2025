@@ -1,4 +1,4 @@
-# llms-limited-resources2025
+# LLMs with Limited Resources for Slavic Languages
 
 The GitHub repo for the Shared Task on LLMs with Limited Resources for Slavic Languages @ WMT2025 
 
