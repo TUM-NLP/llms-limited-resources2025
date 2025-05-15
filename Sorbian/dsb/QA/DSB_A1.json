@@ -161,7 +161,8 @@
         "context":"Mě se groni Manuela Petrikowa. Ja som ceptaŕka Wašogo syna, Morica. Mójo telefonowe cysło jo: 0355 \/ 485 76 448.",
         "question":"Telefonowe cysło wót kněni Petrikoweje jo ",
         "possible_answers":{
-            "1":"0355 \/ 485 76 448. 2 0355 \/ 485 76 444."
+            "1":"0355 \/ 485 76 448.",
+            "2":"0355 \/ 485 76 444."
         },
         "correct_answer_num":1,
         "question_type":"listening_A1_3"
