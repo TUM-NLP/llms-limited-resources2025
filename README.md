@@ -16,7 +16,7 @@ More practical details on the Shared Task can be found on the official webpage [
 
 
 ## Datasets
-Datasets and details about both Upper Sorbian and Lower Sorbian can be found in the `Sorbian` folder. 
+Datasets and details about both Upper Sorbian and Lower Sorbian can be found in the `Sorbian` folder. We recall that the WMT 2022 datasets (parallel and monolingual data) for Upper and Lower Sorbian MT can be found in [this repository](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/).
 
 Datasets and details about Ukrainian can be found in the `Ukrainian` folder. 
 

@@ -8,7 +8,7 @@ The files follow the same structure for both languages.
 
 Each folder contains training (`train`) and development (`dev`) parallel corpora and monolingual sentences. It must be noted that parallel and monolingual sentences might contain some noisy sentences or sentence pairs.
 
-For both Upper and Lower Sorbian, the training dataset is new compared to the one provided during the WMT 2022 Shared Task, while the development dataset is a combination of both old and new sentence pairs. 
+For both Upper and Lower Sorbian, the training dataset is new compared to the one provided during the WMT 2022 Shared Task, while the development dataset is a combination of both old and new sentence pairs. We recall that the 'older' WMT 2022 datasets (parallel and monolingual data) for Upper and Lower Sorbian MT can be found in [this repository](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/).
 
 The table below presents the number of sentences for each dataset:
 
@@ -33,7 +33,7 @@ The dataset contains the following columns:
 - `context`: the context needed to answer the question, e.g., a text for reading comprehension or a dialogue transcription.
 - `question`: the question to answer
 - `possible_answers`: all the possible answers (each with a numeral and the actual answer; e.g., 1 pšawje
-2 wopak) shown in the exercise; the number of answers depends on the exercise level and number.
+2 wopak) shown in the exercise; **the number of answers depends on the exercise level and number** (up to 16).
 - `correct_answer_num`: the numeral corresponding to the correct answer
 - `question_type`: the ID for the question type (e.g., `listening_B2_3`) composed of the exercise type (e.g., listening comprehension), the exercise level (e.g., B2), and the number of the exercise (e.g., 3); this can help to understand the question types.
 
