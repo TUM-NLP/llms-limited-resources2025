@@ -1,350 +1,350 @@
 [
-    {
-        "question_id":"A2.1.H01",
-        "question_level":"A2",
-        "context":"žeńska: Dobry źeń. Grońśo pšosym, jo how gmejnski amt? \ndruga: Jo, Wy sćo how pšawje. Móžom Wam pomogaś? \nžeńska: Źo źěła kněz Młynk, naš šołta? Cu z nim powědaś. \ndruga: Kněz Młynk, cakajśo pšosym. Se myslim, až jo we rumnosći 34. Jo, to jo pšawje, rumnosć 34. To jo tam slězy nalěwo. \nžeńska: Jo wón źinsa how? \ndruga: To bóžko njewěm. \nžeńska: Derje, ja glědam. Śpa 34. Źěkujom se, na zasejwiźenje!",
-        "question":"W kótarej śpě źěła kněz Młynk?",
-        "possible_answers":{
-            "1":"24 ",
-            "2":"43 ",
-            "3":"34"
-        },
-        "correct_answer_num":3,
-        "question_type":"listening_A2_1"
+  {
+    "question_id": "A2.1.H01",
+    "question_level": "A2",
+    "context": "žeńska: Dobry źeń. Grońśo pšosym, jo how gmejnski amt? \ndruga: Jo, Wy sćo how pšawje. Móžom Wam pomogaś? \nžeńska: Źo źěła kněz Młynk, naš šołta? Cu z nim powědaś. \ndruga: Kněz Młynk, cakajśo pšosym. Se myslim, až jo we rumnosći 34. Jo, to jo pšawje, rumnosć 34. To jo tam slězy nalěwo. \nžeńska: Jo wón źinsa how? \ndruga: To bóžko njewěm. \nžeńska: Derje, ja glědam. Śpa 34. Źěkujom se, na zasejwiźenje!",
+    "question": "W kótarej śpě źěła kněz Młynk?",
+    "possible_answers": {
+      "1": "24",
+      "2": "43",
+      "3": "34"
     },
-    {
-        "question_id":"A2.1.H1",
-        "question_level":"A2",
-        "context":"Anna: Dobry źeń! Bóžko njepowědam hyšći derje serbski. Jo pśi Was kurs serbšćiny? \nsekretarka: Jo, mamy jaden kurs zachopjeńkarjow w Chóśebuzu. Ale tam su južo pśespytowanja. W nazymje zachopijomy nowy kurs. \nAnna: Derje, ja cu rada serbski wuknuś. \nsekretarka: Cośo wy pónjeźele abo wałtoru pśiś? \nAnna: Pónjeźele njamóžom. Cu rad wałtoru pśiś. W nazymje Wy groniśo, jo to w septemberje abo oktoberje? \nsekretarka: W oktoberje. Dostanjośo list z informaciju.",
-        "question":"Ga co Anna na kurs chójźiś?",
-        "possible_answers":{
-            "1":"pónjeźele ",
-            "2":"wałtoru ",
-            "3":"stwórtk"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_A2_1"
+    "correct_answer_num": 3,
+    "question_type": "listening_A2_1"
+  },
+  {
+    "question_id": "A2.1.H1",
+    "question_level": "A2",
+    "context": "Anna: Dobry źeń! Bóžko njepowědam hyšći derje serbski. Jo pśi Was kurs serbšćiny? \nsekretarka: Jo, mamy jaden kurs zachopjeńkarjow w Chóśebuzu. Ale tam su južo pśespytowanja. W nazymje zachopijomy nowy kurs. \nAnna: Derje, ja cu rada serbski wuknuś. \nsekretarka: Cośo wy pónjeźele abo wałtoru pśiś? \nAnna: Pónjeźele njamóžom. Cu rad wałtoru pśiś. W nazymje Wy groniśo, jo to w septemberje abo oktoberje? \nsekretarka: W oktoberje. Dostanjośo list z informaciju.",
+    "question": "Ga co Anna na kurs chójźiś?",
+    "possible_answers": {
+      "1": "pónjeźele",
+      "2": "wałtoru",
+      "3": "stwórtk"
     },
-    {
-        "question_id":"A2.1.H2",
-        "question_level":"A2",
-        "context":"susedka 1: Halo, comy źinsa do kina hyś? \nsusedka 2: To jo pópšawem dobra ideja. Móje źiśi su doma, ale mój muž źinsa njejo doma. Wón źěła w Hamburgu. \nsusedka 1: Ow se wě, to jo škóda. Co wón tam źěła? \nsusedka 2: Pětš jo tam na montažy. Wón jo elektrikaŕ. \nsusedka 1: Jo wón sobotu doma? \nsusedka 2: Jo, sobotu smy wšykne doma. Comy sobotu do kina hyś? \nsusedka 1: Jo, pójźomy na film do nowego chóśebuskego kina „Weltspiegel“. Měj se derje! \nsusedka 2: Až do soboty!",
-        "question":"Źo źěła muž?",
-        "possible_answers":{
-            "1":"w Chóśebuzu ",
-            "2":"w Budyšynje ",
-            "3":"w Hamburgu"
-        },
-        "correct_answer_num":3,
-        "question_type":"listening_A2_1"
+    "correct_answer_num": 2,
+    "question_type": "listening_A2_1"
+  },
+  {
+    "question_id": "A2.1.H2",
+    "question_level": "A2",
+    "context": "susedka 1: Halo, comy źinsa do kina hyś? \nsusedka 2: To jo pópšawem dobra ideja. Móje źiśi su doma, ale mój muž źinsa njejo doma. Wón źěła w Hamburgu. \nsusedka 1: Ow se wě, to jo škóda. Co wón tam źěła? \nsusedka 2: Pětš jo tam na montažy. Wón jo elektrikaŕ. \nsusedka 1: Jo wón sobotu doma? \nsusedka 2: Jo, sobotu smy wšykne doma. Comy sobotu do kina hyś? \nsusedka 1: Jo, pójźomy na film do nowego chóśebuskego kina „Weltspiegel“. Měj se derje! \nsusedka 2: Až do soboty!",
+    "question": "Źo źěła muž?",
+    "possible_answers": {
+      "1": "w Chóśebuzu",
+      "2": "w Budyšynje",
+      "3": "w Hamburgu"
     },
-    {
-        "question_id":"A2.1.H3",
-        "question_level":"A2",
-        "context":"susedka 1: Źinsa jo rědne wjedro, my móžomy wjacor grilowaś. \nsusedka 2: Jo, to jo dobra ideja. Chto pśiźo? \nsusedka 1: Familija Nowakojc, Šmidtojc a my. Ja mam jěšnicki, žonop a ketchup. \nsusedka 2: Prima, co hyšći trjebamy? \nsusedka 1: Guski, klěb, piwo, wino a wódu. Pijom rada cerwjene wino. \nsusedka 2: Derje, jěźom do kupnice. Nakupujom guski a klěb, 10 flašow piwa, 3 flaše wódy a cerwjene wino. Dosega to? \nsusedka 1: Jo, až do wjacora!",
-        "question":"Co susedka rada pijo?",
-        "possible_answers":{
-            "1":"cerwjene wino ",
-            "2":"cerwjeny sekt ",
-            "3":"běłe wino"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_A2_1"
+    "correct_answer_num": 3,
+    "question_type": "listening_A2_1"
+  },
+  {
+    "question_id": "A2.1.H3",
+    "question_level": "A2",
+    "context": "susedka 1: Źinsa jo rědne wjedro, my móžomy wjacor grilowaś. \nsusedka 2: Jo, to jo dobra ideja. Chto pśiźo? \nsusedka 1: Familija Nowakojc, Šmidtojc a my. Ja mam jěšnicki, žonop a ketchup. \nsusedka 2: Prima, co hyšći trjebamy? \nsusedka 1: Guski, klěb, piwo, wino a wódu. Pijom rada cerwjene wino. \nsusedka 2: Derje, jěźom do kupnice. Nakupujom guski a klěb, 10 flašow piwa, 3 flaše wódy a cerwjene wino. Dosega to? \nsusedka 1: Jo, až do wjacora!",
+    "question": "Co susedka rada pijo?",
+    "possible_answers": {
+      "1": "cerwjene wino",
+      "2": "cerwjeny sekt",
+      "3": "běłe wino"
     },
-    {
-        "question_id":"A2.1.H4",
-        "question_level":"A2",
-        "context":"muž: Dobry źeń! Cu se rad na karate pśizjawiś. Jo to móžno? \nžona: Se wě, to jo móžno. Zapišom Was do lisćiny. Kak se Wam groni? \nmuž: Mě se groni Bernd Buchan a bydlim w Chóśebuzu. \nžona: A co źěłaśo? \nmuž: Som rěznik. A źěłam w Picnju. \nžona: Kak stary sćo a kak jo Wašo telefonowe cysło? \nmuž: Som 51 lět stary a mójo telefonowe cysło jo 0355 – 560 731. \nžona: Informěrujomy Was, gaž se nowy kurs zachopijo.",
-        "question":"Kak stary jo kněz Buchan?",
-        "possible_answers":{
-            "1":"32 lět ",
-            "2":"52 lět ",
-            "3":"51 lět"
-        },
-        "correct_answer_num":3,
-        "question_type":"listening_A2_1"
+    "correct_answer_num": 1,
+    "question_type": "listening_A2_1"
+  },
+  {
+    "question_id": "A2.1.H4",
+    "question_level": "A2",
+    "context": "muž: Dobry źeń! Cu se rad na karate pśizjawiś. Jo to móžno? \nžona: Se wě, to jo móžno. Zapišom Was do lisćiny. Kak se Wam groni? \nmuž: Mě se groni Bernd Buchan a bydlim w Chóśebuzu. \nžona: A co źěłaśo? \nmuž: Som rěznik. A źěłam w Picnju. \nžona: Kak stary sćo a kak jo Wašo telefonowe cysło? \nmuž: Som 51 lět stary a mójo telefonowe cysło jo 0355 – 560 731. \nžona: Informěrujomy Was, gaž se nowy kurs zachopijo.",
+    "question": "Kak stary jo kněz Buchan?",
+    "possible_answers": {
+      "1": "32 lět",
+      "2": "52 lět",
+      "3": "51 lět"
     },
-    {
-        "question_id":"A2.1.H5",
-        "question_level":"A2",
-        "context":"žona 1: Halo ... jo to waša źowka tam na grajkanišću? \nžona 2: Jo, to jo naša Klara. A ten gólc tam, jo to waš syn? \nžona 1: Ně, ja mam teke źowku. Naša Helena jo hyšći w šuli. Ja cakam how na Helenu. \nžona 2: Aha, a kak stara jo waša źowka? \nžona 1: Helena jo 7 lět stara. \nžona 2: Pón móžo wóna how wótpołdnja z našeju Klaru grajkaś? \nžona 1: Jo, to źo. Snaź srjodu? \nžona 2: Derje!",
-        "question":"Źo jo Helena?",
-        "possible_answers":{
-            "1":"w źiśowni ",
-            "2":"na grajkanišću ",
-            "3":"w šuli"
-        },
-        "correct_answer_num":3,
-        "question_type":"listening_A2_1"
+    "correct_answer_num": 3,
+    "question_type": "listening_A2_1"
+  },
+  {
+    "question_id": "A2.1.H5",
+    "question_level": "A2",
+    "context": "žona 1: Halo ... jo to waša źowka tam na grajkanišću? \nžona 2: Jo, to jo naša Klara. A ten gólc tam, jo to waš syn? \nžona 1: Ně, ja mam teke źowku. Naša Helena jo hyšći w šuli. Ja cakam how na Helenu. \nžona 2: Aha, a kak stara jo waša źowka? \nžona 1: Helena jo 7 lět stara. \nžona 2: Pón móžo wóna how wótpołdnja z našeju Klaru grajkaś? \nžona 1: Jo, to źo. Snaź srjodu? \nžona 2: Derje!",
+    "question": "Źo jo Helena?",
+    "possible_answers": {
+      "1": "w źiśowni",
+      "2": "na grajkanišću",
+      "3": "w šuli"
     },
-    {
-        "question_id":"A2.1.H6",
-        "question_level":"A2",
-        "context":"student: Dobry źeń! \nźowćo: Witaj, Markus, kak se źo? \nstudent: Derje, Franciska, groń pšosym, jo twója mama doma? \nźowćo: Ně, mama jo z nanom w měsće. Stej nakupowat. Nan trjeba nowe crjeje. \nstudent: Ga pśidu slědk? \nźowćo: Njewěm. Co ty coš, Markus? \nstudent: Njamam wěcej žeden klěb. Daj mě pšosym 3 skiby. Źo to? \nźowćo: Se wě, how pšosym, maš 3 skiby! \nstudent: Źěkujom se! Na zas ʼ wiźenje!",
-        "question":"Wó co pšosy Markus?",
-        "possible_answers":{
-            "1":"3 skiby ",
-            "2":"ceły klěb",
-            "3":"jadnu skibu"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_A2_1"
+    "correct_answer_num": 3,
+    "question_type": "listening_A2_1"
+  },
+  {
+    "question_id": "A2.1.H6",
+    "question_level": "A2",
+    "context": "student: Dobry źeń! \nźowćo: Witaj, Markus, kak se źo? \nstudent: Derje, Franciska, groń pšosym, jo twója mama doma? \nźowćo: Ně, mama jo z nanom w měsće. Stej nakupowat. Nan trjeba nowe crjeje. \nstudent: Ga pśidu slědk? \nźowćo: Njewěm. Co ty coš, Markus? \nstudent: Njamam wěcej žeden klěb. Daj mě pšosym 3 skiby. Źo to? \nźowćo: Se wě, how pšosym, maš 3 skiby! \nstudent: Źěkujom se! Na zas ʼ wiźenje!",
+    "question": "Wó co pšosy Markus?",
+    "possible_answers": {
+      "1": "3 skiby",
+      "2": "ceły klěb",
+      "3": "jadnu skibu"
     },
-    {
-        "question_id":"A2.1.H02",
-        "question_level":"A2",
-        "context":"Lube gósći! Bóžko koncert źinsa njebuźo. Spiwaŕka Marjana Krawcowa jo chóra. Nowy termin jo pśiducy stwórtk w klubowni Serbskego doma.",
-        "question":"Spiwaŕka jo chóra.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_A2_2"
+    "correct_answer_num": 1,
+    "question_type": "listening_A2_1"
+  },
+  {
+    "question_id": "A2.1.H02",
+    "question_level": "A2",
+    "context": "Lube gósći! Bóžko koncert źinsa njebuźo. Spiwaŕka Marjana Krawcowa jo chóra. Nowy termin jo pśiducy stwórtk w klubowni Serbskego doma.",
+    "question": "Spiwaŕka jo chóra.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.H7",
-        "question_level":"A2",
-        "context":"Witam Was wutšobnje na našu lětosnu woklapnicu w Hochozy. Ako pśecej comy bilancu śěgnuś wó slědnem lěśe, wó problemach powědaś, terminy póstajiś a gromaźe głažack wupiś. Teke nowe wobydlarje deje se pśedstajiś.",
-        "question":"Šołta z Hochoze wita na wejsny swěźeń.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_A2_2"
+    "correct_answer_num": 1,
+    "question_type": "listening_A2_2"
+  },
+  {
+    "question_id": "A2.1.H7",
+    "question_level": "A2",
+    "context": "Witam Was wutšobnje na našu lětosnu woklapnicu w Hochozy. Ako pśecej comy bilancu śěgnuś wó slědnem lěśe, wó problemach powědaś, terminy póstajiś a gromaźe głažack wupiś. Teke nowe wobydlarje deje se pśedstajiś.",
+    "question": "Šołta z Hochoze wita na wejsny swěźeń.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.H8",
-        "question_level":"A2",
-        "context":"Lube pśisłucharje! Comy znate cyniś, až 1. měrca wócynijo nowa wejsna pśedawarnja w Strjažowje swóje źurja. Tam móžośo wót wałtory do pětka nakupowaś pjakaŕske wóry, sad a zeleninu, mlokowe wóry ako teke měso a jěšnicu.",
-        "question":"Pónjeźele móžom w Strjažowje nakupowaś.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_A2_2"
+    "correct_answer_num": 2,
+    "question_type": "listening_A2_2"
+  },
+  {
+    "question_id": "A2.1.H8",
+    "question_level": "A2",
+    "context": "Lube pśisłucharje! Comy znate cyniś, až 1. měrca wócynijo nowa wejsna pśedawarnja w Strjažowje swóje źurja. Tam móžośo wót wałtory do pětka nakupowaś pjakaŕske wóry, sad a zeleninu, mlokowe wóry ako teke měso a jěšnicu.",
+    "question": "Pónjeźele móžom w Strjažowje nakupowaś.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.H9",
-        "question_level":"A2",
-        "context":"Lube drogujuce! Něnto jo pśestawka. Tam prězy jo tankowanišćo, tam su teke toalety. Móžośo how w busu kafej a śopłe jěšnicki kupiś. Kafej płaśi 50 centow a śopłe jěšnicki 1,20 €.",
-        "question":"Móžomy w busu kafej a jěšnicki kupiś.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_A2_2"
+    "correct_answer_num": 2,
+    "question_type": "listening_A2_2"
+  },
+  {
+    "question_id": "A2.1.H9",
+    "question_level": "A2",
+    "context": "Lube drogujuce! Něnto jo pśestawka. Tam prězy jo tankowanišćo, tam su teke toalety. Móžośo how w busu kafej a śopłe jěšnicki kupiś. Kafej płaśi 50 centow a śopłe jěšnicki 1,20 €.",
+    "question": "Móžomy w busu kafej a jěšnicki kupiś.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.H10",
-        "question_level":"A2",
-        "context":"To jo naša nowa sekretaŕka. Jej se groni Weronika Nowakowa. Tśi lěta jo kněni Nowakowa źěłała ako sekretaŕka na Serbskem gymnaziumje w Chóśebuzu. Wót 1. oktobra źěła wóna how pśi nas w Baršću. Witajśo k nam, kněni Nowakowa!",
-        "question":"Kněni Nowakowa źěła wót 1. oktobra w Baršću.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_A2_2"
+    "correct_answer_num": 1,
+    "question_type": "listening_A2_2"
+  },
+  {
+    "question_id": "A2.1.H10",
+    "question_level": "A2",
+    "context": "To jo naša nowa sekretaŕka. Jej se groni Weronika Nowakowa. Tśi lěta jo kněni Nowakowa źěłała ako sekretaŕka na Serbskem gymnaziumje w Chóśebuzu. Wót 1. oktobra źěła wóna how pśi nas w Baršću. Witajśo k nam, kněni Nowakowa!",
+    "question": "Kněni Nowakowa źěła wót 1. oktobra w Baršću.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.H11",
-        "question_level":"A2",
-        "context":"Halo, Barbara, how jo Milena. Ja cu pónjeźele zasej raz do fitnesowego studija. Cu sportowaś. Pśiźoš sobu? Witśe njejsom doma. Comy pětk wjacor telefoněrowaś? Měj se derje!",
-        "question":"Ga co Milena sportowaś?",
-        "possible_answers":{
-            "1":"witśe ",
-            "2":"pónjeźele ",
-            "3":"pětk"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_A2_3"
+    "correct_answer_num": 1,
+    "question_type": "listening_A2_2"
+  },
+  {
+    "question_id": "A2.1.H11",
+    "question_level": "A2",
+    "context": "Halo, Barbara, how jo Milena. Ja cu pónjeźele zasej raz do fitnesowego studija. Cu sportowaś. Pśiźoš sobu? Witśe njejsom doma. Comy pětk wjacor telefoněrowaś? Měj se derje!",
+    "question": "Ga co Milena sportowaś?",
+    "possible_answers": {
+      "1": "witśe",
+      "2": "pónjeźele",
+      "3": "pětk"
     },
-    {
-        "question_id":"A2.1.H12",
-        "question_level":"A2",
-        "context":"Dobry źeń, Stefanie. Comy sobotu wjacor do kina hyś? Pśiźo super-film „Die Friseurin“ z Gabrielu Mariju Šmajdźineju. Wóna jo Serbowka a bydli w Bremenje. Jeje mama pak hyšći bydli w Budyšinje. Na zasejwiźenje!",
-        "question":"Źo bydli Gabriela Marija Šmajdźinowa? ",
-        "possible_answers":{
-            "1":"w Budyšynje ",
-            "2":"w Bremenje ",
-            "3":"w Barlinju"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_A2_3"
+    "correct_answer_num": 2,
+    "question_type": "listening_A2_3"
+  },
+  {
+    "question_id": "A2.1.H12",
+    "question_level": "A2",
+    "context": "Dobry źeń, Stefanie. Comy sobotu wjacor do kina hyś? Pśiźo super-film „Die Friseurin“ z Gabrielu Mariju Šmajdźineju. Wóna jo Serbowka a bydli w Bremenje. Jeje mama pak hyšći bydli w Budyšinje. Na zasejwiźenje!",
+    "question": "Źo bydli Gabriela Marija Šmajdźinowa?",
+    "possible_answers": {
+      "1": "w Budyšynje",
+      "2": "w Bremenje",
+      "3": "w Barlinju"
     },
-    {
-        "question_id":"A2.1.H13",
-        "question_level":"A2",
-        "context":"Halo, Kristina, jěź pšosym do kupnice! Pśiźom akle wjacor domoj a na wjacerju comy pizzu pjac. Za to trjebamy cybule, salami a twarožk. Dobry twarožk jo gouda, kup ned 500 gramow. Až do wjacora!",
-        "question":"Co dej Kristina kupiś? ",
-        "possible_answers":{
-            "1":"cybule, salami a gouda ",
-            "2":"cyble, salami a twarog ",
-            "3":"tomaty, salami a twarožk"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_A2_3"
+    "correct_answer_num": 2,
+    "question_type": "listening_A2_3"
+  },
+  {
+    "question_id": "A2.1.H13",
+    "question_level": "A2",
+    "context": "Halo, Kristina, jěź pšosym do kupnice! Pśiźom akle wjacor domoj a na wjacerju comy pizzu pjac. Za to trjebamy cybule, salami a twarožk. Dobry twarožk jo gouda, kup ned 500 gramow. Až do wjacora!",
+    "question": "Co dej Kristina kupiś?",
+    "possible_answers": {
+      "1": "cybule, salami a gouda",
+      "2": "cyble, salami a twarog",
+      "3": "tomaty, salami a twarožk"
     },
-    {
-        "question_id":"A2.1.H14",
-        "question_level":"A2",
-        "context":"Halo, how jo Anja Budarjowa. Mam źinsa termin pśi was. Bóžko njamóžom pśiś. Mója źowka jo chóra. Pśiducy stwórtk zasej źěłam. Maśo pětk lichy termin? Zazwóńśo pšosym na mój handy. Cysło maśo.",
-        "question":"Ga kn. Budarjowa zasej źěła? ",
-        "possible_answers":{
-            "1":"źinsa ",
-            "2":"stwórtk ",
-            "3":"pětk"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_A2_3"
+    "correct_answer_num": 1,
+    "question_type": "listening_A2_3"
+  },
+  {
+    "question_id": "A2.1.H14",
+    "question_level": "A2",
+    "context": "Halo, how jo Anja Budarjowa. Mam źinsa termin pśi was. Bóžko njamóžom pśiś. Mója źowka jo chóra. Pśiducy stwórtk zasej źěłam. Maśo pětk lichy termin? Zazwóńśo pšosym na mój handy. Cysło maśo.",
+    "question": "Ga kn. Budarjowa zasej źěła?",
+    "possible_answers": {
+      "1": "źinsa",
+      "2": "stwórtk",
+      "3": "pětk"
     },
-    {
-        "question_id":"A2.1.H15",
-        "question_level":"A2",
-        "context":"Halo, mama! How jo Julija. Smy w Drježdźanach. Smy byli w Semperowej operje. Nam se how wjelgin spódoba. Něnto comy hyšći do gósćeńca. Naše gólcy kśě na piwo, ale ty ga wěš, až mě piwo njesłoźi. Pijom rada coktail. Sobotu som zasej doma.",
-        "question":"Źo co Julija hyś? ",
-        "possible_answers":{
-            "1":"do Semperoweje opery ",
-            "2":"domoj ",
-            "3":"do gósćeńca"
-        },
-        "correct_answer_num":3,
-        "question_type":"listening_A2_3"
+    "correct_answer_num": 2,
+    "question_type": "listening_A2_3"
+  },
+  {
+    "question_id": "A2.1.H15",
+    "question_level": "A2",
+    "context": "Halo, mama! How jo Julija. Smy w Drježdźanach. Smy byli w Semperowej operje. Nam se how wjelgin spódoba. Něnto comy hyšći do gósćeńca. Naše gólcy kśě na piwo, ale ty ga wěš, až mě piwo njesłoźi. Pijom rada coktail. Sobotu som zasej doma.",
+    "question": "Źo co Julija hyś?",
+    "possible_answers": {
+      "1": "do Semperoweje opery",
+      "2": "domoj",
+      "3": "do gósćeńca"
     },
-    {
-        "question_id":"A2.1.L01",
-        "question_level":"A2",
-        "context":"Luba Martina, \nwjele gluki k narodninam. \nBóžko źinsa njamóžom wótpołdnja k tebje na kafej pśiś. Dejm źinsa dłujko źěłaś. Ale sobotu na fetu pśiźom. Trjebaš hyšći něco za fetu? Wino abo wódu? Groń, gaž dejm něco kupiś. \nLubje strowi Daniela",
-        "question":"Martina ma narodniny.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"reading_A2_1"
+    "correct_answer_num": 3,
+    "question_type": "listening_A2_3"
+  },
+  {
+    "question_id": "A2.1.L01",
+    "question_level": "A2",
+    "context": "Luba Martina, \nwjele gluki k narodninam. \nBóžko źinsa njamóžom wótpołdnja k tebje na kafej pśiś. Dejm źinsa dłujko źěłaś. Ale sobotu na fetu pśiźom. Trjebaš hyšći něco za fetu? Wino abo wódu? Groń, gaž dejm něco kupiś. \nLubje strowi Daniela",
+    "question": "Martina ma narodniny.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L1",
-        "question_level":"A2",
-        "context":"Luba Martina, \nwjele gluki k narodninam. \nBóžko źinsa njamóžom wótpołdnja k tebje na kafej pśiś. Dejm źinsa dłujko źěłaś. Ale sobotu na fetu pśiźom. Trjebaš hyšći něco za fetu? Wino abo wódu? Groń, gaž dejm něco kupiś. \nLubje strowi Daniela",
-        "question":"Daniela njepśiźo na kafej.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"reading_A2_1"
+    "correct_answer_num": 1,
+    "question_type": "reading_A2_1"
+  },
+  {
+    "question_id": "A2.1.L1",
+    "question_level": "A2",
+    "context": "Luba Martina, \nwjele gluki k narodninam. \nBóžko źinsa njamóžom wótpołdnja k tebje na kafej pśiś. Dejm źinsa dłujko źěłaś. Ale sobotu na fetu pśiźom. Trjebaš hyšći něco za fetu? Wino abo wódu? Groń, gaž dejm něco kupiś. \nLubje strowi Daniela",
+    "question": "Daniela njepśiźo na kafej.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L2",
-        "question_level":"A2",
-        "context":"Luba Martina, \nwjele gluki k narodninam. \nBóžko źinsa njamóžom wótpołdnja k tebje na kafej pśiś. Dejm źinsa dłujko źěłaś. Ale sobotu na fetu pśiźom. Trjebaš hyšći něco za fetu? Wino abo wódu? Groń, gaž dejm něco kupiś. \nLubje strowi Daniela",
-        "question":"Daniela co piwo kupiś.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_A2_1"
+    "correct_answer_num": 1,
+    "question_type": "reading_A2_1"
+  },
+  {
+    "question_id": "A2.1.L2",
+    "question_level": "A2",
+    "context": "Luba Martina, \nwjele gluki k narodninam. \nBóžko źinsa njamóžom wótpołdnja k tebje na kafej pśiś. Dejm źinsa dłujko źěłaś. Ale sobotu na fetu pśiźom. Trjebaš hyšći něco za fetu? Wino abo wódu? Groń, gaž dejm něco kupiś. \nLubje strowi Daniela",
+    "question": "Daniela co piwo kupiś.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L3",
-        "question_level":"A2",
-        "context":"Luby kněz Šmidt! \nWy cośo rad Nowy Casnik cytaś. To nas wjaseli. Pósrědnijomy Wam abonement za jadno lěto. Nowy Casnik pśiźo kuždy tyźeń. Śišćana wersija płaśi 24,00 €. Gaž cośo Nowy Casnik online ako pdf-dataju cytaś, płaśi to 13,20 €. Pšosym napišćo, co sebje žycyśo. \nWutšobnje strowi \nredakcija",
-        "question":"Kněz Šmidt co Nowy Casnik cytaś.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"reading_A2_1"
+    "correct_answer_num": 2,
+    "question_type": "reading_A2_1"
+  },
+  {
+    "question_id": "A2.1.L3",
+    "question_level": "A2",
+    "context": "Luby kněz Šmidt! \nWy cośo rad Nowy Casnik cytaś. To nas wjaseli. Pósrědnijomy Wam abonement za jadno lěto. Nowy Casnik pśiźo kuždy tyźeń. Śišćana wersija płaśi 24,00 €. Gaž cośo Nowy Casnik online ako pdf-dataju cytaś, płaśi to 13,20 €. Pšosym napišćo, co sebje žycyśo. \nWutšobnje strowi \nredakcija",
+    "question": "Kněz Šmidt co Nowy Casnik cytaś.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L4",
-        "question_level":"A2",
-        "context":"Luby kněz Šmidt! \nWy cośo rad Nowy Casnik cytaś. To nas wjaseli. Pósrědnijomy Wam abonement za jadno lěto. Nowy Casnik pśiźo kuždy tyźeń. Śišćana wersija płaśi 24,00 €. Gaž cośo Nowy Casnik online ako pdf-dataju cytaś, płaśi to 13,20 €. Pšosym napišćo, co sebje žycyśo. \nWutšobnje strowi \nredakcija",
-        "question":"Nowy Casnik dostanjośo kuždy mjasec.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_A2_1"
+    "correct_answer_num": 1,
+    "question_type": "reading_A2_1"
+  },
+  {
+    "question_id": "A2.1.L4",
+    "question_level": "A2",
+    "context": "Luby kněz Šmidt! \nWy cośo rad Nowy Casnik cytaś. To nas wjaseli. Pósrědnijomy Wam abonement za jadno lěto. Nowy Casnik pśiźo kuždy tyźeń. Śišćana wersija płaśi 24,00 €. Gaž cośo Nowy Casnik online ako pdf-dataju cytaś, płaśi to 13,20 €. Pšosym napišćo, co sebje žycyśo. \nWutšobnje strowi \nredakcija",
+    "question": "Nowy Casnik dostanjośo kuždy mjasec.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L5",
-        "question_level":"A2",
-        "context":"Luby kněz Šmidt! \nWy cośo rad Nowy Casnik cytaś. To nas wjaseli. Pósrědnijomy Wam abonement za jadno lěto. Nowy Casnik pśiźo kuždy tyźeń. Śišćana wersija płaśi 24,00 €. Gaž cośo Nowy Casnik online ako pdf-dataju cytaś, płaśi to 13,20 €. Pšosym napišćo, co sebje žycyśo. \nWutšobnje strowi \nredakcija",
-        "question":"Online wersija płaśi 24,00 € na lěto. ",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_A2_1"
+    "correct_answer_num": 2,
+    "question_type": "reading_A2_1"
+  },
+  {
+    "question_id": "A2.1.L5",
+    "question_level": "A2",
+    "context": "Luby kněz Šmidt! \nWy cośo rad Nowy Casnik cytaś. To nas wjaseli. Pósrědnijomy Wam abonement za jadno lěto. Nowy Casnik pśiźo kuždy tyźeń. Śišćana wersija płaśi 24,00 €. Gaž cośo Nowy Casnik online ako pdf-dataju cytaś, płaśi to 13,20 €. Pšosym napišćo, co sebje žycyśo. \nWutšobnje strowi \nredakcija",
+    "question": "Online wersija płaśi 24,00 € na lěto.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L11",
-        "question_level":"A2",
-        "context":"Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
-        "question":"Kněni Bóśonowa njebydli w Bórkowach.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_A2_3"
+    "correct_answer_num": 2,
+    "question_type": "reading_A2_1"
+  },
+  {
+    "question_id": "A2.1.L11",
+    "question_level": "A2",
+    "context": "Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
+    "question": "Kněni Bóśonowa njebydli w Bórkowach.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L12",
-        "question_level":"A2",
-        "context":"Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
-        "question":"Bórkowy su źěl Błotow.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"reading_A2_3"
+    "correct_answer_num": 2,
+    "question_type": "reading_A2_3"
+  },
+  {
+    "question_id": "A2.1.L12",
+    "question_level": "A2",
+    "context": "Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
+    "question": "Bórkowy su źěl Błotow.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L13",
-        "question_level":"A2",
-        "context":"Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
-        "question":"Kněni Bóśonowa źěła w Domje zmakanjow.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_A2_3"
+    "correct_answer_num": 1,
+    "question_type": "reading_A2_3"
+  },
+  {
+    "question_id": "A2.1.L13",
+    "question_level": "A2",
+    "context": "Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
+    "question": "Kněni Bóśonowa źěła w Domje zmakanjow.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L14",
-        "question_level":"A2",
-        "context":"Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
-        "question":"Kužde druge lěto jo w Bórkowach wejsny swěźeń. ",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_A2_3"
+    "correct_answer_num": 2,
+    "question_type": "reading_A2_3"
+  },
+  {
+    "question_id": "A2.1.L14",
+    "question_level": "A2",
+    "context": "Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
+    "question": "Kužde druge lěto jo w Bórkowach wejsny swěźeń.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"A2.1.L15",
-        "question_level":"A2",
-        "context":"Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
-        "question":"Bórkojske źowća nose raźi serbsku drastwu.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"reading_A2_3"
-    }
+    "correct_answer_num": 2,
+    "question_type": "reading_A2_3"
+  },
+  {
+    "question_id": "A2.1.L15",
+    "question_level": "A2",
+    "context": "Bórkowy – mója rodna wjas\nMě se groni Cornelia Bóśonowa. Ja som se naroźiła w Bórkowach a hyšći źinsa how bydlim. Som něnto 36 lět stara a som sobuźěłaśeŕka marketinga w turistiskem běrowje. Lubujom swójo źěło a swóju domownju. Bórkowy su idyliska wjas, pśez cełu wjas běžy rěka Sprjewja a se źěli do wjele rěckow a tšugow – do znatych Błotow. W lěśu jo how pśecej mań turistow. Wóni cołnuju, padluju, kólasuju abo se wuchójźuju. Ale teke w zymje jo how rědnje. Mamy znatu termu, we wšakich hotelach welnes pórucenja, mały muzeum a wjele móžnosćow za nakupowanje. Naša gmejna se teke stara wó kulturne zarědowanja. A což serbske žywjenje nastupa, swěśi młoźina w Bórkowach zapust, jatšowny wogeń, stajanje majskego boma a kokot. Bórkowy teke cesće serbsku spisowaśelku Minu Witkojc, ako jo how bydliła. Kulturny dom – Dom zmakanjow – nosy jeje mě. How teke namakajomy wejsnu biblioteku a rědnu rumnosć za zarědowanja. Kužde lěto w septemberje jo w Bórkowach wjeliki wejsny swěźeń, na njom pśedstajaju rucnikarje swójo źěło, póbituju lody a wobchody swóje wóry, se pokazuju kulturne programy a casy jo teke pśeśěg pśez wjas ze wšakorakimi wobrazami. Pśi takich swěźenjach jo pśecej wiźeś wjele serbskich drastwow.",
+    "question": "Bórkojske źowća nose raźi serbsku drastwu.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
+    },
+    "correct_answer_num": 1,
+    "question_type": "reading_A2_3"
+  }
 ]

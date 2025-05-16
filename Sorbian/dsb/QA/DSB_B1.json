@@ -1,760 +1,760 @@
 [
-    {
-        "question_id":"B1.1.H1",
-        "question_level":"B1",
-        "context":"W Serbskem muzeju w Chóśebuzu jo se wótwóriła nowa wustajeńca. Njejo to tenraz tradicionelna serbska wustajeńca, ale zajmna prezentacija wuměłskich fotografijow domacnych zwěrjetow, wósebnje ptaškow. Su to kšasne wobraze, ako jo něgajšny absolwent Dolnoserbskego gymnaziuma a lubowaŕ pśirody wótmólował. Na wótwórjenju pětk wjacor jo zasej było wjele luźi.",
-        "question":"Stwórtk wjacor jo było wótwórjenje noweje wustajeńce.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_B1_1"
+  {
+    "question_id": "B1.1.H1",
+    "question_level": "B1",
+    "context": "W Serbskem muzeju w Chóśebuzu jo se wótwóriła nowa wustajeńca. Njejo to tenraz tradicionelna serbska wustajeńca, ale zajmna prezentacija wuměłskich fotografijow domacnych zwěrjetow, wósebnje ptaškow. Su to kšasne wobraze, ako jo něgajšny absolwent Dolnoserbskego gymnaziuma a lubowaŕ pśirody wótmólował. Na wótwórjenju pětk wjacor jo zasej było wjele luźi.",
+    "question": "Stwórtk wjacor jo było wótwórjenje noweje wustajeńce.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"B1.1.H2",
-        "question_level":"B1",
-        "context":"Luźe pśecej južo njesćerpnje cakaju na nowy program Šule za dolnoserbsku rěc a kulturu. Šula wudawa jen kužde lěto w nalěśu a nazymje. Někotare kśě se wobźěliś na rěcnych kursach, druge na zajmnych pśednoskach, zasej druge kśě raźi sobu jěś na woblubowane ekskursije. A młoźina rada nawuknjo, kak se serbska drastwa pšawje wobleka.",
-        "question":"Program Šule za dolnoserbsku rěc a kulturu wuchada jano w nazymje.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_B1_1"
+    "correct_answer_num": 2,
+    "question_type": "listening_B1_1"
+  },
+  {
+    "question_id": "B1.1.H2",
+    "question_level": "B1",
+    "context": "Luźe pśecej južo njesćerpnje cakaju na nowy program Šule za dolnoserbsku rěc a kulturu. Šula wudawa jen kužde lěto w nalěśu a nazymje. Někotare kśě se wobźěliś na rěcnych kursach, druge na zajmnych pśednoskach, zasej druge kśě raźi sobu jěś na woblubowane ekskursije. A młoźina rada nawuknjo, kak se serbska drastwa pšawje wobleka.",
+    "question": "Program Šule za dolnoserbsku rěc a kulturu wuchada jano w nazymje.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"B1.1.H3",
-        "question_level":"B1",
-        "context":"Luźe we Łužycy rad swój narodny źeń swěśe. Ale to njegótuju jano priwatnje. Kuždy źeń wózjawijo Serbske radijo na kóńcu swójogo wusćełanja mjenja narodninaŕkow a narodninarjow. Jubilaŕkam a jubilaram sćelu towaristwa, Domowinske kupki abo swójźbne wutšobne glukužycenja. Narske cakaju druge pśisłu- charje na mjenja burstakarjow, aby mógali jim teke gratulěrowaś. Wósebnje rědnje jo, gaž něchten ma kulowaty jubilej.",
-        "question":"Serbske radijo gratulěrujo narodninarjam a narodninaŕkam.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_B1_1"
+    "correct_answer_num": 2,
+    "question_type": "listening_B1_1"
+  },
+  {
+    "question_id": "B1.1.H3",
+    "question_level": "B1",
+    "context": "Luźe we Łužycy rad swój narodny źeń swěśe. Ale to njegótuju jano priwatnje. Kuždy źeń wózjawijo Serbske radijo na kóńcu swójogo wusćełanja mjenja narodninaŕkow a narodninarjow. Jubilaŕkam a jubilaram sćelu towaristwa, Domowinske kupki abo swójźbne wutšobne glukužycenja. Narske cakaju druge pśisłu- charje na mjenja burstakarjow, aby mógali jim teke gratulěrowaś. Wósebnje rědnje jo, gaž něchten ma kulowaty jubilej.",
+    "question": "Serbske radijo gratulěrujo narodninarjam a narodninaŕkam.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"B1.1.H4",
-        "question_level":"B1",
-        "context":"W lěśojskich tyźenjach w Dolnej Łužycy kokota łapaju. Na Górach a w Smogorjowje młoźina woplěwa nałog zabijanja kokota, a w Nowej Niwje rejtuju wó kołac. Źowća woblekaju se swóju rědnu serbsku swěźeńsku drastwu. W někotarych jsach wita młoźina swójich gósći w serbskej rěcy. Raźi luźe zbliska a zdaloka woglěduju se žnjowne nałogi w Dolnej Łužycy.",
-        "question":"Młoźina w Dolnej Łužycy woplěwa wšake žnjowne nałogi.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_B1_1"
+    "correct_answer_num": 1,
+    "question_type": "listening_B1_1"
+  },
+  {
+    "question_id": "B1.1.H4",
+    "question_level": "B1",
+    "context": "W lěśojskich tyźenjach w Dolnej Łužycy kokota łapaju. Na Górach a w Smogorjowje młoźina woplěwa nałog zabijanja kokota, a w Nowej Niwje rejtuju wó kołac. Źowća woblekaju se swóju rědnu serbsku swěźeńsku drastwu. W někotarych jsach wita młoźina swójich gósći w serbskej rěcy. Raźi luźe zbliska a zdaloka woglěduju se žnjowne nałogi w Dolnej Łužycy.",
+    "question": "Młoźina w Dolnej Łužycy woplěwa wšake žnjowne nałogi.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"B1.1.H5",
-        "question_level":"B1",
-        "context":"Telewizny sćelak ZDF jo nagrawał sceny ze žywjenja wjercha Hermanna von Pücklera, kenž jo załožył znatej parka w Rogeńcu, blisko Chóśebuza, a w Mužakowje w srjejźnej Łužycy. Filmowali su we wobyma parkoma. Stephan Grossmann, znaty grajaŕ, jo w historiskem kostimje grał wósobu Pücklera. Nagrawanja su źěl woblubowanego telewiznego wusćełanja „Terra X”.",
-        "question":"Wjerch H. v. Pückler jo załožył město Chóśebuz.",
-        "possible_answers":{
-            "1":"pšawje",
-            "2":"wopak"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_B1_1"
+    "correct_answer_num": 1,
+    "question_type": "listening_B1_1"
+  },
+  {
+    "question_id": "B1.1.H5",
+    "question_level": "B1",
+    "context": "Telewizny sćelak ZDF jo nagrawał sceny ze žywjenja wjercha Hermanna von Pücklera, kenž jo załožył znatej parka w Rogeńcu, blisko Chóśebuza, a w Mužakowje w srjejźnej Łužycy. Filmowali su we wobyma parkoma. Stephan Grossmann, znaty grajaŕ, jo w historiskem kostimje grał wósobu Pücklera. Nagrawanja su źěl woblubowanego telewiznego wusćełanja „Terra X”.",
+    "question": "Wjerch H. v. Pückler jo załožył město Chóśebuz.",
+    "possible_answers": {
+      "1": "pšawje",
+      "2": "wopak"
     },
-    {
-        "question_id":"B1.1.H16",
-        "question_level":"B1",
-        "context":"We Wětošowje jo se załožyło nowe towaristwo z rědnym mjenim „Tyca”. Cłonki su WITAJ-wótkubłaŕki, ceptaŕki a ceptarje serbšćiny a sympatizanty WITAJ-gibanja. Wóni pódpěruju wšykne WITAJ-iniciatiwy. Towaristwo pomoga na pśikład pśi projektowych dnjach, pśi camprowanju, nazymskem swěźenju abo gódownem bazarje. Towaristwo pśepšosujo teke wósebnje starjejšych a gósći na swóje zarědowanja.",
-        "question":"Kótare mě nosy nowe towaristwo we Wětošowje?",
-        "possible_answers":{
-            "1":"„WITAJ” ",
-            "2":"„Tyca” ",
-            "3":"„Serbšćina”"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_B1_3"
+    "correct_answer_num": 2,
+    "question_type": "listening_B1_1"
+  },
+  {
+    "question_id": "B1.1.H16",
+    "question_level": "B1",
+    "context": "We Wětošowje jo se załožyło nowe towaristwo z rědnym mjenim „Tyca”. Cłonki su WITAJ-wótkubłaŕki, ceptaŕki a ceptarje serbšćiny a sympatizanty WITAJ-gibanja. Wóni pódpěruju wšykne WITAJ-iniciatiwy. Towaristwo pomoga na pśikład pśi projektowych dnjach, pśi camprowanju, nazymskem swěźenju abo gódownem bazarje. Towaristwo pśepšosujo teke wósebnje starjejšych a gósći na swóje zarědowanja.",
+    "question": "Kótare mě nosy nowe towaristwo we Wětošowje?",
+    "possible_answers": {
+      "1": "„WITAJ”",
+      "2": "„Tyca”",
+      "3": "„Serbšćina”"
     },
-    {
-        "question_id":"B1.1.H17",
-        "question_level":"B1",
-        "context":"Mjazy dolnoserbskeju gmejnu Drjenow a pólskeju gmejnu Ochla wobstoj wuske pśijaśelstwo. Tak organizěruju južo dwaźasća lět pšawidłownje zmakanja we Łužycy abo w Pólskej. Pśi tom se wognjowa wobora wuběgujo abo chory z wobeju gmejnowu zgromadnje spiwaju. W lěśu se pśijaśele z Pólskeje teke raźi wobźěluju na žnjownych nałogach w Drjenowje.",
-        "question":"Wjele lět wobstoj partnaŕstwo mjazy Drjenowom a Ochlu?",
-        "possible_answers":{
-            "1":"20 lět ",
-            "2":"25 lět ",
-            "3":"12 lět"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_B1_3"
+    "correct_answer_num": 2,
+    "question_type": "listening_B1_3"
+  },
+  {
+    "question_id": "B1.1.H17",
+    "question_level": "B1",
+    "context": "Mjazy dolnoserbskeju gmejnu Drjenow a pólskeju gmejnu Ochla wobstoj wuske pśijaśelstwo. Tak organizěruju južo dwaźasća lět pšawidłownje zmakanja we Łužycy abo w Pólskej. Pśi tom se wognjowa wobora wuběgujo abo chory z wobeju gmejnowu zgromadnje spiwaju. W lěśu se pśijaśele z Pólskeje teke raźi wobźěluju na žnjownych nałogach w Drjenowje.",
+    "question": "Wjele lět wobstoj partnaŕstwo mjazy Drjenowom a Ochlu?",
+    "possible_answers": {
+      "1": "20 lět",
+      "2": "25 lět",
+      "3": "12 lět"
     },
-    {
-        "question_id":"B1.1.H18",
-        "question_level":"B1",
-        "context":"Młode rucnikarje raźi na wšakich městnach w tu- a wukraju pówołańske nazgónjenja zběraju. Pó tśich takich wandraŕskich lětach jo se młody kšylc zasej wrośił do swójeje domownje – do Janšojc w Dolnej Łužycy. Młody Patrik jo póbył w Nimskej, Awstriskej, Šwicarskej, Špańskej a samo w pódpołdnjowej Americe. Janšojska młoźina jo jogo wutšobnje domoj witała z toflu, na kótarejž jo sta- jało: „Witaj slědk, Paddy!”",
-        "question":"Wótkul póchada młody kšylc?",
-        "possible_answers":{
-            "1":"ze Šwicarskeje ",
-            "2":"ze Špańskeje ",
-            "3":"z Łužyce"
-        },
-        "correct_answer_num":3,
-        "question_type":"listening_B1_3"
+    "correct_answer_num": 1,
+    "question_type": "listening_B1_3"
+  },
+  {
+    "question_id": "B1.1.H18",
+    "question_level": "B1",
+    "context": "Młode rucnikarje raźi na wšakich městnach w tu- a wukraju pówołańske nazgónjenja zběraju. Pó tśich takich wandraŕskich lětach jo se młody kšylc zasej wrośił do swójeje domownje – do Janšojc w Dolnej Łužycy. Młody Patrik jo póbył w Nimskej, Awstriskej, Šwicarskej, Špańskej a samo w pódpołdnjowej Americe. Janšojska młoźina jo jogo wutšobnje domoj witała z toflu, na kótarejž jo sta- jało: „Witaj slědk, Paddy!”",
+    "question": "Wótkul póchada młody kšylc?",
+    "possible_answers": {
+      "1": "ze Šwicarskeje",
+      "2": "ze Špańskeje",
+      "3": "z Łužyce"
     },
-    {
-        "question_id":"B1.1.H19",
-        "question_level":"B1",
-        "context":"Pśecej drugi stwórtk w mjasecu ma serbske radio w rbb wósebny programowy źěl za młodše pśisłuchaŕki a młodšych pśisłucharjow. To jo wusćełanje „Bubak”. W njom młodostne pśedstajaju zajmne tšojenja, nowu muziku, interesantne wósoby abo krotke literarne teksty, wótergi samo swójske. Młode redaktorki a redaktory su studentki abo studenty z Lipska abo wuknice a wukniki Dolnoserbskego gymnaziuma.",
-        "question":"Ga pśiźo młoźinski program “Bubak” w serbskem programje rbb?",
-        "possible_answers":{
-            "1":"kuždy stwórtk ",
-            "2":"kuždy drugi stwórtk w mjasecu ",
-            "3":"kuždy drugi mjasec"
-        },
-        "correct_answer_num":2,
-        "question_type":"listening_B1_3"
+    "correct_answer_num": 3,
+    "question_type": "listening_B1_3"
+  },
+  {
+    "question_id": "B1.1.H19",
+    "question_level": "B1",
+    "context": "Pśecej drugi stwórtk w mjasecu ma serbske radio w rbb wósebny programowy źěl za młodše pśisłuchaŕki a młodšych pśisłucharjow. To jo wusćełanje „Bubak”. W njom młodostne pśedstajaju zajmne tšojenja, nowu muziku, interesantne wósoby abo krotke literarne teksty, wótergi samo swójske. Młode redaktorki a redaktory su studentki abo studenty z Lipska abo wuknice a wukniki Dolnoserbskego gymnaziuma.",
+    "question": "Ga pśiźo młoźinski program “Bubak” w serbskem programje rbb?",
+    "possible_answers": {
+      "1": "kuždy stwórtk",
+      "2": "kuždy drugi stwórtk w mjasecu",
+      "3": "kuždy drugi mjasec"
     },
-    {
-        "question_id":"B1.1.H20",
-        "question_level":"B1",
-        "context":"Južo někotare lěta wugótuju w Lubnjowje drastwiny a rejowaŕski swěźeń. Lětosa jo se wobźěliło dogromady wósymźaset rejowarjow. Na wětšy part su to byli wobźělniki z Łužyce. Ale teke z drugich kóńcow Nimskeje su ten raz pśijěli gósći ze swójimi kšasnymi ludowymi drastwami, na pśikład z Bayerskeje abo z Carneje góle. Pśi lubosnej muzice su se drastwine póriki ako teke pśiglědowarje wjasele wjerśili.",
-        "question":"Wjele rejowarjow jo se na drastwinem swěźenju w Lubnjowje wobźěliło?",
-        "possible_answers":{
-            "1":"80 rejowarjow ",
-            "2":"18 pórikow ",
-            "3":"800 luźi"
-        },
-        "correct_answer_num":1,
-        "question_type":"listening_B1_3"
+    "correct_answer_num": 2,
+    "question_type": "listening_B1_3"
+  },
+  {
+    "question_id": "B1.1.H20",
+    "question_level": "B1",
+    "context": "Južo někotare lěta wugótuju w Lubnjowje drastwiny a rejowaŕski swěźeń. Lětosa jo se wobźěliło dogromady wósymźaset rejowarjow. Na wětšy part su to byli wobźělniki z Łužyce. Ale teke z drugich kóńcow Nimskeje su ten raz pśijěli gósći ze swójimi kšasnymi ludowymi drastwami, na pśikład z Bayerskeje abo z Carneje góle. Pśi lubosnej muzice su se drastwine póriki ako teke pśiglědowarje wjasele wjerśili.",
+    "question": "Wjele rejowarjow jo se na drastwinem swěźenju w Lubnjowje wobźěliło?",
+    "possible_answers": {
+      "1": "80 rejowarjow",
+      "2": "18 pórikow",
+      "3": "800 luźi"
     },
-    {
-        "question_id":"B1.1.L1",
-        "question_level":"B1",
-        "context":"Chóśebuske balokopaŕske mustwo Energija – FCE – jo z wuspěchom zachopiło nowu sezonu. Prědne graśe jo było pśeśiwo mustwoju Osnabrück. Chóśebuske grajarje su dobyli z rezultatom 3:0. To su prědne tśi dypki za Energiju! Nowy trenaŕ jo teke zlubił nowu kulturu graśa. Pśeśiwnik dej se jěsno móliś a z pśechwatańskimi atakami z koncepta spóraś. Prědny raz jo se to zglucyło, naźejuce nowa kultura źaržy až do kóńca sezony.",
-        "question":"Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
-        "possible_answers":{
-            "1":"Microsoft co składowańske kapacity w interneśe rozšyriś",
-            "2":"Skótny gójc naraźijo šćěpjenje za kócki",
-            "3":"Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
-            "4":"Nowa kultura graśa pla FCE",
-            "5":"Saněrowana kuchnja we Sprjewinej zakładnej šuli",
-            "6":"Z energiju žariś jo derje za domacnu kasu",
-            "7":"Źo jo naša luba kócka?",
-            "8":"Internet – wjelika pomoc",
-            "9":"Domacne produkty w šulskej kuchni!",
-            "10":"Serbski ludowy ansambl na parkowem swěźenju"
-        },
-        "correct_answer_num":4,
-        "question_type":"reading_B1_1"
+    "correct_answer_num": 1,
+    "question_type": "listening_B1_3"
+  },
+  {
+    "question_id": "B1.1.L1",
+    "question_level": "B1",
+    "context": "Chóśebuske balokopaŕske mustwo Energija – FCE – jo z wuspěchom zachopiło nowu sezonu. Prědne graśe jo było pśeśiwo mustwoju Osnabrück. Chóśebuske grajarje su dobyli z rezultatom 3:0. To su prědne tśi dypki za Energiju! Nowy trenaŕ jo teke zlubił nowu kulturu graśa. Pśeśiwnik dej se jěsno móliś a z pśechwatańskimi atakami z koncepta spóraś. Prědny raz jo se to zglucyło, naźejuce nowa kultura źaržy až do kóńca sezony.",
+    "question": "Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
+    "possible_answers": {
+      "1": "Microsoft co składowańske kapacity w interneśe rozšyriś",
+      "2": "Skótny gójc naraźijo šćěpjenje za kócki",
+      "3": "Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
+      "4": "Nowa kultura graśa pla FCE",
+      "5": "Saněrowana kuchnja we Sprjewinej zakładnej šuli",
+      "6": "Z energiju žariś jo derje za domacnu kasu",
+      "7": "Źo jo naša luba kócka?",
+      "8": "Internet – wjelika pomoc",
+      "9": "Domacne produkty w šulskej kuchni!",
+      "10": "Serbski ludowy ansambl na parkowem swěźenju"
     },
-    {
-        "question_id":"B1.1.L2",
-        "question_level":"B1",
-        "context":"Internet jo dobra wěc. Južo někotare klinknjenja z myšku dosegaju a skóro žedno pšašanje njewóstanjo bźez wótegrona, dokulaž jo how pśistupny gigantiski fundus informacijow. Mimo Wikipedije a drugich platformow su źinsa skóro wšykne zarědy, institucije a towaristwa w interneśe prezentne. Teke serbske institucije maju swóje webstrony. Zajmce zgóniju tam wjele wó źěle institucijow a towaristwow, wó aktualnych zarědowanjach a terminach. Teke fota pokazuju se w bogatej licbje.",
-        "question":"Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
-        "possible_answers":{
-            "1":"Microsoft co składowańske kapacity w interneśe rozšyriś",
-            "2":"Skótny gójc naraźijo šćěpjenje za kócki",
-            "3":"Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
-            "4":"Nowa kultura graśa pla FCE",
-            "5":"Saněrowana kuchnja we Sprjewinej zakładnej šuli",
-            "6":"Z energiju žariś jo derje za domacnu kasu",
-            "7":"Źo jo naša luba kócka?",
-            "8":"Internet – wjelika pomoc",
-            "9":"Domacne produkty w šulskej kuchni!",
-            "10":"Serbski ludowy ansambl na parkowem swěźenju"
-        },
-        "correct_answer_num":8,
-        "question_type":"reading_B1_1"
+    "correct_answer_num": 4,
+    "question_type": "reading_B1_1"
+  },
+  {
+    "question_id": "B1.1.L2",
+    "question_level": "B1",
+    "context": "Internet jo dobra wěc. Južo někotare klinknjenja z myšku dosegaju a skóro žedno pšašanje njewóstanjo bźez wótegrona, dokulaž jo how pśistupny gigantiski fundus informacijow. Mimo Wikipedije a drugich platformow su źinsa skóro wšykne zarědy, institucije a towaristwa w interneśe prezentne. Teke serbske institucije maju swóje webstrony. Zajmce zgóniju tam wjele wó źěle institucijow a towaristwow, wó aktualnych zarědowanjach a terminach. Teke fota pokazuju se w bogatej licbje.",
+    "question": "Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
+    "possible_answers": {
+      "1": "Microsoft co składowańske kapacity w interneśe rozšyriś",
+      "2": "Skótny gójc naraźijo šćěpjenje za kócki",
+      "3": "Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
+      "4": "Nowa kultura graśa pla FCE",
+      "5": "Saněrowana kuchnja we Sprjewinej zakładnej šuli",
+      "6": "Z energiju žariś jo derje za domacnu kasu",
+      "7": "Źo jo naša luba kócka?",
+      "8": "Internet – wjelika pomoc",
+      "9": "Domacne produkty w šulskej kuchni!",
+      "10": "Serbski ludowy ansambl na parkowem swěźenju"
     },
-    {
-        "question_id":"B1.1.L3",
-        "question_level":"B1",
-        "context":"Cesćone lubowarje serbskeje kultury! W januarje jo zasej tak daloko, swěśimy ptaškowu swajźbu. A wy sćo wšykne wutšobnje pśepšosone! Serbski ludowy ansambl z Budyšyna pśigótujo nam zasej rědny pisany program. Ten njedejśo skomuźiś! Wy dožywijośo woblubowane spiwy w serbskej rěcy a temperamentne reje, k tomu luštne źiwadłowe sceny. Pótakem wiźimy se 15. januara z. 19.30 na Komornem jawišću w Chóśebuzu. Simultane pśestajenje se póbitujo.",
-        "question":"Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
-        "possible_answers":{
-            "1":"Microsoft co składowańske kapacity w interneśe rozšyriś",
-            "2":"Skótny gójc naraźijo šćěpjenje za kócki",
-            "3":"Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
-            "4":"Nowa kultura graśa pla FCE",
-            "5":"Saněrowana kuchnja we Sprjewinej zakładnej šuli",
-            "6":"Z energiju žariś jo derje za domacnu kasu",
-            "7":"Źo jo naša luba kócka?",
-            "8":"Internet – wjelika pomoc",
-            "9":"Domacne produkty w šulskej kuchni!",
-            "10":"Serbski ludowy ansambl na parkowem swěźenju"
-        },
-        "correct_answer_num":3,
-        "question_type":"reading_B1_1"
+    "correct_answer_num": 8,
+    "question_type": "reading_B1_1"
+  },
+  {
+    "question_id": "B1.1.L3",
+    "question_level": "B1",
+    "context": "Cesćone lubowarje serbskeje kultury! W januarje jo zasej tak daloko, swěśimy ptaškowu swajźbu. A wy sćo wšykne wutšobnje pśepšosone! Serbski ludowy ansambl z Budyšyna pśigótujo nam zasej rědny pisany program. Ten njedejśo skomuźiś! Wy dožywijośo woblubowane spiwy w serbskej rěcy a temperamentne reje, k tomu luštne źiwadłowe sceny. Pótakem wiźimy se 15. januara z. 19.30 na Komornem jawišću w Chóśebuzu. Simultane pśestajenje se póbitujo.",
+    "question": "Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
+    "possible_answers": {
+      "1": "Microsoft co składowańske kapacity w interneśe rozšyriś",
+      "2": "Skótny gójc naraźijo šćěpjenje za kócki",
+      "3": "Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
+      "4": "Nowa kultura graśa pla FCE",
+      "5": "Saněrowana kuchnja we Sprjewinej zakładnej šuli",
+      "6": "Z energiju žariś jo derje za domacnu kasu",
+      "7": "Źo jo naša luba kócka?",
+      "8": "Internet – wjelika pomoc",
+      "9": "Domacne produkty w šulskej kuchni!",
+      "10": "Serbski ludowy ansambl na parkowem swěźenju"
     },
-    {
-        "question_id":"B1.1.L4",
-        "question_level":"B1",
-        "context":"Lube susedy, \npytamy našu kócku! Jej se groni Mimi. Wóna jo jadno lěto stara, ma šeru kóžu, běły lac a prězy napšawo běłu powtku. Jeje wócy stej zelenej. Mimi jo inteligentna a wjelgin gněśata. Wóna lubujo źiśi a njama tšach pśed luźimi. Gaž jo něchten našu kócku wiźeł abo namakał, zazwóńśo pšosym na familiju Markus pód cysłom 035433-792117. Naša mała Annika jo wjelgin tužna a caka na swóju Mimi.",
-        "question":"Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
-        "possible_answers":{
-            "1":"Microsoft co składowańske kapacity w interneśe rozšyriś",
-            "2":"Skótny gójc naraźijo šćěpjenje za kócki",
-            "3":"Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
-            "4":"Nowa kultura graśa pla FCE",
-            "5":"Saněrowana kuchnja we Sprjewinej zakładnej šuli",
-            "6":"Z energiju žariś jo derje za domacnu kasu",
-            "7":"Źo jo naša luba kócka?",
-            "8":"Internet – wjelika pomoc",
-            "9":"Domacne produkty w šulskej kuchni!",
-            "10":"Serbski ludowy ansambl na parkowem swěźenju"
-        },
-        "correct_answer_num":7,
-        "question_type":"reading_B1_1"
+    "correct_answer_num": 3,
+    "question_type": "reading_B1_1"
+  },
+  {
+    "question_id": "B1.1.L4",
+    "question_level": "B1",
+    "context": "Lube susedy, \npytamy našu kócku! Jej se groni Mimi. Wóna jo jadno lěto stara, ma šeru kóžu, běły lac a prězy napšawo běłu powtku. Jeje wócy stej zelenej. Mimi jo inteligentna a wjelgin gněśata. Wóna lubujo źiśi a njama tšach pśed luźimi. Gaž jo něchten našu kócku wiźeł abo namakał, zazwóńśo pšosym na familiju Markus pód cysłom 035433-792117. Naša mała Annika jo wjelgin tužna a caka na swóju Mimi.",
+    "question": "Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
+    "possible_answers": {
+      "1": "Microsoft co składowańske kapacity w interneśe rozšyriś",
+      "2": "Skótny gójc naraźijo šćěpjenje za kócki",
+      "3": "Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
+      "4": "Nowa kultura graśa pla FCE",
+      "5": "Saněrowana kuchnja we Sprjewinej zakładnej šuli",
+      "6": "Z energiju žariś jo derje za domacnu kasu",
+      "7": "Źo jo naša luba kócka?",
+      "8": "Internet – wjelika pomoc",
+      "9": "Domacne produkty w šulskej kuchni!",
+      "10": "Serbski ludowy ansambl na parkowem swěźenju"
     },
-    {
-        "question_id":"B1.1.L5",
-        "question_level":"B1",
-        "context":"Strowa jěza jo wažna za źiśi a dorosćonych. Togodla zarědujo se lětosa „Warjeńska turneja z Mariusom Zeleńkom”. Marius Zeleńk jo kuchaŕ a pśewjeźo akciju na zakładnych šulach wokrejsa Sprjewja-Nysa. Gromaźe z personalom šule a źiśimi wari strowu jězu z domacnymi produktami. Wón wužywa pśi tom jano sezonowu zeleninu a sad z domacnych gumnow. Z lažkimi receptami guslujo słodne wobjedy. Ceptarje a źiśi směju pótom gódnośiś, lěc jo wobjed dobry abo nic.",
-        "question":"Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
-        "possible_answers":{
-            "1":"Microsoft co składowańske kapacity w interneśe rozšyriś",
-            "2":"Skótny gójc naraźijo šćěpjenje za kócki",
-            "3":"Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
-            "4":"Nowa kultura graśa pla FCE",
-            "5":"Saněrowana kuchnja we Sprjewinej zakładnej šuli",
-            "6":"Z energiju žariś jo derje za domacnu kasu",
-            "7":"Źo jo naša luba kócka?",
-            "8":"Internet – wjelika pomoc",
-            "9":"Domacne produkty w šulskej kuchni!",
-            "10":"Serbski ludowy ansambl na parkowem swěźenju"
-        },
-        "correct_answer_num":9,
-        "question_type":"reading_B1_1"
+    "correct_answer_num": 7,
+    "question_type": "reading_B1_1"
+  },
+  {
+    "question_id": "B1.1.L5",
+    "question_level": "B1",
+    "context": "Strowa jěza jo wažna za źiśi a dorosćonych. Togodla zarědujo se lětosa „Warjeńska turneja z Mariusom Zeleńkom”. Marius Zeleńk jo kuchaŕ a pśewjeźo akciju na zakładnych šulach wokrejsa Sprjewja-Nysa. Gromaźe z personalom šule a źiśimi wari strowu jězu z domacnymi produktami. Wón wužywa pśi tom jano sezonowu zeleninu a sad z domacnych gumnow. Z lažkimi receptami guslujo słodne wobjedy. Ceptarje a źiśi směju pótom gódnośiś, lěc jo wobjed dobry abo nic.",
+    "question": "Rozsuźćo, kótare nadpismo góźi se nejlěpjej ku kótaremu tekstoju.",
+    "possible_answers": {
+      "1": "Microsoft co składowańske kapacity w interneśe rozšyriś",
+      "2": "Skótny gójc naraźijo šćěpjenje za kócki",
+      "3": "Serbski ludowy ansambl pśepšosyjo na Komorne jawišćo",
+      "4": "Nowa kultura graśa pla FCE",
+      "5": "Saněrowana kuchnja we Sprjewinej zakładnej šuli",
+      "6": "Z energiju žariś jo derje za domacnu kasu",
+      "7": "Źo jo naša luba kócka?",
+      "8": "Internet – wjelika pomoc",
+      "9": "Domacne produkty w šulskej kuchni!",
+      "10": "Serbski ludowy ansambl na parkowem swěźenju"
     },
-    {
-        "question_id":"B1.1.L6",
-        "question_level":"B1",
-        "context":"Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
-        "question":"Chto pśewjeźo kubłańsku jězbu? ",
-        "possible_answers":{
-            "1":"Bramborski krajny sejm ",
-            "2":"serbski wuběrk Sprjewja-Nysa ",
-            "3":"Domowinska kupka Pódstupim"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_B1_2"
+    "correct_answer_num": 9,
+    "question_type": "reading_B1_1"
+  },
+  {
+    "question_id": "B1.1.L6",
+    "question_level": "B1",
+    "context": "Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
+    "question": "Chto pśewjeźo kubłańsku jězbu?",
+    "possible_answers": {
+      "1": "Bramborski krajny sejm",
+      "2": "serbski wuběrk Sprjewja-Nysa",
+      "3": "Domowinska kupka Pódstupim"
     },
-    {
-        "question_id":"B1.1.L7",
-        "question_level":"B1",
-        "context":"Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
-        "question":"Napismo pśi zachoźe krajnego sejma jo ",
-        "possible_answers":{
-            "1":"nimske a serbske. ",
-            "2":"nimske a engelske. ",
-            "3":"nimske a pólske."
-        },
-        "correct_answer_num":1,
-        "question_type":"reading_B1_2"
+    "correct_answer_num": 2,
+    "question_type": "reading_B1_2"
+  },
+  {
+    "question_id": "B1.1.L7",
+    "question_level": "B1",
+    "context": "Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
+    "question": "Napismo pśi zachoźe krajnego sejma jo",
+    "possible_answers": {
+      "1": "nimske a serbske.",
+      "2": "nimske a engelske.",
+      "3": "nimske a pólske."
     },
-    {
-        "question_id":"B1.1.L8",
-        "question_level":"B1",
-        "context":"Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
-        "question":"Wjele cłonkow ma Bramborski parlament?",
-        "possible_answers":{
-            "1":"160",
-            "2":"88",
-            "3":"390"
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_B1_2"
+    "correct_answer_num": 1,
+    "question_type": "reading_B1_2"
+  },
+  {
+    "question_id": "B1.1.L8",
+    "question_level": "B1",
+    "context": "Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
+    "question": "Wjele cłonkow ma Bramborski parlament?",
+    "possible_answers": {
+      "1": "160",
+      "2": "88",
+      "3": "390"
     },
-    {
-        "question_id":"B1.1.L9",
-        "question_level":"B1",
-        "context":"Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
-        "question":"Wjelikosć plenarnego zala jo ",
-        "possible_answers":{
-            "1":"wokoło styrista m^2. ",
-            "2":"skóro pěśstow m^2. ",
-            "3":"nic razka tśista m^2."
-        },
-        "correct_answer_num":2,
-        "question_type":"reading_B1_2"
+    "correct_answer_num": 2,
+    "question_type": "reading_B1_2"
+  },
+  {
+    "question_id": "B1.1.L9",
+    "question_level": "B1",
+    "context": "Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
+    "question": "Wjelikosć plenarnego zala jo",
+    "possible_answers": {
+      "1": "wokoło styrista m^2.",
+      "2": "skóro pěśstow m^2.",
+      "3": "nic razka tśista m^2."
     },
-    {
-        "question_id":"B1.1.L10",
-        "question_level":"B1",
-        "context":"Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
-        "question":"Cerwjene w twarjenju su na pśikład ",
-        "possible_answers":{
-            "1":"schódy. ",
-            "2":"źurja a sćěny. ",
-            "3":"stoły w plenarnem zalu."
-        },
-        "correct_answer_num":3,
-        "question_type":"reading_B1_2"
+    "correct_answer_num": 2,
+    "question_type": "reading_B1_2"
+  },
+  {
+    "question_id": "B1.1.L10",
+    "question_level": "B1",
+    "context": "Woglěd do nowego krajnego sejma w Pódstupimje\nSerbski wuběrk wokrejsa Sprjewja-Nysa gótujo kužde lěto kubłańsku jězbu. Lětosa jo se wón wupórał do głownego města Bramborskeje, do Pódstupima. Cil jo był nowy bramborski krajny sejm.\nBus jo parkował blisko dwórnišća a kupka jo šła pěšy do směra parlamenta. Pśi tom su južo wiźeli wótdaloka wjelike nowe twarjenje sejma. Ned pśi zachoźe wita gósći z Dolneje Łužyce dwójorěcna tofla z nimskim a serbskim napismom „Landtag Brandenburg – Krajny sejm Bramborska”.\nPśez Fortunowy portal, kótaryž jo głowny zachod do twarjenja krajnego sejma, zastupiju pón do šyrokego nutśikownego dwóra. How wise tśi chórgoji – nimska, bramborska a europejska. Serbska chórgoj se ześěgnjo jano na wěstych dnjach. Zagronity za zjawnostne źěło parlamenta pówitajo kupku a wjeźo ju do foyera. Tam stoj model sejma. Na toś tom modelu rozkładujo, kótare rumnosći nowe moderne twarjenje ma.\nDesign sejma jo skóro spartaniski, ale praktiski. Na styrich etažach su rozdźělone běrowy wótpósłańcow, pśistajonych parlamenta, politiskich frakcijow, wuběrkow a ministarjow. Dogromady 390 źěłowych městnow ma krajny sejm.\nNa kuždej etažy jo mjeńšy zal za wšake wobradowanja. We srjejźi twarjenja jo se wě plenarny zal ze 470 kwadratnymi mejtarjami a 88 městnami za bramborski parlament. Zal ma teke tribunu za gósći ze 160 městnami. How nadejźomy teke moderny medijowy centrum.\nZ wjelikeje terase na stwórtej etažy maju gósći kšasny wid na dwór a bliske twarjenja w centrumje města. Pódla terase jo kantina parlamenta.\nGłowna barwa w cełem sejmje jo běła, tak su wugótowane źurja, wokna, schódy, sćěny a zdźela teke meble. Někotare elementy pak su cerwjene, ako na pśikład stoły w plenarnem zalu. Architektura a nutśikowne wugótowanje twóritej pótakem cełk – w bramborskima barwoma.\nGósćam se wšykno wjelgin derje spódoba. Wóni se wuźěkuju za kompetentne wjeźenje. Pśi rozžognowanju hyšći zgóniju, až někotare źěle internetowych bokow krajnego sejma su teke w serbskej rěcy, až eksistěrujo flyer w serbskej rěcy wó twarjenju a až móžoš na interaktiwnych informaciskich słupach teke dolnoserbske teksty cytaś.",
+    "question": "Cerwjene w twarjenju su na pśikład",
+    "possible_answers": {
+      "1": "schódy.",
+      "2": "źurja a sćěny.",
+      "3": "stoły w plenarnem zalu."
     },
-    {
-        "question_id":"B1.1.S1",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. I z pšawym słowom.",
-        "possible_answers":{
-            "1":"pěś ",
-            "2":"tśi ",
-            "3":"jaden"
-        },
-        "correct_answer_num":2,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 3,
+    "question_type": "reading_B1_2"
+  },
+  {
+    "question_id": "B1.1.S1",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. I z pšawym słowom.",
+    "possible_answers": {
+      "1": "pěś",
+      "2": "tśi",
+      "3": "jaden"
     },
-    {
-        "question_id":"B1.1.S2",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. II z pšawym słowom.",
-        "possible_answers":{
-            "1":"dobra ",
-            "2":"dobry ",
-            "3":"derje"
-        },
-        "correct_answer_num":3,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 2,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S2",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. II z pšawym słowom.",
+    "possible_answers": {
+      "1": "dobra",
+      "2": "dobry",
+      "3": "derje"
     },
-    {
-        "question_id":"B1.1.S3",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. III z pšawym słowom.",
-        "possible_answers":{
-            "1":"narska ",
-            "2":"narsko ",
-            "3":"narski"
-        },
-        "correct_answer_num":1,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 3,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S3",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. III z pšawym słowom.",
+    "possible_answers": {
+      "1": "narska",
+      "2": "narsko",
+      "3": "narski"
     },
-    {
-        "question_id":"B1.1.S4",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. IV z pšawym słowom.",
-        "possible_answers":{
-            "1":"z ",
-            "2":"do ",
-            "3":"w"
-        },
-        "correct_answer_num":3,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 1,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S4",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. IV z pšawym słowom.",
+    "possible_answers": {
+      "1": "z",
+      "2": "do",
+      "3": "w"
     },
-    {
-        "question_id":"B1.1.S5",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. V z pšawym słowom.",
-        "possible_answers":{
-            "1":"śěgom ",
-            "2":"śěgu ",
-            "3":"śěga"
-        },
-        "correct_answer_num":1,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 3,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S5",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. V z pšawym słowom.",
+    "possible_answers": {
+      "1": "śěgom",
+      "2": "śěgu",
+      "3": "śěga"
     },
-    {
-        "question_id":"B1.1.S6",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. VI z pšawym słowom.",
-        "possible_answers":{
-            "1":"było ",
-            "2":"byli ",
-            "3":"był"
-        },
-        "correct_answer_num":3,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 1,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S6",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. VI z pšawym słowom.",
+    "possible_answers": {
+      "1": "było",
+      "2": "byli",
+      "3": "był"
     },
-    {
-        "question_id":"B1.1.S7",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. VII z pšawym słowom.",
-        "possible_answers":{
-            "1":"sobu ",
-            "2":"sebje ",
-            "3":"swóju"
-        },
-        "correct_answer_num":1,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 3,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S7",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. VII z pšawym słowom.",
+    "possible_answers": {
+      "1": "sobu",
+      "2": "sebje",
+      "3": "swóju"
     },
-    {
-        "question_id":"B1.1.S8",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. VIII z pšawym słowom.",
-        "possible_answers":{
-            "1":"pśi ",
-            "2":"nad ",
-            "3":"do"
-        },
-        "correct_answer_num":3,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 1,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S8",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. VIII z pšawym słowom.",
+    "possible_answers": {
+      "1": "pśi",
+      "2": "nad",
+      "3": "do"
     },
-    {
-        "question_id":"B1.1.S9",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. IX z pšawym słowom.",
-        "possible_answers":{
-            "1":"jagodami ",
-            "2":"jagodow ",
-            "3":"jagodach"
-        },
-        "correct_answer_num":2,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 3,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S9",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. IX z pšawym słowom.",
+    "possible_answers": {
+      "1": "jagodami",
+      "2": "jagodow",
+      "3": "jagodach"
     },
-    {
-        "question_id":"B1.1.S10",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. X z pšawym słowom.",
-        "possible_answers":{
-            "1":"až ",
-            "2":"dokulaž ",
-            "3":"což"
-        },
-        "correct_answer_num":1,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 2,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S10",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. X z pšawym słowom.",
+    "possible_answers": {
+      "1": "až",
+      "2": "dokulaž",
+      "3": "což"
     },
-    {
-        "question_id":"B1.1.S11",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. XI z pšawym słowom.",
-        "possible_answers":{
-            "1":"sejźe ",
-            "2":"sejźi ",
-            "3":"sejźim"
-        },
-        "correct_answer_num":3,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 1,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S11",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. XI z pšawym słowom.",
+    "possible_answers": {
+      "1": "sejźe",
+      "2": "sejźi",
+      "3": "sejźim"
     },
-    {
-        "question_id":"B1.1.S12",
-        "question_level":"B1",
-        "context":"Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
-        "question":"Wupołniśo městno co. XII z pšawym słowom.",
-        "possible_answers":{
-            "1":"mój ",
-            "2":"mě ",
-            "3":"ja"
-        },
-        "correct_answer_num":2,
-        "question_type":"grammar_B1_1"
+    "correct_answer_num": 3,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S12",
+    "question_level": "B1",
+    "context": "Luba mama,\nněnto som južo ( I ) tyźenje ducy. To sportowe kólaso se napšawdu ( II ) góźi za tu turu. Ale ty sy zawěsće ( III ), co som dožywił? ( IV ) Stockholmje som wóstał dwa dnja. Město jo kšasne a wjedro jo było teke słyńcne a śopłe. Pótom som jěł ze ( V ) do Uppsale a se znatu katedralu a uniwersitu woglědał.\nPótom pak jo ( VI ) cas, dalej drogowaś. Mam ga hyšći 1000 kilometrow pśed ( VII ). Som z kólasom jěł ( VIII ) regiona Dalarna, ako jo pšawa parla. Bomy su wjelike a stare, jazory cyste a błyšćate a mój stan jo był wobdany wót carnych ( IX ) a wrjosa. Som dožywił taku śišynu, ( X ) som był ceło wobguslowany. Jo było śěžko, se zasej na ciwilizaciju zwucyś. Mójo žywjenje jo momentanje mimo chwatanja a glědanja na zeger.\nNěnto ( XI ) w śěgu do Trondheima, do Norwegskeje. To jo mója pśiduca stacija. Som strowy a ( XII ) se źo derje, njegótujśo se žedne starosći.\nZ pódpołnocy strowi\nTwój Mato",
+    "question": "Wupołniśo městno co. XII z pšawym słowom.",
+    "possible_answers": {
+      "1": "mój",
+      "2": "mě",
+      "3": "ja"
     },
-    {
-        "question_id":"B1.1.S13",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. I z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":7,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 2,
+    "question_type": "grammar_B1_1"
+  },
+  {
+    "question_id": "B1.1.S13",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. I z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S14",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. II z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":9,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 7,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S14",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. II z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S15",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. III z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":14,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 9,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S15",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. III z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S16",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. IV z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":1,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 14,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S16",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. IV z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S17",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. V z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":4,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 1,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S17",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. V z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S18",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. VI z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":15,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 4,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S18",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. VI z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S19",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. VII z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":6,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 15,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S19",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. VII z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S20",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. VIII z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":12,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 6,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S20",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. VIII z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S21",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. IX z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":10,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 12,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S21",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. IX z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S22",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. X z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":2,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 10,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S22",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. X z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S23",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. XI z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":3,
-        "question_type":"grammar_B1_2"
+    "correct_answer_num": 2,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S23",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. XI z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
     },
-    {
-        "question_id":"B1.1.S24",
-        "question_level":"B1",
-        "context":"Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
-        "question":"Wupołniśo městno co. XII z pšawym słowom.",
-        "possible_answers":{
-            "1":"našom ",
-            "2":"z ",
-            "3":"su ",
-            "4":"lěta ",
-            "5":"kak ",
-            "6":"nejwěcej ",
-            "7":"wam ",
-            "8":"nich ",
-            "9":"kótaruž ",
-            "10":"na ",
-            "11":"ale ",
-            "12":"swójom ",
-            "13":"mě ",
-            "14":"ju ",
-            "15":"za ",
-            "16":"spózy"
-        },
-        "correct_answer_num":8,
-        "question_type":"grammar_B1_2"
-    }
+    "correct_answer_num": 3,
+    "question_type": "grammar_B1_2"
+  },
+  {
+    "question_id": "B1.1.S24",
+    "question_level": "B1",
+    "context": "Serbske eksponaty, mólby abo drastwine źěle \nSerbski muzej w Chóśebuzu zběra serbski pódomk, wobraze serbskich mólarjow a drastwine źěle. \nInforměrujśo nas, gaž take něco maśo. Transport pśewzejomy. Wěcy deje byś w dobrem stawje. \nZazwóńśo na Marlies Zimmermann, tel. 0355-46 33 258 abo pósćelśo mejlku: mzimmermann@serbski.muzej-cottbus.de\n\nCesćony kněz Weizenkorn,\ncu se ( I ) źěkowaś za historisku buŕsku lodku, ( II ) sćo muzeju pśewóstajili. Smy ( III ) zarědowali do stawneje wustajeńce. W ( IV ) wobstatku mamy něnto lodku z ( V ) 1807 a Wašu z lěta 1795. Waša starša a wětša ma ( VI ) naš region typiske wobmólowanje w tencas ( VII ) wužywanej cerwjenej, žołtej a módrej barwje. Lodka jo wupyšnjona prědku a teke na ( VIII ) pókšywje z tulpami, stilizěrowanymi kwiśonkami a łopjenowymi wijankami. Zajmny jo teke zeleny, zazdaśim originalny zamk ( IX ) boce, w kótaremž hyšći štycy zelezny kluc. Lodka jo ( X ) chójcowego drjewa. Chto jo blidaŕ abo chto jo lodku wobmólował, njejo znate.\nLodki su něga byli wažny pśedmjat wšedneje pótrjeby w dwójnem zmysle. Burske žeńske ( XI ) w lodkach chowali swóju drastwu. Toś su lodki byli chowarnja, a tejerownosći su mógali na ( XII ) sejźeś.\nZ pśijaśelnym póstrowom\nWaša Marlies Zimmermann",
+    "question": "Wupołniśo městno co. XII z pšawym słowom.",
+    "possible_answers": {
+      "1": "našom",
+      "2": "z",
+      "3": "su",
+      "4": "lěta",
+      "5": "kak",
+      "6": "nejwěcej",
+      "7": "wam",
+      "8": "nich",
+      "9": "kótaruž",
+      "10": "na",
+      "11": "ale",
+      "12": "swójom",
+      "13": "mě",
+      "14": "ju",
+      "15": "za",
+      "16": "spózy"
+    },
+    "correct_answer_num": 8,
+    "question_type": "grammar_B1_2"
+  }
 ]
