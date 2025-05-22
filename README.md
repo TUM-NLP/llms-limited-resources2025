@@ -39,7 +39,7 @@ For information purposes, we provide the baseline (zero-shot) results of Qwen2.5
 
 | Tasks | Metric | Value | Stderr |
 | - | - | - | - |
-| Sorbian | acc | 0.4832 | 0.0269 |
+| Sorbian |   |   |   |
 | - deu-dsb | bleu | 0.5768 | 0.1207 |
 | - deu-dsb | chrf++ | 11.9169 | 0.1488 |
 | - deu-hsb | bleu | 0.7668 | 0.1519 |
@@ -59,7 +59,7 @@ For information purposes, we provide the baseline (zero-shot) results of Qwen2.5
 
 | Tasks | Metric | Value | Stderr |
 | - | - | - | - |
-| Ukrainian | acc | 0.3018 | 0.0186 |
+| Ukrainian |   |   |   |
 | - cze-ukr | bleu | 6.8134 | 0.1512 |
 | - cze-ukr | chrf++ | 27.2625 | 0.2568 |
 | - eng-ukr | bleu | 8.2124 | 0.1674 |
