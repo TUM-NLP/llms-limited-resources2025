@@ -30,6 +30,42 @@ The final ranking in the leaderboard will consider the scores from MT and QA equ
 For consistency with the previous WMT 2022 Shared Task, we also report BLEU for MT.
 
 
+We additionally provide this [repository](https://github.com/TUM-NLP/wmt25-lrsl-evaluation) to help with the evaluation. It is a fork of lm-evaluation-harness and can be used to reproduce the baseline results and evaluate other models. More details are available on the GitHub repository.
+
+
+## Baseline results (development datasets)
+For information purposes, we provide the baseline (zero-shot) results of Qwen2.5-3B-Instruct on all the development datasets (MT & QA). 
+
+### Upper and Lower Sorbian
+
+| Tasks | Metric | Value | Stderr |
+| - | - | - | - |
+| Sorbian | acc | 0.4832 | 0.0269 |
+| - deu-dsb | bleu | 0.5768 | 0.1207 |
+| - deu-dsb | chrf++ | 11.9169 | 0.1488 |
+| - deu-hsb | bleu | 0.7668 | 0.1519 |
+| - deu-hsb | chrf++ | 13.3062 | 0.1416 |
+| DSB QA | acc | 0.4671 | 0.0385 |
+| - dsbqa-a1 | acc | 0.4333 | 0.0920 |
+| - dsbqa-a2 | acc | 0.7143 | 0.0869 |
+| - dsbqa-b1 | acc | 0.3636 | 0.0734 |
+| - dsbqa-b2 | acc | 0.3571 | 0.0646 |
+| HSB QA | acc | 0.4993 | 0.0375 |
+| - hsbqa-a1 | acc | 0.7000 | 0.0851 |
+| - hsbqa-a2 | acc | 0.6429 | 0.0922 |
+| - hsbqa-b1 | acc | 0.3864 | 0.0743 |
+| - hsbqa-b2 | acc | 0.2679 | 0.0597 |
+
+### Ukrainian
+
+| Tasks | Metric | Value | Stderr |
+| - | - | - | - |
+| Ukrainian | acc | 0.3018 | 0.0186 |
+| - cze-ukr | bleu | 6.8134 | 0.1512 |
+| - cze-ukr | chrf++ | 27.2625 | 0.2568 |
+| - eng-ukr | bleu | 8.2124 | 0.1674 |
+| - eng-ukr | chrf++ | 27.0139 | 0.2574 |
+| UKR QA | acc | 0.3018 | 0.0186 |
 
 ## Contact / Organisers
 Please join our Google group for further information: https://groups.google.com/g/slavic-llms-mt2025.
