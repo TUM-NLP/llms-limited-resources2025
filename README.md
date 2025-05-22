@@ -29,8 +29,7 @@ The final ranking in the leaderboard will consider the scores from MT and QA equ
 
 For consistency with the previous WMT 2022 Shared Task, we also report BLEU for MT.
 
-
-We additionally provide this [repository](https://github.com/TUM-NLP/wmt25-lrsl-evaluation) to help with the evaluation. It is a fork of [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) and can be used to reproduce the baseline results and evaluate other models. More details are available on the GitHub repository.
+We provide this [repository](https://github.com/TUM-NLP/wmt25-lrsl-evaluation) to help with the evaluation. It is a fork of [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) and can be used to reproduce the baseline results and run evaluation script.
 
 
 ## Baseline results (development datasets)
