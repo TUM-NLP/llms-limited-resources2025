@@ -8,7 +8,7 @@ The files follow the same structure for both languages.
 
 Each folder contains training (`train`) and development (`dev`) parallel corpora and monolingual sentences. It must be noted that parallel and monolingual sentences might contain some noisy sentences or sentence pairs.
 
-For both Upper and Lower Sorbian, the training dataset is new compared to the one provided during the WMT 2022 Shared Task, while the development dataset is a combination of both old and new sentence pairs. We recall that the 'older' WMT 2022 datasets (parallel and monolingual data) for Upper and Lower Sorbian MT can be found in [this repository](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/).
+For both Upper and Lower Sorbian, the training dataset is new compared to the one provided during the WMT 2022 Shared Task, while the development dataset is a combination of both old and new sentence pairs. We recall that the 'older' WMT 2022 datasets (parallel and monolingual data) for Upper and Lower Sorbian MT can be found in [this repository](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/) with a CC BY-NC-SA licence.
 
 The table below presents the number of sentences for each dataset:
 

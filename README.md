@@ -20,6 +20,8 @@ Datasets and details about both Upper Sorbian and Lower Sorbian can be found in 
 
 Datasets and details about Ukrainian can be found in the `Ukrainian` folder. 
 
+Note: The licences in both subfolders differ.
+
 
 ## Evaluation Methods
 
