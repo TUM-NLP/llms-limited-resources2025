@@ -20,7 +20,9 @@ Datasets and details about both Upper Sorbian and Lower Sorbian can be found in 
 
 Datasets and details about Ukrainian can be found in the `Ukrainian` folder. 
 
-Note: The licences in both subfolders differ.
+Notes: 
+- The licences in both subfolders differ.
+- External datasets can be used on top of the provided corpora. For fairness and reproducibility, they should, however, be publicly available
 
 
 ## Evaluation Methods
