@@ -1,0 +1,112 @@
+question_id,question_level,context,question,possible_answers,question_type
+A1.2.H01,A1,"muž: Rěkam Tomaš Žur a bydlu w Kamjencu. A kak wy rěkaće? 
+žona: Sym Petra Hadankowa a bydlu w Hodźiju. 
+muž: Wuknu serbsce. Mamy kóždu srjedu kurs. Naša wučerka rěka knjeni Šołćina. 
+žona: Aha, rěčiće hižo derje.",Štó je wučerka?,"1 knjeni Šołćina
+2 knjeni Hadankowa",listening_A1_1
+A1.2.H1,A1,"wučerka: Dobry dźeń! Ja sym knjeni Wiesnerowa. Ja sym waša wučerka. 
+muž: Dobry dźeń! Rěkam Sven Šuman. Ja sym nowy kursist. 
+wučerka: Witajće k nam! 
+muž: Wjerš pomazy!",Knjez Šuman je,"1 wučer. 
+2 kursist.",listening_A1_1
+A1.2.H2,A1,"holca 1: Halo Kerstin, trenuju kóždy štwórtk zumba. 
+holca 2: Halo, a hdźe je waš trening? 
+holca 1: Trenujemy w Budyšinje. Smy jenož młode holcy. 
+holca 2: Kak stare wy sće? 
+holca 1: Někak 15 lět.",Kak stare holcy su?,"1 15 lět
+2 25 lět",listening_A1_1
+A1.2.H3,A1,"muž: Dobry dźeń! 
+žona: Witaj! Što čini twój syn? 
+muž: Wón studuje w Podstupimje. 
+žona: A što wón studuje? 
+muž: Ekonomiju. 
+žona: A bydli wón tež w Podstupimje? 
+muž: Ně, wón bydli w Berlinje.",Hdźe bydli syn?,"1 w Podstupimje 
+2 w Berlinje",listening_A1_1
+A1.2.H4,A1,"kursistka 1: Anna, maš ty Serbske Nowiny? 
+kursistka 2: Ně, nimam. Čehodla? 
+kursistka 1: Tam je rjane foto. 
+kursistka 2: Kajke da? 
+kursistka 1: My smy tam – naš kurs!",Što je w Serbskich Nowinach?,"1 foto wo kursu
+2 foto wo šuli",listening_A1_1
+A1.2.H5,A1,"Klaus: Stefanie, hdźe je Jurij? 
+Stefanie: To njewěm. Snano na dworje? 
+Klaus: Ně, tam wón njeje. 
+Stefanie: Ach, nětko wěm. Wón je w sportowej hali. Wón přihotuje volleyballowy turněr.",Hdźe je Jurij?,"1 w sportowej hali 
+2 na dworje",listening_A1_1
+A1.2.H6,A1,"muž: Rěkam Jan Nowak a bydlu w Radworju! A kak wy rěkaće? 
+žona: Ja sym Sarah Paškec a bydlu w Bukecach. 
+muž: Je Hanka Pašcyna waša mać? 
+žona: Ně, wona je moja ćeta a bydli w Budestecach.",Hdźe bydli Sarah?,"1 w Bukecach 
+2 w Budestecach",listening_A1_1
+A1.2.H02,A1,Za kurs trjebamy dźensa słowniki. Słowniki su w našej bibliotece.,Za kurs trjebamy słowniki.,"1 prawje
+2 wopak",listening_A1_2
+A1.2.H7,A1,Koncert serbskeho chóra „Lipa“ je jutře w awli Šule Ćišinskeho w Pančicach-Kukowje.,Koncert je dźensa w Pančicach-Kukowje.,"1 prawje
+2 wopak",listening_A1_2
+A1.2.H8,A1,"Pjatk je swójbny dźeń w pěstowarni w Malešecach. Witamy twoju cyłu swójbu: nana a mać, dźěda a wowku, bratra a sotru!",Swójbny dźeń je štwórtk.,"1 prawje
+2 wopak",listening_A1_2
+A1.2.H9,A1,"My dźensa paslimy. Trjebamy čerwjene pisaki, žołtu papjeru a lěpk. Wšitko je zady w regalu.",Žołta papjera je w regalu.,"1 prawje
+2 wopak",listening_A1_2
+A1.2.H10,A1,My smy wulka swójba. Ja mam štyri sotry a jednoho bratra. Moja sotra Hilža ma tež hižo tři dźowki.,Hilža ma tři dźěći.,"1 prawje
+2 wopak",listening_A1_2
+A1.2.H11,A1,"Sobotu je camprowanje w Ćisku, a póndźelu je karnewal w Kulowje. Tam je přeco wjele ludźi.",Karnewal je,"1 w Kulowje.
+2 w Salowje.",listening_A1_3
+A1.2.H12,A1,Ja rěkam Michaela Kaiserowa. Ja sym nowa kursistka. Moje telefonowe čisło je: 03578 / 35 77 54.,Knjeni Kaiserowa ma telefonowe čisło,"1 03578 /35 77 54. 
+2 03578 /53 77 54.",listening_A1_3
+A1.2.H13,A1,Knjez Siatkowski bydli w Pólskej. Wón je dźensa hósć w pěstowarni w Chrósćicach. Wón filmuje ptači kwas.,Knjez Siatkowski filmuje,"1 wjes Chrósćicy. 
+2 ptači kwas.",listening_A1_3
+A1.2.H14,A1,Dźensa je ptači kwas. Dźěći w pěstowarni w Ralbicach pokazuja mały program. Wone spěwaja a rejuja. Holcy su w serbskej drasće.,Program wuhotuja,"1 starši. 
+2 dźěći.",listening_A1_3
+A1.2.H15,A1,"Halo, tu je Brězanec fyzioterapija. Waš syn Holger ma dźensa termin. Mamy hawariju a dźensa njedźěłamy. Jutře zaso dźěłamy.",Fyzioterapija,"1 dźensa njedźěła. 
+2 jutře njedźěła.",listening_A1_3
+A1.2.L1,A1,Prošu!,Prawa replika je:,"1 Wutrobny dźak! 
+2 Wjerch pomazy.",reading_A1_1
+A1.2.L2,A1,Mi so derje dźe.,Prawa replika je:,"1 Kak so ći wjedźe? 
+2 Kak ty rěkaš?",reading_A1_1
+A1.2.L6,A1,"Narodniny
+Moja ćeta Hana ma dźensa narodniny. Wona je 35 lět stara. Wona dźěła jako sekretarka w awtowym domje. Hana ma tři dźěći: Jonasa, Feliksa a Jadwigu. Jonas je w šuli, Feliks je w pěstowarni a Jadwiga je doma. Wona je hišće mała. Hana rady spěwa. Wona spěwa w chórje. 
+Dźensa wšitcy narodniny swjećimy. Pijemy kofej a jěmy tortu a tykanc. Ja hrajkam sej z małej kuzinu Jadwigu.",Hana ma narodniny.,"1 prawje
+2 wopak",reading_A1_2
+A1.2.L7,A1,"Narodniny
+Moja ćeta Hana ma dźensa narodniny. Wona je 35 lět stara. Wona dźěła jako sekretarka w awtowym domje. Hana ma tři dźěći: Jonasa, Feliksa a Jadwigu. Jonas je w šuli, Feliks je w pěstowarni a Jadwiga je doma. Wona je hišće mała. Hana rady spěwa. Wona spěwa w chórje. 
+Dźensa wšitcy narodniny swjećimy. Pijemy kofej a jěmy tortu a tykanc. Ja hrajkam sej z małej kuzinu Jadwigu.",Hana rady njespěwa.,"1 prawje
+2 wopak",reading_A1_2
+A1.2.L8,A1,"Narodniny
+Moja ćeta Hana ma dźensa narodniny. Wona je 35 lět stara. Wona dźěła jako sekretarka w awtowym domje. Hana ma tři dźěći: Jonasa, Feliksa a Jadwigu. Jonas je w šuli, Feliks je w pěstowarni a Jadwiga je doma. Wona je hišće mała. Hana rady spěwa. Wona spěwa w chórje. 
+Dźensa wšitcy narodniny swjećimy. Pijemy kofej a jěmy tortu a tykanc. Ja hrajkam sej z małej kuzinu Jadwigu.",Jadwiga je w pěstowarni.,"1 prawje
+2 wopak",reading_A1_2
+A1.2.L9,A1,"Rjany hobby
+Moja dźowka Katarina je dźewjeć lět stara. Wona rady rejuje. Nětko ma rjany hobby. Wona trenuje balet. Trening je póndźelu a štwórtk. Tež přećelka Sofija rejuje balet, kaž tež Lisa. Holcy trenuja w Serbskim šulskim centrumje w Budyšinje. Tam je nowa sportowa hala. Trenarka je knjeni Farkanelli. Wone rejuja klasiski balet a hip-hop.",Trening je přeco srjedu.,"1 prawje
+2 wopak",reading_A1_2
+A1.2.L10,A1,"Rjany hobby
+Moja dźowka Katarina je dźewjeć lět stara. Wona rady rejuje. Nětko ma rjany hobby. Wona trenuje balet. Trening je póndźelu a štwórtk. Tež přećelka Sofija rejuje balet, kaž tež Lisa. Holcy trenuja w Serbskim šulskim centrumje w Budyšinje. Tam je nowa sportowa hala. Trenarka je knjeni Farkanelli. Wone rejuja klasiski balet a hip-hop.",Lisa njetrenuje.,"1 prawje
+2 wopak",reading_A1_2
+A1.2.L03,A1,"W Serbskim domje: 
+SERBSKA KULTURNA INFORMACIJA 
+je w Serbskim domje w Budyšinje na Póstowym naměsće 2",Serbska kulturna informacija je w Serbskim domje.,"1 prawje
+2 wopak",reading_A1_3
+A1.2.L11,A1,"Pěstowarnja informuje: 
+Lube maćerje, lubi nanojo, lube dźěći! 
+Přeprosymy Was srjedu na 10. jubilej našeje pěstowarnje: 
+w 14.30 hodź. pijemy kofej 
+w 15.30 hodź. je mały program dźěći 
+w 16.00 hodź. hrajkamy sej hromadźe na hrajkanišću 
+w 17.00 hodź. je diskoteka",W pěstowarni je swójbny dźeń.,"1 prawje
+2 wopak",reading_A1_3
+A1.2.L12,A1,"Na durjach sekretariata: 
+póndźelu a wutoru 8.00 - 13.00 
+štwórtk a pjatk 8.00 - 13.00 
+wutoru 15.00 - 18.00 
+štwórtk a pjatk 15.00 - 18.00",Srjedu sekretarka njedźěła.,"1 prawje
+2 wopak",reading_A1_3
+A1.2.L13,A1,"Filmowy tip: 
+!! Dźensa serbski krimi !! 
+Wječor w programje ARD w 20.15 hodź. je serbski krimi. Wón hraje w Błótach. Wobhladajće sej!",Krimi hraje w Budyšinje.,"1 prawje
+2 wopak",reading_A1_3
+A1.2.L14,A1,"Domowina informuje: 
+Nowy kurs pólšćiny je wutoru, 12. januara, we 18.00 hodź. Wučerka je Agnieszka Kowalska. Trjebaće němsko-pólski słownik. Kursowy material je w šuli.",Nowy kurs serbšćiny je wutoru.,"1 prawje
+2 wopak",reading_A1_3
+A1.2.L15,A1,"Informacija za staršich: 
+Lubi starši! 
+W našej pěstowarni dźěła wot oktobra nowa praktikantka. Wona rěka Sarah Maršnerec a je kóždu póndźelu a kóždy štwórtk w pěstowarni.",Nowa praktikantka je póndźelu a štwórtk w pěstowarni.,"1 prawje
+2 wopak",reading_A1_3

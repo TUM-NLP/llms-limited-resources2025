@@ -1,0 +1,332 @@
+[
+    {
+        "question_id":"A1.2.H01",
+        "question_level":"A1",
+        "context":"muž: Rěkam Tomaš Žur a bydlu w Kamjencu. A kak wy rěkaće? \nžona: Sym Petra Hadankowa a bydlu w Hodźiju. \nmuž: Wuknu serbsce. Mamy kóždu srjedu kurs. Naša wučerka rěka knjeni Šołćina. \nžona: Aha, rěčiće hižo derje.",
+        "question":"Štó je wučerka?",
+        "possible_answers":{
+            "1":"knjeni Šołćina",
+            "2":"knjeni Hadankowa"
+        },
+        "question_type":"listening_A1_1"
+    },
+    {
+        "question_id":"A1.2.H1",
+        "question_level":"A1",
+        "context":"wučerka: Dobry dźeń! Ja sym knjeni Wiesnerowa. Ja sym waša wučerka. \nmuž: Dobry dźeń! Rěkam Sven Šuman. Ja sym nowy kursist. \nwučerka: Witajće k nam! \nmuž: Wjerš pomazy!",
+        "question":"Knjez Šuman je",
+        "possible_answers":{
+            "1":"wučer.",
+            "2":"kursist."
+        },
+        "question_type":"listening_A1_1"
+    },
+    {
+        "question_id":"A1.2.H2",
+        "question_level":"A1",
+        "context":"holca 1: Halo Kerstin, trenuju kóždy štwórtk zumba. \nholca 2: Halo, a hdźe je waš trening? \nholca 1: Trenujemy w Budyšinje. Smy jenož młode holcy. \nholca 2: Kak stare wy sće? \nholca 1: Někak 15 lět.",
+        "question":"Kak stare holcy su?",
+        "possible_answers":{
+            "1":"15 lět",
+            "2":"25 lět"
+        },
+        "question_type":"listening_A1_1"
+    },
+    {
+        "question_id":"A1.2.H3",
+        "question_level":"A1",
+        "context":"muž: Dobry dźeń! \nžona: Witaj! Što čini twój syn? \nmuž: Wón studuje w Podstupimje. \nžona: A što wón studuje? \nmuž: Ekonomiju. \nžona: A bydli wón tež w Podstupimje? \nmuž: Ně, wón bydli w Berlinje.",
+        "question":"Hdźe bydli syn?",
+        "possible_answers":{
+            "1":"w Podstupimje",
+            "2":"w Berlinje"
+        },
+        "question_type":"listening_A1_1"
+    },
+    {
+        "question_id":"A1.2.H4",
+        "question_level":"A1",
+        "context":"kursistka 1: Anna, maš ty Serbske Nowiny? \nkursistka 2: Ně, nimam. Čehodla? \nkursistka 1: Tam je rjane foto. \nkursistka 2: Kajke da? \nkursistka 1: My smy tam – naš kurs!",
+        "question":"Što je w Serbskich Nowinach?",
+        "possible_answers":{
+            "1":"foto wo kursu",
+            "2":"foto wo šuli"
+        },
+        "question_type":"listening_A1_1"
+    },
+    {
+        "question_id":"A1.2.H5",
+        "question_level":"A1",
+        "context":"Klaus: Stefanie, hdźe je Jurij? \nStefanie: To njewěm. Snano na dworje? \nKlaus: Ně, tam wón njeje. \nStefanie: Ach, nětko wěm. Wón je w sportowej hali. Wón přihotuje volleyballowy turněr.",
+        "question":"Hdźe je Jurij?",
+        "possible_answers":{
+            "1":"w sportowej hali",
+            "2":"na dworje"
+        },
+        "question_type":"listening_A1_1"
+    },
+    {
+        "question_id":"A1.2.H6",
+        "question_level":"A1",
+        "context":"muž: Rěkam Jan Nowak a bydlu w Radworju! A kak wy rěkaće? \nžona: Ja sym Sarah Paškec a bydlu w Bukecach. \nmuž: Je Hanka Pašcyna waša mać? \nžona: Ně, wona je moja ćeta a bydli w Budestecach.",
+        "question":"Hdźe bydli Sarah?",
+        "possible_answers":{
+            "1":"w Bukecach",
+            "2":"w Budestecach"
+        },
+        "question_type":"listening_A1_1"
+    },
+    {
+        "question_id":"A1.2.H02",
+        "question_level":"A1",
+        "context":"Za kurs trjebamy dźensa słowniki. Słowniki su w našej bibliotece.",
+        "question":"Za kurs trjebamy słowniki.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A1_2"
+    },
+    {
+        "question_id":"A1.2.H7",
+        "question_level":"A1",
+        "context":"Koncert serbskeho chóra „Lipa“ je jutře w awli Šule Ćišinskeho w Pančicach-Kukowje.",
+        "question":"Koncert je dźensa w Pančicach-Kukowje.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A1_2"
+    },
+    {
+        "question_id":"A1.2.H8",
+        "question_level":"A1",
+        "context":"Pjatk je swójbny dźeń w pěstowarni w Malešecach. Witamy twoju cyłu swójbu: nana a mać, dźěda a wowku, bratra a sotru!",
+        "question":"Swójbny dźeń je štwórtk.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A1_2"
+    },
+    {
+        "question_id":"A1.2.H9",
+        "question_level":"A1",
+        "context":"My dźensa paslimy. Trjebamy čerwjene pisaki, žołtu papjeru a lěpk. Wšitko je zady w regalu.",
+        "question":"Žołta papjera je w regalu.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A1_2"
+    },
+    {
+        "question_id":"A1.2.H10",
+        "question_level":"A1",
+        "context":"My smy wulka swójba. Ja mam štyri sotry a jednoho bratra. Moja sotra Hilža ma tež hižo tři dźowki.",
+        "question":"Hilža ma tři dźěći.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A1_2"
+    },
+    {
+        "question_id":"A1.2.H11",
+        "question_level":"A1",
+        "context":"Sobotu je camprowanje w Ćisku, a póndźelu je karnewal w Kulowje. Tam je přeco wjele ludźi.",
+        "question":"Karnewal je",
+        "possible_answers":{
+            "1":"w Kulowje.",
+            "2":"w Salowje."
+        },
+        "question_type":"listening_A1_3"
+    },
+    {
+        "question_id":"A1.2.H12",
+        "question_level":"A1",
+        "context":"Ja rěkam Michaela Kaiserowa. Ja sym nowa kursistka. Moje telefonowe čisło je: 03578 \/ 35 77 54.",
+        "question":"Knjeni Kaiserowa ma telefonowe čisło",
+        "possible_answers":{
+            "1":"03578 \/35 77 54.",
+            "2":"03578 \/53 77 54."
+        },
+        "question_type":"listening_A1_3"
+    },
+    {
+        "question_id":"A1.2.H13",
+        "question_level":"A1",
+        "context":"Knjez Siatkowski bydli w Pólskej. Wón je dźensa hósć w pěstowarni w Chrósćicach. Wón filmuje ptači kwas.",
+        "question":"Knjez Siatkowski filmuje",
+        "possible_answers":{
+            "1":"wjes Chrósćicy.",
+            "2":"ptači kwas."
+        },
+        "question_type":"listening_A1_3"
+    },
+    {
+        "question_id":"A1.2.H14",
+        "question_level":"A1",
+        "context":"Dźensa je ptači kwas. Dźěći w pěstowarni w Ralbicach pokazuja mały program. Wone spěwaja a rejuja. Holcy su w serbskej drasće.",
+        "question":"Program wuhotuja",
+        "possible_answers":{
+            "1":"starši.",
+            "2":"dźěći."
+        },
+        "question_type":"listening_A1_3"
+    },
+    {
+        "question_id":"A1.2.H15",
+        "question_level":"A1",
+        "context":"Halo, tu je Brězanec fyzioterapija. Waš syn Holger ma dźensa termin. Mamy hawariju a dźensa njedźěłamy. Jutře zaso dźěłamy.",
+        "question":"Fyzioterapija",
+        "possible_answers":{
+            "1":"dźensa njedźěła.",
+            "2":"jutře njedźěła."
+        },
+        "question_type":"listening_A1_3"
+    },
+    {
+        "question_id":"A1.2.L1",
+        "question_level":"A1",
+        "context":"Prošu!",
+        "question":"Prawa replika je:",
+        "possible_answers":{
+            "1":"Wutrobny dźak!",
+            "2":"Wjerch pomazy."
+        },
+        "question_type":"reading_A1_1"
+    },
+    {
+        "question_id":"A1.2.L2",
+        "question_level":"A1",
+        "context":"Mi so derje dźe.",
+        "question":"Prawa replika je:",
+        "possible_answers":{
+            "1":"Kak so ći wjedźe?",
+            "2":"Kak ty rěkaš?"
+        },
+        "question_type":"reading_A1_1"
+    },
+    {
+        "question_id":"A1.2.L6",
+        "question_level":"A1",
+        "context":"Narodniny\nMoja ćeta Hana ma dźensa narodniny. Wona je 35 lět stara. Wona dźěła jako sekretarka w awtowym domje. Hana ma tři dźěći: Jonasa, Feliksa a Jadwigu. Jonas je w šuli, Feliks je w pěstowarni a Jadwiga je doma. Wona je hišće mała. Hana rady spěwa. Wona spěwa w chórje. \nDźensa wšitcy narodniny swjećimy. Pijemy kofej a jěmy tortu a tykanc. Ja hrajkam sej z małej kuzinu Jadwigu.",
+        "question":"Hana ma narodniny.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_2"
+    },
+    {
+        "question_id":"A1.2.L7",
+        "question_level":"A1",
+        "context":"Narodniny\nMoja ćeta Hana ma dźensa narodniny. Wona je 35 lět stara. Wona dźěła jako sekretarka w awtowym domje. Hana ma tři dźěći: Jonasa, Feliksa a Jadwigu. Jonas je w šuli, Feliks je w pěstowarni a Jadwiga je doma. Wona je hišće mała. Hana rady spěwa. Wona spěwa w chórje. \nDźensa wšitcy narodniny swjećimy. Pijemy kofej a jěmy tortu a tykanc. Ja hrajkam sej z małej kuzinu Jadwigu.",
+        "question":"Hana rady njespěwa.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_2"
+    },
+    {
+        "question_id":"A1.2.L8",
+        "question_level":"A1",
+        "context":"Narodniny\nMoja ćeta Hana ma dźensa narodniny. Wona je 35 lět stara. Wona dźěła jako sekretarka w awtowym domje. Hana ma tři dźěći: Jonasa, Feliksa a Jadwigu. Jonas je w šuli, Feliks je w pěstowarni a Jadwiga je doma. Wona je hišće mała. Hana rady spěwa. Wona spěwa w chórje. \nDźensa wšitcy narodniny swjećimy. Pijemy kofej a jěmy tortu a tykanc. Ja hrajkam sej z małej kuzinu Jadwigu.",
+        "question":"Jadwiga je w pěstowarni.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_2"
+    },
+    {
+        "question_id":"A1.2.L9",
+        "question_level":"A1",
+        "context":"Rjany hobby\nMoja dźowka Katarina je dźewjeć lět stara. Wona rady rejuje. Nětko ma rjany hobby. Wona trenuje balet. Trening je póndźelu a štwórtk. Tež přećelka Sofija rejuje balet, kaž tež Lisa. Holcy trenuja w Serbskim šulskim centrumje w Budyšinje. Tam je nowa sportowa hala. Trenarka je knjeni Farkanelli. Wone rejuja klasiski balet a hip-hop.",
+        "question":"Trening je přeco srjedu.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_2"
+    },
+    {
+        "question_id":"A1.2.L10",
+        "question_level":"A1",
+        "context":"Rjany hobby\nMoja dźowka Katarina je dźewjeć lět stara. Wona rady rejuje. Nětko ma rjany hobby. Wona trenuje balet. Trening je póndźelu a štwórtk. Tež přećelka Sofija rejuje balet, kaž tež Lisa. Holcy trenuja w Serbskim šulskim centrumje w Budyšinje. Tam je nowa sportowa hala. Trenarka je knjeni Farkanelli. Wone rejuja klasiski balet a hip-hop.",
+        "question":"Lisa njetrenuje.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_2"
+    },
+    {
+        "question_id":"A1.2.L03",
+        "question_level":"A1",
+        "context":"W Serbskim domje: \nSERBSKA KULTURNA INFORMACIJA \nje w Serbskim domje w Budyšinje na Póstowym naměsće 2",
+        "question":"Serbska kulturna informacija je w Serbskim domje.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_3"
+    },
+    {
+        "question_id":"A1.2.L11",
+        "question_level":"A1",
+        "context":"Pěstowarnja informuje: \nLube maćerje, lubi nanojo, lube dźěći! \nPřeprosymy Was srjedu na 10. jubilej našeje pěstowarnje: \nw 14.30 hodź. pijemy kofej \nw 15.30 hodź. je mały program dźěći \nw 16.00 hodź. hrajkamy sej hromadźe na hrajkanišću \nw 17.00 hodź. je diskoteka",
+        "question":"W pěstowarni je swójbny dźeń.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_3"
+    },
+    {
+        "question_id":"A1.2.L12",
+        "question_level":"A1",
+        "context":"Na durjach sekretariata: \npóndźelu a wutoru 8.00 - 13.00 \nštwórtk a pjatk 8.00 - 13.00 \nwutoru 15.00 - 18.00 \nštwórtk a pjatk 15.00 - 18.00",
+        "question":"Srjedu sekretarka njedźěła.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_3"
+    },
+    {
+        "question_id":"A1.2.L13",
+        "question_level":"A1",
+        "context":"Filmowy tip: \n!! Dźensa serbski krimi !! \nWječor w programje ARD w 20.15 hodź. je serbski krimi. Wón hraje w Błótach. Wobhladajće sej!",
+        "question":"Krimi hraje w Budyšinje.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_3"
+    },
+    {
+        "question_id":"A1.2.L14",
+        "question_level":"A1",
+        "context":"Domowina informuje: \nNowy kurs pólšćiny je wutoru, 12. januara, we 18.00 hodź. Wučerka je Agnieszka Kowalska. Trjebaće němsko-pólski słownik. Kursowy material je w šuli.",
+        "question":"Nowy kurs serbšćiny je wutoru.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_3"
+    },
+    {
+        "question_id":"A1.2.L15",
+        "question_level":"A1",
+        "context":"Informacija za staršich: \nLubi starši! \nW našej pěstowarni dźěła wot oktobra nowa praktikantka. Wona rěka Sarah Maršnerec a je kóždu póndźelu a kóždy štwórtk w pěstowarni.",
+        "question":"Nowa praktikantka je póndźelu a štwórtk w pěstowarni.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A1_3"
+    }
+]

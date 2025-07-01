@@ -1,0 +1,106 @@
+question_id,question_level,context,question,possible_answers,question_type
+A1.2.H01,A1,"muž: Mě se groni Thomas Maier a ja bydlim w Grodku. A kak se Wam groni? 
+žona: Ja som Petra Hanojc a ja bydlim w Złem Komorowje. 
+muž: Ja wuknjom serbski. My mamy kuždu srjodu kurs. Naša ceptaŕka jo kněni Kokotowa. 
+žona: Aha, powědaśo južo derje.",Chto jo ceptaŕka?,"1 kněni Kokotowa 
+2 kněni Hanojc",listening_A1_1
+A1.2.H1,A1,"ceptaŕka: Dobry źeń! Ja som kněni Wiesnerowa. Ja som Waša ceptaŕka. 
+muž: Dobry źeń! Mě se groni Sven Šuman. Ja som ten nowy kursist. 
+ceptaŕka: Witajśo k nam! 
+muž: Wutšobny źěk!",Kněz Šuman jo,"1 ceptaŕ. 
+2 kursist.",listening_A1_1
+A1.2.H2,A1,"žona 1: Halo, Kerstin, treněrujom kuždy stwórtk zumba. 
+žona 2: Halo, źo jo waš trening? 
+žona 1: Treněrujomy w Chóśebuzu. Smy jano młode źowća. 
+žona 2: Kak stare wy sćo? 
+žona 1: Někak 15 lět.",Kak stare su źowća?,"1 15 lět 
+2 25 lět",listening_A1_1
+A1.2.H3,A1,"muž: Dobry źeń! 
+žona: Witaj! Co gótujo twój syn? 
+muž: Wón studěrujo w Pódstupimje? 
+žona: A co wón studěrujo? 
+muž: Ekonomiju. 
+žona: Bydli wón teke w Pódstupimje? 
+muž: Ně, wón bydli w Barlinju.",Źo bydli syn?,"1 w Pódstupimje 
+2 w Barlinju",listening_A1_1
+A1.2.H4,A1,"kursistka 1: Anna, maš ty Nowy Casnik? 
+kursistka 2: Ně, njamam. Cogodla? 
+kursistka 1: Tam jo rědny foto. 
+kursistka 2: Kaki? 
+kursistka 1: My smy tam – naš kurs.",Co jo w Nowem Casniku?,"1 foto wó kursu
+2 foto wó šuli",listening_A1_1
+A1.2.H5,A1,"Klaus: Stefani, źo jo Juro? 
+Stefani: To njewěm. Snaź na dwórje? 
+Klaus: Ně, tam wón njejo. 
+Stefani: Ach, něnto wěm. Wón jo w sportowej hali. Wón pśigótujo volleybalowy turněr.",Źo jo Juro?,"1 w sportowej hali 
+2 na dwórje",listening_A1_1
+A1.2.H6,A1,"muž: Mě se groni Jan Nowak a bydlim w Brjazynje! A kak se Wam groni? 
+žona: Ja som Sandy Panojc a bydlim we Turjeju. 
+muž: Jo Hanka Panowa Waša maś? 
+žona: Ně, wóna jo mója śota. Wóna bydli w Turnowje.",Źo bydli Sandy?,"1 w Turjeju 
+2 w Turnowje",listening_A1_1
+A1.2.H02,A1,Za kurs trjebamy źinsa słownik. Słowniki su w našej bibliotece.,Za kurs trjebamy słownik.,"1 pšawje
+2 wopak",listening_A1_2
+A1.2.H7,A1,Koncert kupki „Die Folksamen“ jo witśe wjacor w Dešnje w gósćeńcu „Serbski dwór“.,Koncert jo źinsa w Dešnje.,"1 pšawje
+2 wopak",listening_A1_2
+A1.2.H8,A1,"Pětk jo familijowy źeń w źiśowni w Radušu. Witamy twóju cełu familiju: nana a mamu, starkego a starku, bratša a sotšu.",Familijowy źeń jo stwórtk. ,"1 pšawje
+2 wopak",listening_A1_2
+A1.2.H9,A1,"My źinsa baslimy. My trjebamy cerwjene pisaki, žołtu papjeru a lim. Wšykno jo slězy w regalu.",Žołta papjera jo w regalu.,"1 pšawje
+2 wopak",listening_A1_2
+A1.2.H10,A1,My smy wjelika familija. Ja mam styri sotšy a jadnogo bratša. Mója sotša Evelin ma teke južo tśi źowki.,Evelin ma tśi źiśi.,"1 pšawje
+2 wopak",listening_A1_2
+A1.2.H11,A1,"Sobotu jo zapust w Drjenowje, a njeźelu jo jubilejny zapust w Barbuce. Tam jo pśecej wjele luźi.",Jubilejny zapust jo,"1 w Barbuce. 
+2 w Drjenowje.",listening_A1_3
+A1.2.H12,A1,Mě se groni Michaela Wölkowa. Ja som ta nowa kursistka. Mójo telefonowe cysło jo: 03602 /35 774.,Kněni Wölkowa ma telefonowe cysło,"1 03602 /35 774. 
+2 03602 /53 774.",listening_A1_3
+A1.2.H13,A1,Kněz Siatkowski bydli w Pólskej. Wón jo źinsa gósć w źiśowni w Žylowje. Wón filmujo ptaškowu swajźbu.,Kněz Siatkowski filmujo,"1 wjas Žylow. 
+2 ptaškowu swajźbu.",listening_A1_3
+A1.2.H14,A1,Źinsa jo ptaškowa swajźba. Źiśi w źiśowni w Žylowje pokazuju mały program. Wóni spiwaju a rejuju. Źowća su w serbskej drastwje.,Program gótuju ,"1 starjejše.
+2 źiśi.",listening_A1_3
+A1.2.H15,A1,"Halo, how jo Müllerojc fyzioterapija. Waš syn Holger ma źinsa termin. My źinsa njeźěłamy, mamy hawariju. Witśe zasej źěłamy.",Fyzioterapija,"1 źinsa njeźěła.
+2 witśe njeźěła.",listening_A1_3
+A1.2.L2,A1,Mě se źo derje.,Pšawa replika jo:,"1 Kak se źo? 
+2 Kak se tebje groni?",reading_A1_1
+A1.2.L6,A1,"Narodny źeń
+Mója śota Anna ma narodny źeń. Wóna jo 35 lět stara. Wóna źěła ako sekretaŕka w awtowem domje. Anna ma tśi źiśi: Jonasa, Feliksa a Jadwigu. Jonas jo w šuli, Feliks jo w źiśowni a Jadwiga jo doma. Wóna jo hyšći mała. Anna rad spiwa. Wóna spiwa teke w chorje. Źinsa wšykne swěśimy narodniny. Pijomy kafej a jěmy tortu a tykańc. Ja grajkam z mójeju śeśenicu Jadwigu.",Anna ma narodny źeń.,"1 pšawje
+2 wopak",reading_A1_2
+A1.2.L7,A1,"Narodny źeń
+Mója śota Anna ma narodny źeń. Wóna jo 35 lět stara. Wóna źěła ako sekretaŕka w awtowem domje. Anna ma tśi źiśi: Jonasa, Feliksa a Jadwigu. Jonas jo w šuli, Feliks jo w źiśowni a Jadwiga jo doma. Wóna jo hyšći mała. Anna rad spiwa. Wóna spiwa teke w chorje. Źinsa wšykne swěśimy narodniny. Pijomy kafej a jěmy tortu a tykańc. Ja grajkam z mójeju śeśenicu Jadwigu.",Anna rad njespiwa. ,"1 pšawje
+2 wopak",reading_A1_2
+A1.2.L8,A1,"Narodny źeń
+Mója śota Anna ma narodny źeń. Wóna jo 35 lět stara. Wóna źěła ako sekretaŕka w awtowem domje. Anna ma tśi źiśi: Jonasa, Feliksa a Jadwigu. Jonas jo w šuli, Feliks jo w źiśowni a Jadwiga jo doma. Wóna jo hyšći mała. Anna rad spiwa. Wóna spiwa teke w chorje. Źinsa wšykne swěśimy narodniny. Pijomy kafej a jěmy tortu a tykańc. Ja grajkam z mójeju śeśenicu Jadwigu.",Jadwiga jo w źiśowni.,"1 pšawje
+2 wopak",reading_A1_2
+A1.2.L9,A1,"Rědny hobby
+Mója źowka Katarina jo źewjeś lět stara. Wóna rada rejujo. Něnto ma rědny hobby. Wóna treněrujo balet. Trening jo pónjeźele a stwórtk. Teke pśijaśelka Sofi rejujo, ako teke Liza. Źowća treněruju w šulskem centrumje „Albert Schweitzer“ we Wětošowje. Tam jo teke nowa sportowa hala. Trenaŕka jo kněni Raunikowa. Wóni rejuju klasiski balet a hip-hop.",Trening jo pśecej srjodu.,"1 pšawje
+2 wopak",reading_A1_2
+A1.2.L10,A1,"Rědny hobby
+Mója źowka Katarina jo źewjeś lět stara. Wóna rada rejujo. Něnto ma rědny hobby. Wóna treněrujo balet. Trening jo pónjeźele a stwórtk. Teke pśijaśelka Sofi rejujo, ako teke Liza. Źowća treněruju w šulskem centrumje „Albert Schweitzer“ we Wětošowje. Tam jo teke nowa sportowa hala. Trenaŕka jo kněni Raunikowa. Wóni rejuju klasiski balet a hip-hop.",Lisa njetreněrujo.,"1 pšawje
+2 wopak",reading_A1_2
+A1.2.L03,A1,"W Serbskem domje:  DOLNOSERBSKA BIBLIOTEKA 
+jo w Serbskem domje w Chóśebuzu na Augusta-Bebelowej droze 82",Dolnoserbska biblioteka jo w Serbskem domje.,"1 pšawje
+2 wopak",reading_A1_3
+A1.2.L11,A1,"Źiśownja informěrujo:
+Lube mamy, lube nany, lube źiśi!
+Pśepšosyjomy Was srjodu na 10. jubileum našeje źiśownje:
+z. 14.30 pijomy kafej
+z. 15.30 jo mały program źiśi
+z. 16.00 grajkamy gromaźe na grajkanišću
+z. 17.00 diskoteka",W źiśowni jo familijowy źeń.,"1 pšawje
+2 wopak",reading_A1_3
+A1.2.L12,A1,"Na źurjach sekretariata: 
+Pónjeźele a wałtoru 8.00 - 13.00 
+Stwórtk a pětk 8.00 - 13.00 
+Wałtoru 15.00 - 18.00 
+Stwórtk a pětk 15.00 - 18.00",Srjodu sekretaŕka njeźěła.,"1 pšawje
+2 wopak",reading_A1_3
+A1.2.L13,A1,"Filmowy tip: 
+!! Źinsa serbski krimi !! 
+Wjacor w programje ARD z. 20.15 jo serbski krimi. Wón grajo we Błotach. Glědajśo!",Krimi grajo w Budyšynje.,"1 pšawje
+2 wopak",reading_A1_3
+A1.2.L14,A1,"Šula za dolnoserbsku rěc a kulturu informěrujo: 
+Pśiducy kurs pólšćiny jo wałtoru 12. januar z. 18.00. Ceptaŕka jo kněni Agnieszka Kowalska. Trjebaśo nimsko-pólski słownik. Kursowy material jo w šuli.",Nowy kurs serbšćiny jo wałtoru.,"1 pšawje
+2 wopak",reading_A1_3
+A1.2.L15,A1,"Informacija za starjejšych: 
+Lube starjejše! 
+W našej źiśowni źěła wót oktobera nowa praktikantka. Jej se groni Mandy Pawlikojc. Wóna jo w źiśowni kužde pónjeźele a kuždy stwórtk.",Nowa praktikantka jo w źiśowni pónjeźele a stwórtk.,"1 pšawje
+2 wopak",reading_A1_3

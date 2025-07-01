@@ -1,0 +1,322 @@
+[
+    {
+        "question_id":"A2.2.H01",
+        "question_level":"A2",
+        "context":"kněz: Dobry źeń! Wódajśo pšosym, ja pytam kněza Kosaka. \nrecepcionistka: Dobry źeń! Kněz Kosak ma swój běrow na drugej etažy ned nalěwo. Moment pšosym, to jo śpa 23. Wón jo górjejce. \nkněz: Druga etaža, śpa 23. Wutšobny źěk!",
+        "question":"W kótarej śpě móžośo kněza Kosaka namakaś?",
+        "possible_answers":{
+            "1":"32",
+            "2":"2",
+            "3":"23"
+        },
+        "question_type":"listening_A2_1"
+    },
+    {
+        "question_id":"A2.2.H1",
+        "question_level":"A2",
+        "context":"kupc: Maśo wy CD z muziku Bjarnata Krawca? \npśedawarka: Mamy „33 serbskich ludowych spiwow“ Bjarnata Krawca ako jadnoru CD abo ako dwójnu CD. \nkupc: A kaki jo ten rozdźěl? \npśedawarka: Ta jadna płaśi 10 € a ta druga 20 €. \nkupc: A to su te samske spiwy? \npśedawarka: Jo. Cośo Wy jadnu měś? \nkupc: Jo, ja wzejom tu jadnoru CD za 10 €. \npśedawarka: How pšosym. Wjele wjasela pśi słuchanju!",
+        "question":"Wjele płaśi dwójna CD?",
+        "possible_answers":{
+            "1":"10 €",
+            "2":"20 €",
+            "3":"12 €"
+        },
+        "question_type":"listening_A2_1"
+    },
+    {
+        "question_id":"A2.2.H2",
+        "question_level":"A2",
+        "context":"Dawid: Halo, Bjarnat, co ty how cyniš na dwórnišću? \nBjarnat: Witaj, Dawid! Źo ty coš? \nDawid: Ja cu do Pódstupima do krajnego sejma. Tam jo zmakanje. A ty? \nBjarnat: Ja jěźom do Pragi. Towaristwo „Pśijaśele Serbow w Praze“ jo mě pśepšosyło. Wěš ty, wjelich jo? \nDawid: Glědaj, tam wisy zeger. Jo tśi minuty do wósymich. Ga jěźo twój śěg? \nBjarnat: Pěś pó wósymich. Dejm něnto chwataś. \nDawid: Tak měj se derje.",
+        "question":"Ga jěźo śěg do Pragi?",
+        "possible_answers":{
+            "1":"zeger wósymich",
+            "2":"tśi do wósymych",
+            "3":"pěś pó wósymych"
+        },
+        "question_type":"listening_A2_1"
+    },
+    {
+        "question_id":"A2.2.H3",
+        "question_level":"A2",
+        "context":"kelnaŕ: Dobry źeń! Co cośo Wy jěsć? \ngósć: Grichiski salat pšosym. \nkelnaŕ: Ow, to jo mě luto. Grichiski salat njejo wěcej. Ale mamy dobry salat z kokošowym měsom.\ngósć: Ně, měso rada njejěm. Maśo teke normalny měšany salat? \nkelnaŕ: Se wě. Kótary dresing cośo k tomu měś, zelowy abo jogurtowy? \ngósć: Zelowy. A k tomu pšosym jadnu mineralnu wódu. \nkelneŕ: Jo to wšo? \ngósć: Jo.",
+        "question":"Co gósć wobjedujo?",
+        "possible_answers":{
+            "1":"měšany salat",
+            "2":"grichiski salat",
+            "3":"salat z kokošowym měsom"
+        },
+        "question_type":"listening_A2_1"
+    },
+    {
+        "question_id":"A2.2.H4",
+        "question_level":"A2",
+        "context":"kolegina 1: Dobry źeń, kněni Bagolina! Kak se Wam źo?\nkolegina 2: Mě se źo derje, ale mój synašk jo zachopił w nowej źiśowni a wjelgin wjele płaco. Jomu se tam njespódoba.\nkolegina 1: A kak stary wón jo?\nkolegina 2: Dwě lěśe něnto jo ... wón jo měł cora narodniny.\nkolegina 1: Mója źowka jo na zachopjeńku teke wjele płakała. Něnto wóna pak rada chójźi do źiśownje a se kuždy źeń na to wjaseli.\nkolegina 2: Aha, pón buźo to zawěsće skóro lěpjej z mójim synom. Źiśi ga deje se teke na wšo akle zwucyś.\nkolegina 1: Tak jo.",
+        "question":"Cogodla synašk płaco?",
+        "possible_answers":{
+            "1":"jo chóry",
+            "2":"njoco do šule",
+            "3":"njoco do noweje źiśownje"
+        },
+        "question_type":"listening_A2_1"
+    },
+    {
+        "question_id":"A2.2.H5",
+        "question_level":"A2",
+        "context":"kolegina 1: Dobre zajtšo, Marina! Ty ga sy źinsa jěsno na źěle. \nkolegina 2: Jo, mam hyšći tak wjele cyniś. Witśe ga jěźomy do dowola. \nkolegina 1: Źo jěźośo? \nkolegina 2: Comy k mórju, na pólski bok, do Międzyzdroja. \nkolegina 1: To ja znajom. Tam som teke južo była. Tam jo wjelgin rědnje. Kak dłujko maš dowol? \nkolegina 2: Tśi tyźenje. Ale w Pólskej smy jano dwa tyźenja, jaden tyźeń smy hyšći doma. \nkolegina 1: No pón, wjele wjasela.",
+        "question":"Kak dłujko ma kolegina dowol?",
+        "possible_answers":{
+            "1":"tyźeń",
+            "2":"dwa tyźenja",
+            "3":"tśi tyźenje"
+        },
+        "question_type":"listening_A2_1"
+    },
+    {
+        "question_id":"A2.2.H6",
+        "question_level":"A2",
+        "context":"maś: Monika, pśigótuj pšosym blido! Comy ned wobjedowaś. \nMonika: Jo, mama, ale rowno telewiziju glědam. \nmaś: Ně, Monika, dejš něnto pśestaś. Wušaltuj telewizor a pomogaj mě pšosym. \nMonika: Južo pśiźom. Co dejm pśigótowaś? Dłymoke abo niske talarje, łžyce abo widlicki a nož? \nmaś: Dłymoke talarje njetrjebamy a łžycki teke nic. Źinsa dajo gulaš. \nMonika: H-m-m gulaš! To ja rada jěm. Pón malsnje wšo pśigótujom. \nmaś: To jo lubo wót tebje.",
+        "question":"Co dej Monika na blido stajiś?",
+        "possible_answers":{
+            "1":"niske talarje",
+            "2":"dłymoke talarje",
+            "3":"wjelike łžyce"
+        },
+        "question_type":"listening_A2_1"
+    },
+    {
+        "question_id":"A2.2.H02",
+        "question_level":"A2",
+        "context":"Słuchajśo! Nowy termin! Pśedstajenje noweje Pratyje 30. september wupadnjo. Nowy termin jo pětk 6. oktober z. 18.00 w Mósće. Pšosymy wó rozměśe!",
+        "question":"Pratyja ma premjeru 6. oktobera. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A2_2"
+    },
+    {
+        "question_id":"A2.2.H7",
+        "question_level":"A2",
+        "context":"Lube kupce!\nSerbska kulturna informacija LODKA ma ku gódam wósebne póbitowanje. Pórucyjomy sortiment Załožby za serbski lud za poł płaśizny – to su cejdeje, wideopaski a basleński material za źiśi. Buźćo witane a kupśo pśi nas gódowny dar!",
+        "question":"Wšykne knigły za źiśi su za poł płaśizny. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A2_2"
+    },
+    {
+        "question_id":"A2.2.H8",
+        "question_level":"A2",
+        "context":"Na wulěśe rejowańskeje kupki groni organizator: „Něnto gótujomy wobjedowu pśestawku. Bus zastanjo pśi gósćeńcu. Pśestawka trajo jadnu góźinu. Zmakajomy se pótom zasej pśi busu. Buźćo pšosym dypkowne.“",
+        "question":"Kupka se zmakajo pó pśestawce w gósćeńcu. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A2_2"
+    },
+    {
+        "question_id":"A2.2.H9",
+        "question_level":"A2",
+        "context":"Lube kursisty! Sobotu jo rěcny campus Šule za dolnoserbsku rěc a kulturu w Strjažowje. Twaŕskich źěłow dla campus pak njejo w gmejnskem domje, ako nejpjerwjej planowane, ale w starej kjarcmje. Pšosym mysliśo se na to!",
+        "question":"Rěcny campus jo w kjarcmje.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A2_2"
+    },
+    {
+        "question_id":"A2.2.H10",
+        "question_level":"A2",
+        "context":"Kwětkaŕnja „Strusack“ informěrujo: Mamy wjeliki sortiment pisanych kwětkow za zagrodu, na pśikład primule, matuški, narcise a hyacynty. W aprylu dajomy za tśiźasća rostlinow 10 litrow kwětkoweje zemje k tomu.",
+        "question":"5. maj wósebna akcija wěcej njepłaśi.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_A2_2"
+    },
+    {
+        "question_id":"A2.2.H11",
+        "question_level":"A2",
+        "context":"How jo regionalny běrow Domowiny w Chóśebuzu. Njejsmy rowno w běrowje. Běrow jo zasej wobsajźony wót z. 14.00. Pšosym zazwóńśo we wažnych padach na handyjowe cysło: 0176 – 43 22 58.",
+        "question":"Handyjowe cysło jo:",
+        "possible_answers":{
+            "1":"0176 – 42 33 58",
+            "2":"0176 – 43 22 58",
+            "3":"0176 – 58 33 42"
+        },
+        "question_type":"listening_A2_3"
+    },
+    {
+        "question_id":"A2.2.H12",
+        "question_level":"A2",
+        "context":"Halo, papa, how jo Jan. Sejźim w śěgu do Chóśebuza. Naš śěg pśiźo góźinu pózdźej. Móžoš mě weto wótholiś wót dwórnišća? Ja cakam pśed dwórnišćom.",
+        "question":"Źo jo Jan?",
+        "possible_answers":{
+            "1":"w Chóśebuzu",
+            "2":"w śěgu",
+            "3":"pśed dwórnišćom"
+        },
+        "question_type":"listening_A2_3"
+    },
+    {
+        "question_id":"A2.2.H13",
+        "question_level":"A2",
+        "context":"Halo, ato, how jo hyšci raz Jan. Ja som něnto na dwórnišću. Źo ty sy?Cakam južo 20 minutow. Cakam hyšći 10 minutow až do běrtyl na tśi. Pótom pójěźom z taksu domoj.",
+        "question":"Kak dłujko co Jan hyšći cakaś?",
+        "possible_answers":{
+            "1":"10 minutow",
+            "2":"12 minutow",
+            "3":"20 minutow"
+        },
+        "question_type":"listening_A2_3"
+    },
+    {
+        "question_id":"A2.2.H14",
+        "question_level":"A2",
+        "context":"Dobry źeń, kněni Lehmannowa! How jo praksa dr. Krala. Musymy Waš termin bóžko změniś wót wałtory na pětk z. 12.45. Mamy rucnikarjow w domje a wót wałtory do stwórtka njejo žedna śopła wóda.",
+        "question":"Ga jo nowy termin kněni Lehmannoweje? ",
+        "possible_answers":{
+            "1":"wałtoru",
+            "2":"pětk",
+            "3":"stwórtk"
+        },
+        "question_type":"listening_A2_3"
+    },
+    {
+        "question_id":"A2.2.H15",
+        "question_level":"A2",
+        "context":"Halo, Thomas, how jo Marina. Móžoš mě pšosym pomogaś? Mója mašina za pałkanje jo dokusow. Tam wóda wen běžy. Pśiź ned raz mimo, gaž sy doma! Warim śi teke dobry kafej!",
+        "question":"Co jo dokusow? ",
+        "possible_answers":{
+            "1":"mašina za wobmywanje",
+            "2":"kafejowa mašina",
+            "3":"mašina za pałkanje"
+        },
+        "question_type":"listening_A2_3"
+    },
+    {
+        "question_id":"A2.2.L01",
+        "question_level":"A2",
+        "context":"Luba starka!\nWutšobny póstrow z Bad Sulza! Kura se mě wjelgin spódoba. Smy how wjele źiśi. Kuždy źeń mamy terapiju a šulu. Našej wucabnicy se groni kněni Mayerowa a wóna jo wjelgin pśijaśelna. Wóna powěda nimski, ruski a pólski. Ale serbski bóžko njamóžo. Wóna pitśku rozmějo, gaž něco serbski gronim.\nHow njejsu žedne druge źiśi z Łužyce, jano ja sama. Ale mam južo pśijaśelku, jej se groni Isabell a wóna bydli w Drježdźanach. Isabell njepijo žedno mloko. Ale mězgu a tej ma wóna rad. Wóna teke njejě žednu fryšnu zeleninu. Jano tomaty jej słoźe. Sad pak wjelgin lubujo. Wósebnje rada jě jabłuka, banany, kšuški a slěwki. Mej kuždy źeń gromaźe grajkamej, knigły cytamej abo cejdejki słuchamej.\nWótpołdnja smějomy teke telewiziju glědaś. How jo rědnje!\nCo gótujo starki? Maśo južo małe karnikle?\nNa zasejwiźenje, luba starka!\nTwója Katarina",
+        "question":"Katarina jo na kurje w Bad Sulza. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_1"
+    },
+    {
+        "question_id":"A2.2.L1",
+        "question_level":"A2",
+        "context":"Luba starka!\nWutšobny póstrow z Bad Sulza! Kura se mě wjelgin spódoba. Smy how wjele źiśi. Kuždy źeń mamy terapiju a šulu. Našej wucabnicy se groni kněni Mayerowa a wóna jo wjelgin pśijaśelna. Wóna powěda nimski, ruski a pólski. Ale serbski bóžko njamóžo. Wóna pitśku rozmějo, gaž něco serbski gronim.\nHow njejsu žedne druge źiśi z Łužyce, jano ja sama. Ale mam južo pśijaśelku, jej se groni Isabell a wóna bydli w Drježdźanach. Isabell njepijo žedno mloko. Ale mězgu a tej ma wóna rad. Wóna teke njejě žednu fryšnu zeleninu. Jano tomaty jej słoźe. Sad pak wjelgin lubujo. Wósebnje rada jě jabłuka, banany, kšuški a slěwki. Mej kuždy źeń gromaźe grajkamej, knigły cytamej abo cejdejki słuchamej.\nWótpołdnja smějomy teke telewiziju glědaś. How jo rědnje!\nCo gótujo starki? Maśo južo małe karnikle?\nNa zasejwiźenje, luba starka!\nTwója Katarina",
+        "question":"Katarina powěda serbski. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_1"
+    },
+    {
+        "question_id":"A2.2.L2",
+        "question_level":"A2",
+        "context":"Luba starka!\nWutšobny póstrow z Bad Sulza! Kura se mě wjelgin spódoba. Smy how wjele źiśi. Kuždy źeń mamy terapiju a šulu. Našej wucabnicy se groni kněni Mayerowa a wóna jo wjelgin pśijaśelna. Wóna powěda nimski, ruski a pólski. Ale serbski bóžko njamóžo. Wóna pitśku rozmějo, gaž něco serbski gronim.\nHow njejsu žedne druge źiśi z Łužyce, jano ja sama. Ale mam južo pśijaśelku, jej se groni Isabell a wóna bydli w Drježdźanach. Isabell njepijo žedno mloko. Ale mězgu a tej ma wóna rad. Wóna teke njejě žednu fryšnu zeleninu. Jano tomaty jej słoźe. Sad pak wjelgin lubujo. Wósebnje rada jě jabłuka, banany, kšuški a slěwki. Mej kuždy źeń gromaźe grajkamej, knigły cytamej abo cejdejki słuchamej.\nWótpołdnja smějomy teke telewiziju glědaś. How jo rědnje!\nCo gótujo starki? Maśo južo małe karnikle?\nNa zasejwiźenje, luba starka!\nTwója Katarina",
+        "question":"Katarina powěda teke ruski a polski.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_1"
+    },
+    {
+        "question_id":"A2.2.L3",
+        "question_level":"A2",
+        "context":"Luba starka!\nWutšobny póstrow z Bad Sulza! Kura se mě wjelgin spódoba. Smy how wjele źiśi. Kuždy źeń mamy terapiju a šulu. Našej wucabnicy se groni kněni Mayerowa a wóna jo wjelgin pśijaśelna. Wóna powěda nimski, ruski a pólski. Ale serbski bóžko njamóžo. Wóna pitśku rozmějo, gaž něco serbski gronim.\nHow njejsu žedne druge źiśi z Łužyce, jano ja sama. Ale mam južo pśijaśelku, jej se groni Isabell a wóna bydli w Drježdźanach. Isabell njepijo žedno mloko. Ale mězgu a tej ma wóna rad. Wóna teke njejě žednu fryšnu zeleninu. Jano tomaty jej słoźe. Sad pak wjelgin lubujo. Wósebnje rada jě jabłuka, banany, kšuški a slěwki. Mej kuždy źeń gromaźe grajkamej, knigły cytamej abo cejdejki słuchamej.\nWótpołdnja smějomy teke telewiziju glědaś. How jo rědnje!\nCo gótujo starki? Maśo južo małe karnikle?\nNa zasejwiźenje, luba starka!\nTwója Katarina",
+        "question":"Isabell jě rada tomaty.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_1"
+    },
+    {
+        "question_id":"A2.2.L4",
+        "question_level":"A2",
+        "context":"Źinsa warimy\nrybu ze žonopoweju butru\nZa 4 wósoby trjebaśo:\n4 rybjece fileje, 3 wjelike cybule, 50 g butry, 3 łžyce žonopa, sol, citronu a 100 g twarožka.\nNejpjerwjej dejmy rybu myś a tšošku soliś. Pótom dajomy citronu na rybu a rozkšajomy cybule. Cybule dajomy do panweje a pjacomy z butru. Něnto měšamy žonop a cybule a namažomy rybu ze žonopoweju butru. Rybu dejmy w pjacyku (200 do 220°C) 20 min. pjac. Pótom rozkšajomy twarožk a dajomy jen na rybu. Něnto dejmy rybu z twarožkom hyšći raz 10 min. pjac. K tomu pśigótujomy kisałe kulki a górkowy salat.\nDajśo se słoźeś!",
+        "question":"Trjebamy žonop, twarog a butru. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_1"
+    },
+    {
+        "question_id":"A2.2.L5",
+        "question_level":"A2",
+        "context":"Źinsa warimy\nrybu ze žonopoweju butru\nZa 4 wósoby trjebaśo:\n4 rybjece fileje, 3 wjelike cybule, 50 g butry, 3 łžyce žonopa, sol, citronu a 100 g twarožka.\nNejpjerwjej dejmy rybu myś a tšošku soliś. Pótom dajomy citronu na rybu a rozkšajomy cybule. Cybule dajomy do panweje a pjacomy z butru. Něnto měšamy žonop a cybule a namažomy rybu ze žonopoweju butru. Rybu dejmy w pjacyku (200 do 220°C) 20 min. pjac. Pótom rozkšajomy twarožk a dajomy jen na rybu. Něnto dejmy rybu z twarožkom hyšći raz 10 min. pjac. K tomu pśigótujomy kisałe kulki a górkowy salat.\nDajśo se słoźeś!",
+        "question":"Rybu dejmy pěśnasćo minutow pjac.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_1"
+    },
+    {
+        "question_id":"A2.2.L11",
+        "question_level":"A2",
+        "context":"Halo, Mirko,\nkak se tebje źo? Co sy kóńc tyźenja gótował?\nMój kóńc tyźenja jo był super: Pětk smy (Sandra, Timo, Petra a ja) šli do gósćeńca na wjacerju. Smy byli w indiskem gósćeńcu. Mě jo napšawdu wjelgin derje słoźěło. Pótom smy na disko šli. Skóńcnje zasej raz rejowaś – to jo było rědnje! Som akle pózdźe domoj pśišeł.\nSobotu rano zeger źewjeśich (!) jo Maja zazwóniła. Wóna jo groniła: „Do gósćeńca a na reje chójźiš, ale do muzeja njejźoš!“ Pótakem som z Maju nejpjerwjej šeł do měsćańskego muzeuma a pótom hyšći do galerije. Som wjele nowego nawuknuł wó našom měsće a wjele wobrazow wiźeł. Pótom pak som był wjelgin mucny. Som južo wjacor źewjeśich do póstole šeł.\nNjeźelu rano som jěsno stanuł. Som do Koblenca jěł a w kafejowni pśi jazoru snědał. Tam som teke wjele fotografěrował. Doma som se wobraze na kompjuterje woglědał. To su napšawdu kšasne fota! Pósćelom tebje dwě abo tśi.\nA co sy ty cynił? Sy tež aktiwny był?\nLubje strowi\nBen",
+        "question":"Ben jo pětk w indiskem gósćeńcu wobjedował. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_3"
+    },
+    {
+        "question_id":"A2.2.L12",
+        "question_level":"A2",
+        "context":"Halo, Mirko,\nkak se tebje źo? Co sy kóńc tyźenja gótował?\nMój kóńc tyźenja jo był super: Pětk smy (Sandra, Timo, Petra a ja) šli do gósćeńca na wjacerju. Smy byli w indiskem gósćeńcu. Mě jo napšawdu wjelgin derje słoźěło. Pótom smy na disko šli. Skóńcnje zasej raz rejowaś – to jo było rědnje! Som akle pózdźe domoj pśišeł.\nSobotu rano zeger źewjeśich (!) jo Maja zazwóniła. Wóna jo groniła: „Do gósćeńca a na reje chójźiš, ale do muzeja njejźoš!“ Pótakem som z Maju nejpjerwjej šeł do měsćańskego muzeuma a pótom hyšći do galerije. Som wjele nowego nawuknuł wó našom měsće a wjele wobrazow wiźeł. Pótom pak som był wjelgin mucny. Som južo wjacor źewjeśich do póstole šeł.\nNjeźelu rano som jěsno stanuł. Som do Koblenca jěł a w kafejowni pśi jazoru snědał. Tam som teke wjele fotografěrował. Doma som se wobraze na kompjuterje woglědał. To su napšawdu kšasne fota! Pósćelom tebje dwě abo tśi.\nA co sy ty cynił? Sy tež aktiwny był?\nLubje strowi\nBen",
+        "question":"Wjacor jo Ben z pśijaśelami na disko šeł.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_3"
+    },
+    {
+        "question_id":"A2.2.L13",
+        "question_level":"A2",
+        "context":"Halo, Mirko,\nkak se tebje źo? Co sy kóńc tyźenja gótował?\nMój kóńc tyźenja jo był super: Pětk smy (Sandra, Timo, Petra a ja) šli do gósćeńca na wjacerju. Smy byli w indiskem gósćeńcu. Mě jo napšawdu wjelgin derje słoźěło. Pótom smy na disko šli. Skóńcnje zasej raz rejowaś – to jo było rědnje! Som akle pózdźe domoj pśišeł.\nSobotu rano zeger źewjeśich (!) jo Maja zazwóniła. Wóna jo groniła: „Do gósćeńca a na reje chójźiš, ale do muzeja njejźoš!“ Pótakem som z Maju nejpjerwjej šeł do měsćańskego muzeuma a pótom hyšći do galerije. Som wjele nowego nawuknuł wó našom měsće a wjele wobrazow wiźeł. Pótom pak som był wjelgin mucny. Som južo wjacor źewjeśich do póstole šeł.\nNjeźelu rano som jěsno stanuł. Som do Koblenca jěł a w kafejowni pśi jazoru snědał. Tam som teke wjele fotografěrował. Doma som se wobraze na kompjuterje woglědał. To su napšawdu kšasne fota! Pósćelom tebje dwě abo tśi.\nA co sy ty cynił? Sy tež aktiwny był?\nLubje strowi\nBen",
+        "question":"Sobotu wokoło połdnja jo Maja zazwóniła. ",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_3"
+    },
+    {
+        "question_id":"A2.2.L14",
+        "question_level":"A2",
+        "context":"Halo, Mirko,\nkak se tebje źo? Co sy kóńc tyźenja gótował?\nMój kóńc tyźenja jo był super: Pětk smy (Sandra, Timo, Petra a ja) šli do gósćeńca na wjacerju. Smy byli w indiskem gósćeńcu. Mě jo napšawdu wjelgin derje słoźěło. Pótom smy na disko šli. Skóńcnje zasej raz rejowaś – to jo było rědnje! Som akle pózdźe domoj pśišeł.\nSobotu rano zeger źewjeśich (!) jo Maja zazwóniła. Wóna jo groniła: „Do gósćeńca a na reje chójźiš, ale do muzeja njejźoš!“ Pótakem som z Maju nejpjerwjej šeł do měsćańskego muzeuma a pótom hyšći do galerije. Som wjele nowego nawuknuł wó našom měsće a wjele wobrazow wiźeł. Pótom pak som był wjelgin mucny. Som južo wjacor źewjeśich do póstole šeł.\nNjeźelu rano som jěsno stanuł. Som do Koblenca jěł a w kafejowni pśi jazoru snědał. Tam som teke wjele fotografěrował. Doma som se wobraze na kompjuterje woglědał. To su napšawdu kšasne fota! Pósćelom tebje dwě abo tśi.\nA co sy ty cynił? Sy tež aktiwny był?\nLubje strowi\nBen",
+        "question":"Ben jo z Maju do Serbskego muzeuma šeł.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_3"
+    },
+    {
+        "question_id":"A2.2.L15",
+        "question_level":"A2",
+        "context":"Halo, Mirko,\nkak se tebje źo? Co sy kóńc tyźenja gótował?\nMój kóńc tyźenja jo był super: Pětk smy (Sandra, Timo, Petra a ja) šli do gósćeńca na wjacerju. Smy byli w indiskem gósćeńcu. Mě jo napšawdu wjelgin derje słoźěło. Pótom smy na disko šli. Skóńcnje zasej raz rejowaś – to jo było rědnje! Som akle pózdźe domoj pśišeł.\nSobotu rano zeger źewjeśich (!) jo Maja zazwóniła. Wóna jo groniła: „Do gósćeńca a na reje chójźiš, ale do muzeja njejźoš!“ Pótakem som z Maju nejpjerwjej šeł do měsćańskego muzeuma a pótom hyšći do galerije. Som wjele nowego nawuknuł wó našom měsće a wjele wobrazow wiźeł. Pótom pak som był wjelgin mucny. Som južo wjacor źewjeśich do póstole šeł.\nNjeźelu rano som jěsno stanuł. Som do Koblenca jěł a w kafejowni pśi jazoru snědał. Tam som teke wjele fotografěrował. Doma som se wobraze na kompjuterje woglědał. To su napšawdu kšasne fota! Pósćelom tebje dwě abo tśi.\nA co sy ty cynił? Sy tež aktiwny był?\nLubje strowi\nBen",
+        "question":"Njeźelu jo Ben wjele fotografěrował.",
+        "possible_answers":{
+            "1":"pšawje",
+            "2":"wopak"
+        },
+        "question_type":"reading_A2_3"
+    }
+]

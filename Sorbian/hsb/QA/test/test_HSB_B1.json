@@ -1,0 +1,716 @@
+[
+    {
+        "question_id":"B1.2.H1",
+        "question_level":"B1",
+        "context":"moderator: Naše dźensniše wusyłanje ma temu: Kajke wosebite dožiwjenje sće Wy lětsa měli? Naš reporter Beno Kobalc je so ludźi na dróze prašał a někotre wotmołwy za Was zestajił.\nHandrij: To njetrjebam scyła dołho přemyslować. Moje najrjeńše dožiwjenje bě wězo, zo je so namaj mała dźowka Samira narodźiła. Moja žona a ja smój tak zbožownaj, zo ma naju wulki syn Daniel skónčnje mału sotřičku. Dyrbjachmoj tróšku dlěje čakać. Naši přećeljo maja hižo druhe abo samo třeće dźěćo, ale nětko je pola nas skónčnje tež tak daloko!\n",
+        "question":"Handrij je druhi raz nan.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_B1_1"
+    },
+    {
+        "question_id":"B1.2.H2",
+        "question_level":"B1",
+        "context":"Sabina: Sym hižo dołho wo tym soniła, w Indiskej po narodnym parku Keoladeo pućować. Někak njemějach ženje chwile za to. A hdyž běchu dźěći małe, tež njemóžach preč. Loni je mój muž prajił: Wěš ty što, ja činju z dźěćimi dwě njedźeli dowola při Baltiskim morju a ty pojědźeš do Indiskeje. Tak smój potom činiłoj. Mi je so w Indiskej wulkotnje lubiło.",
+        "question":"Sabina je zhromadnje z mužom do Indiskeje jěła.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_B1_1"
+    },
+    {
+        "question_id":"B1.2.H3",
+        "question_level":"B1",
+        "context":"Stanij: Lětsa smój slěborny kwas swjećiłoj. Mamoj štyri dźěći, a wšitcy kroča swoje puće. Dwaj synaj studujetaj w Berlinje a Stuttgarće. Tamnaj staj powołanje nawuknyłoj a dobre dźěło w Drježdźanach namakałoj. Slěborny kwas smy ze swójbnymi, přećelemi a susodami na wjesnej žurli swjećili.\nNaju dźěći su dźiwadło z epizodami našeje swójby hrali. Potom smy spěwali a rejowali – bě wulkotnje.",
+        "question":"Stanijej je so wopyt dźiwadła jara lubił.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_B1_1"
+    },
+    {
+        "question_id":"B1.2.H4",
+        "question_level":"B1",
+        "context":"Uta: Wosebite za mnje bě, zo sym lětsa swoje dźěłowe městno jako kucharka wupowědźiła a sej něšto nowe, swójske natwariła. Nětko mam hromadźe z přećelku mału italsku kantinu w centrumje města, ta super běži. K wobjedu chodźa husto přistajeni z bliskich běrowow. Mam wjele stajnych hosći, kiž wšědnje tu jědźa. Ale tež turisća pola nas wobjeduja.",
+        "question":"Uta ma swójsku firmu.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_B1_1"
+    },
+    {
+        "question_id":"B1.2.H5",
+        "question_level":"B1",
+        "context":"Tanja: Lětsa bě za mnje zbožowne lěto. Sym jara lubeho muža zeznała –skónčnje. Prjedy běch přeco njezbožownje zalubowana, ale nětko sym woprawdźe optimistiska. Z nim móžu wo wšěm rěčeć. Wón je wotewrjeny a njeboji so tež kompromisow. Myslu sej, zo je wón muž, z kotrymž chcu žiwa być. Moja přećelka je lětsa kwas měła. Snano budu tež ja bórze njewjesta.",
+        "question":"Tanja je lětsa kwas měła.",
+        "possible_answers":{
+            "1":"prawje",
+            "2":"wopak"
+        },
+        "question_type":"listening_B1_1"
+    },
+    {
+        "question_id":"B1.2.H16",
+        "question_level":"B1",
+        "context":"Wotmołwjak \nTu je praksa Katki Wendtoweje. Wšědnje, nimo štwórtka, su rěčne hodźiny: póndźelu a wutoru dopołdnja a popołdnju; srjedu wot 8:00 do 13:00 hodź. A pjatk smy tohorunja wot 8:00 do 13:00 hodź. tu. Na kóncu tydźenja wobroćće so prošu na zubnolěkarsku nuzowu słužbu.",
+        "question":"Hdy je zubnolěkarska praksa začinjena?",
+        "possible_answers":{
+            "1":"wutoru",
+            "2":"srjedu",
+            "3":"štwórtk"
+        },
+        "question_type":"listening_B1_3"
+    },
+    {
+        "question_id":"B1.2.H17",
+        "question_level":"B1",
+        "context":"Informacija w busu \nRěkam Měrćin Kowar a sym dźensa Waš busowy šofer. Tuchwilu mamy małe zapozdźenje dla busoweje reparatury. Tohodla prošu wo Waše zrozumjenje. Nětko smy na awtodróze a jědźemy na směr Zhorjelc a dale přez Bolesławiec. Nadźijam so, zo móžemy zapozdźenje nachwatać. Tak docpějemy snano tola dypkownje naš cil Wrócław. Přeju Wam dobru jězbu.",
+        "question":"Hdźe bus pojědźe?",
+        "possible_answers":{
+            "1":"do Zhorjelca",
+            "2":"do Bolesławieca",
+            "3":"do Wrócławja"
+        },
+        "question_type":"listening_B1_3"
+    },
+    {
+        "question_id":"B1.2.H18",
+        "question_level":"B1",
+        "context":"Nominowanje za literarne myto \nJury je 15 nominowanych za literarne myto wozjewiła. Su to stajnje pjećo w kategorijach beletristika, wěcna kniha a přełožk. Mjez nimi je Marina Tarantowa, kotraž je roman „Akta Meruba“ z hebrejšćiny do němčiny přenjesła. Jury, wobstejaca ze sydom žurnalistow a literarnych kritikarjow, je ze 405 awtorow 15 najlěpšich wuzwoliła.",
+        "question":"Z kotreje rěče je Marina Tarantowa roman přełožiła? ",
+        "possible_answers":{
+            "1":"z jendźelšćiny",
+            "2":"z hebrejšćiny",
+            "3":"z rumunšćiny"
+        },
+        "question_type":"listening_B1_3"
+    },
+    {
+        "question_id":"B1.2.H19",
+        "question_level":"B1",
+        "context":"Twar noweje kupnicy \nRodečanski discounter je přemały. Na dotalnym městnje pak móžno njeje, wobchod powjetšić. Tohodla chce wobsedźer při Hłownej dróze nowu, wjetšu kupnicu twarić. Gmejnska rada je namjetej wčera na zjawnym posedźenju z architektom přihłosowała. Wot přichodneho nowembra změja kupcy na 1.600 kwadratnych metrach předawanskeje płoniny lěpše móžnosće za nakupowanje.",
+        "question":"Što ma so w Rodecach twarić?",
+        "possible_answers":{
+            "1":"nowa kupnica",
+            "2":"nowa sportownja",
+            "3":"nowa diskoteka"
+        },
+        "question_type":"listening_B1_3"
+    },
+    {
+        "question_id":"B1.2.H20",
+        "question_level":"B1",
+        "context":"Hosćo pola Domowiny \nLubi hosćo z tu- a wukraja! W mjenje Domowiny witam Was cyle wutrobnje w Serbskim domje. Wjeselimy so na diskusiju wo mjezynarodnej kulturnej wuměnje. Domowina je kóžde druhe lěto zarjadowar mjezynarodneho folklorneho festiwala. To je jenož jedna móžnosć zetkawanja. Zawěsće maće tež Wy přeća abo ideje za wuměnu. Witajće k nam!",
+        "question":"Kak husto zarjaduje Domowina folklorny festiwal?",
+        "possible_answers":{
+            "1":"kóžde lěto",
+            "2":"kóžde druhe lěto",
+            "3":"kóžde třeće lěto"
+        },
+        "question_type":"listening_B1_3"
+    },
+    {
+        "question_id":"B1.2.L1",
+        "question_level":"B1",
+        "context":"Šulerki Serbskeho gymnazija su so wčera wuspěšnje na regionalnym volleyballowym finalu we Wojerecach wobdźělili a sej w starobnej klasy I druhe městno wubědźili. Dobra nalada je při hrě přećiwo Powołanskej šuli Kamjenc knježiła, kotruž su Budyske holcy 3:0 dobyli. Wosebje napjata bě kónčna hra přećiwo Ewangelskej swobodnej šuli Ochranow. Před 60 přihladowarjemi prezentowachu fairnu partiju z tójšto šansami za serbske mustwo. Tola na kóncu je serbske mustwo z 2:4 podležało.",
+        "question":"Rozsudźće, kotre nadpismo so najlěpje ke kotremu tekstej hodźi.",
+        "possible_answers":{
+            "1":"Njebjelčicy prěni raz pódla",
+            "2":"Tenis za započatkarjow",
+            "3":"Slěbro za šulerki Serbskeho gymnazija Budyšin",
+            "4":"Busy na dyrdomdejskej jězbje",
+            "5":"Doporučenje: płuwać, chodźić, kolesować",
+            "6":"Powołanska šula Kamjenc dobyła",
+            "7":"Nowa biblioteka w Lessingowym měsće",
+            "8":"Dyrdomdejski spektakl na twjerdźiznje",
+            "9":"Zaso Lessingowa biblioteka",
+            "10":"Kulturny bus w Mortkowje"
+        },
+        "question_type":"reading_B1_1"
+    },
+    {
+        "question_id":"B1.2.L2",
+        "question_level":"B1",
+        "context":"Štóž chce aktiwnje sportować, so na spočatku husto praša, kotra sportowa družina je za njeho prawa. Wažny je tež prawy pensum. Tu někotre doporučenja sportoweho terapeuta: Idealny treningowy pensum wučinja tři sportowe aktiwity wob tydźeń. Najlěpje wupytaš sej dwě „suchej“ (na př. kolesowanje) a jednu „mokru“ činitosć (płuwanje). Kak maš aktiwity wuzwolić? \nJako započatkar njetrenujće tenis abo squash, dokelž spěšne pohiby zhibadła jara poćežuja. Doporučam walking, kolesowanje a płuwanje.",
+        "question":"Rozsudźće, kotre nadpismo so najlěpje ke kotremu tekstej hodźi.",
+        "possible_answers":{
+            "1":"Njebjelčicy prěni raz pódla",
+            "2":"Tenis za započatkarjow",
+            "3":"Slěbro za šulerki Serbskeho gymnazija Budyšin",
+            "4":"Busy na dyrdomdejskej jězbje",
+            "5":"Doporučenje: płuwać, chodźić, kolesować",
+            "6":"Powołanska šula Kamjenc dobyła",
+            "7":"Nowa biblioteka w Lessingowym měsće",
+            "8":"Dyrdomdejski spektakl na twjerdźiznje",
+            "9":"Zaso Lessingowa biblioteka",
+            "10":"Kulturny bus w Mortkowje"
+        },
+        "question_type":"reading_B1_1"
+    },
+    {
+        "question_id":"B1.2.L3",
+        "question_level":"B1",
+        "context":"Bus „wuměłstwa” přeproša swjatki druhi raz na wotkrywanje hornjołužiskeje wuměłskeje a kulturneje sceny. Wosebite busy jězdźa mjez jednotliwymi městnami a woža wopytowarjow k wuměłcam a wustajeńcam. Prezentacije budu w Budyšinje, Lubiju, Korzymju a prěni raz w Njebjelčicach. W busach dožiwjeja zajimcy po puću dźiwadło, performancy a hudźbu. \nBusowa jězba stanje so tak z dožiwjenskej jězbu. Kombitiket wobsahuje jězby a wopyt wustajeńcow. Wuměłcy wotewrja swoje ateljeje.",
+        "question":"Rozsudźće, kotre nadpismo so najlěpje ke kotremu tekstej hodźi.",
+        "possible_answers":{
+            "1":"Njebjelčicy prěni raz pódla",
+            "2":"Tenis za započatkarjow",
+            "3":"Slěbro za šulerki Serbskeho gymnazija Budyšin",
+            "4":"Busy na dyrdomdejskej jězbje",
+            "5":"Doporučenje: płuwać, chodźić, kolesować",
+            "6":"Powołanska šula Kamjenc dobyła",
+            "7":"Nowa biblioteka w Lessingowym měsće",
+            "8":"Dyrdomdejski spektakl na twjerdźiznje",
+            "9":"Zaso Lessingowa biblioteka",
+            "10":"Kulturny bus w Mortkowje"
+        },
+        "question_type":"reading_B1_1"
+    },
+    {
+        "question_id":"B1.2.L4",
+        "question_level":"B1",
+        "context":"Kamjenska měšćanska biblioteka rěka wotnětka zaso Lessingowa. Na zarjadowanju „Lessing, čitać, pisać” we wobłuku Lessingowych dnjow su knihowni znowa stare mjeno spožčili. \nBiblioteka w ródnym měsće basnika je mjez 1945 a 1994 jeho mjeno nosyła. Potom su ju na „měšćansku” přemjenowali. \nMěšćanska biblioteka G. E. Lessinga je dźělena do biblioteki za dorosćenych a za dźěći a ma něhdźe 1800 registrowanych čitarjow, z nich 53 % dźěći a młodostnych.",
+        "question":"Rozsudźće, kotre nadpismo so najlěpje ke kotremu tekstej hodźi.",
+        "possible_answers":{
+            "1":"Njebjelčicy prěni raz pódla",
+            "2":"Tenis za započatkarjow",
+            "3":"Slěbro za šulerki Serbskeho gymnazija Budyšin",
+            "4":"Busy na dyrdomdejskej jězbje",
+            "5":"Doporučenje: płuwać, chodźić, kolesować",
+            "6":"Powołanska šula Kamjenc dobyła",
+            "7":"Nowa biblioteka w Lessingowym měsće",
+            "8":"Dyrdomdejski spektakl na twjerdźiznje",
+            "9":"Zaso Lessingowa biblioteka",
+            "10":"Kulturny bus w Mortkowje"
+        },
+        "question_type":"reading_B1_1"
+    },
+    {
+        "question_id":"B1.2.L5",
+        "question_level":"B1",
+        "context":"Sobotu je premjera lěćneho předstajenja Serbskeho ludoweho ansambla pod hołym njebjom. Na Jakubec twjerdźiznje w Mortkowje wočakuje wulkich a małych přihladowarjow zajimawy spektakl z orchestrom, baletom a chórom. \nNa dyrdomdejskej inscenaciji wo lubosći dožiwi publikum nimo spěwow a rejow wjele žortnych scenow. Chrobłe wubědźowanja na konju wězo tež njepobrachuja. \nZarjadowanje wotměje so pod hołym njebjom a so při špatnym wjedrje wo jedyn tydźeń přesunje.",
+        "question":"Rozsudźće, kotre nadpismo so najlěpje ke kotremu tekstej hodźi.",
+        "possible_answers":{
+            "1":"Njebjelčicy prěni raz pódla",
+            "2":"Tenis za započatkarjow",
+            "3":"Slěbro za šulerki Serbskeho gymnazija Budyšin",
+            "4":"Busy na dyrdomdejskej jězbje",
+            "5":"Doporučenje: płuwać, chodźić, kolesować",
+            "6":"Powołanska šula Kamjenc dobyła",
+            "7":"Nowa biblioteka w Lessingowym měsće",
+            "8":"Dyrdomdejski spektakl na twjerdźiznje",
+            "9":"Zaso Lessingowa biblioteka",
+            "10":"Kulturny bus w Mortkowje"
+        },
+        "question_type":"reading_B1_1"
+    },
+    {
+        "question_id":"B1.2.L6",
+        "question_level":"B1",
+        "context":"Nowe židowske žiwjenje w Choćebuzu\nŽidowska wosada w Choćebuzu ma wot 2014 swoju synagogu wosrjedź města w něhdyšej ewangelskej Hrodowej cyrkwi. Z podpěru Kraja Braniborskeje je so cyrkej na synagogu přetworiła. Synagoga je wšitkim zajimcam wotewrjena a přistupna. W předsydstwje Choćebuskeje židowskeje wosady dźěła pjeć mužow. Jedyn z nich je pjećdźesatlětny Simon Shkolnik, wučer němčiny za wukrajnikow na ludowej uniwersiće. Dźěło jako wučer so jemu jara lubi, dokelž zeznawa stajnje zaso nowych ludźi a jich swójbne stawizny.\nNěhdyša Choćebuska židowska wosada je hač do 1938 eksistowała. Tehdy měješe 397 čłonow, mjez nimi běchu lěkarjo, prawiznicy, wědomostnicy abo překupcy. 9. nowembra 1938 je so synagoga wot nacijow wotpaliła a z tym židowska wosada zničiła. Po skónčenju wójny 1945 bě jenož hišće 12 čłonow židowskeje wosady žiwych.\nDźensa ma židowska wosada w Choćebuzu wokoło 350 wěriwych. Wšitcy su so z něhdyšeho Sowjetskeho zwjazka do Němskeje přesydlili. Choćebuska židowska wosada widźi so jako nabožne zhromadźenstwo, kotrež so w prěnim rjedźe wo židowske nabožne žiwjenje stara. K tomu słuša posrědkowanje tradicijow a stawiznow židowstwa. „Mamy žiwe wosadne žiwjenje. Swjećimy w synagoze wosebite židowske swjedźenje kaž sabat (dźeń wotpočinka) kóždy pjatk a sobotu. Najwažniši swjedźeń židowskeho lěta je jom kipur (swjedźeń wujednanja). Z nim skónči so dźesaćdnjowski čas želnosće, hdyž wujednamy so ze wšitkimi, kotrychž smy w běhu lěta zranili abo rozhněwali. Swjedźeń rošhašana (Nowe lěto) traje dwaj dnjej a dopomina na to, zo je Bóh zemju a Adama stworił. Bilancujemy swoje moraliske a nabožne skutki zańdźeneho lěta a modlimy so wo dobry přichod“, Simon Shkolnik powěda.\nWosada so tež na socialnym a kulturnym polu angažuje. Tak zarjaduje hižo 15 lět tak mjenowanu njedźelsku šulu. Tam haja židowske tradicije, nałožki a židowske wuměłstwo. Nimo toho dźe wo mnohostronske spěchowanje dźěći. Tuchwilu maja slědowace předmjety: rušćinu, hudźbu, paslenje, židowske reje, zakładne znajomosće hebrejšćiny, blidotenis a kompjuterowe kursy. Tež staršiske kursy wo kubłanju dźěći so organizuja.",
+        "question":"Choćebuz ma synagogu, kotraž",
+        "possible_answers":{
+            "1":"je nowotwar z lěta 2014.",
+            "2":"je něhdyša katolska cyrkej.",
+            "3":"je něhdyša ewangelska cyrkej."
+        },
+        "question_type":"reading_B1_2"
+    },
+    {
+        "question_id":"B1.2.L7",
+        "question_level":"B1",
+        "context":"Nowe židowske žiwjenje w Choćebuzu\nŽidowska wosada w Choćebuzu ma wot 2014 swoju synagogu wosrjedź města w něhdyšej ewangelskej Hrodowej cyrkwi. Z podpěru Kraja Braniborskeje je so cyrkej na synagogu přetworiła. Synagoga je wšitkim zajimcam wotewrjena a přistupna. W předsydstwje Choćebuskeje židowskeje wosady dźěła pjeć mužow. Jedyn z nich je pjećdźesatlětny Simon Shkolnik, wučer němčiny za wukrajnikow na ludowej uniwersiće. Dźěło jako wučer so jemu jara lubi, dokelž zeznawa stajnje zaso nowych ludźi a jich swójbne stawizny.\nNěhdyša Choćebuska židowska wosada je hač do 1938 eksistowała. Tehdy měješe 397 čłonow, mjez nimi běchu lěkarjo, prawiznicy, wědomostnicy abo překupcy. 9. nowembra 1938 je so synagoga wot nacijow wotpaliła a z tym židowska wosada zničiła. Po skónčenju wójny 1945 bě jenož hišće 12 čłonow židowskeje wosady žiwych.\nDźensa ma židowska wosada w Choćebuzu wokoło 350 wěriwych. Wšitcy su so z něhdyšeho Sowjetskeho zwjazka do Němskeje přesydlili. Choćebuska židowska wosada widźi so jako nabožne zhromadźenstwo, kotrež so w prěnim rjedźe wo židowske nabožne žiwjenje stara. K tomu słuša posrědkowanje tradicijow a stawiznow židowstwa. „Mamy žiwe wosadne žiwjenje. Swjećimy w synagoze wosebite židowske swjedźenje kaž sabat (dźeń wotpočinka) kóždy pjatk a sobotu. Najwažniši swjedźeń židowskeho lěta je jom kipur (swjedźeń wujednanja). Z nim skónči so dźesaćdnjowski čas želnosće, hdyž wujednamy so ze wšitkimi, kotrychž smy w běhu lěta zranili abo rozhněwali. Swjedźeń rošhašana (Nowe lěto) traje dwaj dnjej a dopomina na to, zo je Bóh zemju a Adama stworił. Bilancujemy swoje moraliske a nabožne skutki zańdźeneho lěta a modlimy so wo dobry přichod“, Simon Shkolnik powěda.\nWosada so tež na socialnym a kulturnym polu angažuje. Tak zarjaduje hižo 15 lět tak mjenowanu njedźelsku šulu. Tam haja židowske tradicije, nałožki a židowske wuměłstwo. Nimo toho dźe wo mnohostronske spěchowanje dźěći. Tuchwilu maja slědowace předmjety: rušćinu, hudźbu, paslenje, židowske reje, zakładne znajomosće hebrejšćiny, blidotenis a kompjuterowe kursy. Tež staršiske kursy wo kubłanju dźěći so organizuja.",
+        "question":"Dźensa ma židowska wosada",
+        "possible_answers":{
+            "1":"wuski zwisk k zarjadej za wukrajnikow.",
+            "2":"žiwe wosadne žiwjenje.",
+            "3":"zakładnu šulu w swojim nošerstwje."
+        },
+        "question_type":"reading_B1_2"
+    },
+    {
+        "question_id":"B1.2.L8",
+        "question_level":"B1",
+        "context":"Nowe židowske žiwjenje w Choćebuzu\nŽidowska wosada w Choćebuzu ma wot 2014 swoju synagogu wosrjedź města w něhdyšej ewangelskej Hrodowej cyrkwi. Z podpěru Kraja Braniborskeje je so cyrkej na synagogu přetworiła. Synagoga je wšitkim zajimcam wotewrjena a přistupna. W předsydstwje Choćebuskeje židowskeje wosady dźěła pjeć mužow. Jedyn z nich je pjećdźesatlětny Simon Shkolnik, wučer němčiny za wukrajnikow na ludowej uniwersiće. Dźěło jako wučer so jemu jara lubi, dokelž zeznawa stajnje zaso nowych ludźi a jich swójbne stawizny.\nNěhdyša Choćebuska židowska wosada je hač do 1938 eksistowała. Tehdy měješe 397 čłonow, mjez nimi běchu lěkarjo, prawiznicy, wědomostnicy abo překupcy. 9. nowembra 1938 je so synagoga wot nacijow wotpaliła a z tym židowska wosada zničiła. Po skónčenju wójny 1945 bě jenož hišće 12 čłonow židowskeje wosady žiwych.\nDźensa ma židowska wosada w Choćebuzu wokoło 350 wěriwych. Wšitcy su so z něhdyšeho Sowjetskeho zwjazka do Němskeje přesydlili. Choćebuska židowska wosada widźi so jako nabožne zhromadźenstwo, kotrež so w prěnim rjedźe wo židowske nabožne žiwjenje stara. K tomu słuša posrědkowanje tradicijow a stawiznow židowstwa. „Mamy žiwe wosadne žiwjenje. Swjećimy w synagoze wosebite židowske swjedźenje kaž sabat (dźeń wotpočinka) kóždy pjatk a sobotu. Najwažniši swjedźeń židowskeho lěta je jom kipur (swjedźeń wujednanja). Z nim skónči so dźesaćdnjowski čas želnosće, hdyž wujednamy so ze wšitkimi, kotrychž smy w běhu lěta zranili abo rozhněwali. Swjedźeń rošhašana (Nowe lěto) traje dwaj dnjej a dopomina na to, zo je Bóh zemju a Adama stworił. Bilancujemy swoje moraliske a nabožne skutki zańdźeneho lěta a modlimy so wo dobry přichod“, Simon Shkolnik powěda.\nWosada so tež na socialnym a kulturnym polu angažuje. Tak zarjaduje hižo 15 lět tak mjenowanu njedźelsku šulu. Tam haja židowske tradicije, nałožki a židowske wuměłstwo. Nimo toho dźe wo mnohostronske spěchowanje dźěći. Tuchwilu maja slědowace předmjety: rušćinu, hudźbu, paslenje, židowske reje, zakładne znajomosće hebrejšćiny, blidotenis a kompjuterowe kursy. Tež staršiske kursy wo kubłanju dźěći so organizuja.",
+        "question":"Simon Shkolnik je",
+        "possible_answers":{
+            "1":"50 lět stary a wučer na Delnjoserbskim gymnaziju.",
+            "2":"w předsydstwje židowskeje wosady.",
+            "3":"hłowny zamołwity za židowske swjedźenje."
+        },
+        "question_type":"reading_B1_2"
+    },
+    {
+        "question_id":"B1.2.L9",
+        "question_level":"B1",
+        "context":"Nowe židowske žiwjenje w Choćebuzu\nŽidowska wosada w Choćebuzu ma wot 2014 swoju synagogu wosrjedź města w něhdyšej ewangelskej Hrodowej cyrkwi. Z podpěru Kraja Braniborskeje je so cyrkej na synagogu přetworiła. Synagoga je wšitkim zajimcam wotewrjena a přistupna. W předsydstwje Choćebuskeje židowskeje wosady dźěła pjeć mužow. Jedyn z nich je pjećdźesatlětny Simon Shkolnik, wučer němčiny za wukrajnikow na ludowej uniwersiće. Dźěło jako wučer so jemu jara lubi, dokelž zeznawa stajnje zaso nowych ludźi a jich swójbne stawizny.\nNěhdyša Choćebuska židowska wosada je hač do 1938 eksistowała. Tehdy měješe 397 čłonow, mjez nimi běchu lěkarjo, prawiznicy, wědomostnicy abo překupcy. 9. nowembra 1938 je so synagoga wot nacijow wotpaliła a z tym židowska wosada zničiła. Po skónčenju wójny 1945 bě jenož hišće 12 čłonow židowskeje wosady žiwych.\nDźensa ma židowska wosada w Choćebuzu wokoło 350 wěriwych. Wšitcy su so z něhdyšeho Sowjetskeho zwjazka do Němskeje přesydlili. Choćebuska židowska wosada widźi so jako nabožne zhromadźenstwo, kotrež so w prěnim rjedźe wo židowske nabožne žiwjenje stara. K tomu słuša posrědkowanje tradicijow a stawiznow židowstwa. „Mamy žiwe wosadne žiwjenje. Swjećimy w synagoze wosebite židowske swjedźenje kaž sabat (dźeń wotpočinka) kóždy pjatk a sobotu. Najwažniši swjedźeń židowskeho lěta je jom kipur (swjedźeń wujednanja). Z nim skónči so dźesaćdnjowski čas želnosće, hdyž wujednamy so ze wšitkimi, kotrychž smy w běhu lěta zranili abo rozhněwali. Swjedźeń rošhašana (Nowe lěto) traje dwaj dnjej a dopomina na to, zo je Bóh zemju a Adama stworił. Bilancujemy swoje moraliske a nabožne skutki zańdźeneho lěta a modlimy so wo dobry přichod“, Simon Shkolnik powěda.\nWosada so tež na socialnym a kulturnym polu angažuje. Tak zarjaduje hižo 15 lět tak mjenowanu njedźelsku šulu. Tam haja židowske tradicije, nałožki a židowske wuměłstwo. Nimo toho dźe wo mnohostronske spěchowanje dźěći. Tuchwilu maja slědowace předmjety: rušćinu, hudźbu, paslenje, židowske reje, zakładne znajomosće hebrejšćiny, blidotenis a kompjuterowe kursy. Tež staršiske kursy wo kubłanju dźěći so organizuja.",
+        "question":"Židowski swjedźeń jom kipur",
+        "possible_answers":{
+            "1":"je dźeń wočerstwjenja.",
+            "2":"traje dźesać dnjow.",
+            "3":"zakónči dźesaćdnjowski čas želnosće."
+        },
+        "question_type":"reading_B1_2"
+    },
+    {
+        "question_id":"B1.2.L10",
+        "question_level":"B1",
+        "context":"Nowe židowske žiwjenje w Choćebuzu\nŽidowska wosada w Choćebuzu ma wot 2014 swoju synagogu wosrjedź města w něhdyšej ewangelskej Hrodowej cyrkwi. Z podpěru Kraja Braniborskeje je so cyrkej na synagogu přetworiła. Synagoga je wšitkim zajimcam wotewrjena a přistupna. W předsydstwje Choćebuskeje židowskeje wosady dźěła pjeć mužow. Jedyn z nich je pjećdźesatlětny Simon Shkolnik, wučer němčiny za wukrajnikow na ludowej uniwersiće. Dźěło jako wučer so jemu jara lubi, dokelž zeznawa stajnje zaso nowych ludźi a jich swójbne stawizny.\nNěhdyša Choćebuska židowska wosada je hač do 1938 eksistowała. Tehdy měješe 397 čłonow, mjez nimi běchu lěkarjo, prawiznicy, wědomostnicy abo překupcy. 9. nowembra 1938 je so synagoga wot nacijow wotpaliła a z tym židowska wosada zničiła. Po skónčenju wójny 1945 bě jenož hišće 12 čłonow židowskeje wosady žiwych.\nDźensa ma židowska wosada w Choćebuzu wokoło 350 wěriwych. Wšitcy su so z něhdyšeho Sowjetskeho zwjazka do Němskeje přesydlili. Choćebuska židowska wosada widźi so jako nabožne zhromadźenstwo, kotrež so w prěnim rjedźe wo židowske nabožne žiwjenje stara. K tomu słuša posrědkowanje tradicijow a stawiznow židowstwa. „Mamy žiwe wosadne žiwjenje. Swjećimy w synagoze wosebite židowske swjedźenje kaž sabat (dźeń wotpočinka) kóždy pjatk a sobotu. Najwažniši swjedźeń židowskeho lěta je jom kipur (swjedźeń wujednanja). Z nim skónči so dźesaćdnjowski čas želnosće, hdyž wujednamy so ze wšitkimi, kotrychž smy w běhu lěta zranili abo rozhněwali. Swjedźeń rošhašana (Nowe lěto) traje dwaj dnjej a dopomina na to, zo je Bóh zemju a Adama stworił. Bilancujemy swoje moraliske a nabožne skutki zańdźeneho lěta a modlimy so wo dobry přichod“, Simon Shkolnik powěda.\nWosada so tež na socialnym a kulturnym polu angažuje. Tak zarjaduje hižo 15 lět tak mjenowanu njedźelsku šulu. Tam haja židowske tradicije, nałožki a židowske wuměłstwo. Nimo toho dźe wo mnohostronske spěchowanje dźěći. Tuchwilu maja slědowace předmjety: rušćinu, hudźbu, paslenje, židowske reje, zakładne znajomosće hebrejšćiny, blidotenis a kompjuterowe kursy. Tež staršiske kursy wo kubłanju dźěći so organizuja.",
+        "question":"Židowska wosada dźiwa na tradicije a",
+        "possible_answers":{
+            "1":"ma zakładnu šulu w swojim nošerstwje.",
+            "2":"zarjaduje „njedźelsku šulu”.",
+            "3":"haji tež regionalne nałožki."
+        },
+        "question_type":"reading_B1_2"
+    },
+    {
+        "question_id":"B1.2.S1",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. I z prawym słowom.",
+        "possible_answers":{
+            "1":"lubi",
+            "2":"luby",
+            "3":"luba"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S2",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. II z prawym słowom.",
+        "possible_answers":{
+            "1":"před",
+            "2":"za",
+            "3":"do"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S3",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. III z prawym słowom.",
+        "possible_answers":{
+            "1":"dokelž",
+            "2":"dla",
+            "3":"hačrunjež"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S4",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. IV z prawym słowom.",
+        "possible_answers":{
+            "1":"wo tym",
+            "2":"z tym",
+            "3":"k tomu"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S5",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. V z prawym słowom.",
+        "possible_answers":{
+            "1":"mi",
+            "2":"mje",
+            "3":"ja"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S6",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. VI z prawym słowom.",
+        "possible_answers":{
+            "1":"njedyrbjach",
+            "2":"njesmědźach",
+            "3":"njemóžach"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S7",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. VII z prawym słowom.",
+        "possible_answers":{
+            "1":"hač",
+            "2":"zo",
+            "3":"jako"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S8",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. VIII z prawym słowom.",
+        "possible_answers":{
+            "1":"wo",
+            "2":"w",
+            "3":"z"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S9",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. IX z prawym słowom.",
+        "possible_answers":{
+            "1":"najpilniši",
+            "2":"pilny",
+            "3":"pilnje"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S10",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. X z prawym słowom.",
+        "possible_answers":{
+            "1":"bydlacy",
+            "2":"bydlił",
+            "3":"bydlić"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S11",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. XI z prawym słowom.",
+        "possible_answers":{
+            "1":"naš",
+            "2":"namaj",
+            "3":"našim"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S12",
+        "question_level":"B1",
+        "context":"( I ) Jano, ( II ) dwěmaj njedźelomaj sym so ze swojeje studijneje jězby do Wrócławja nawróćił. Wrócław je krasne město ze zajimawymi stawiznami. Bě woprawdźe jara rjenje, ( III ) bě chětro špatne wjedro, nimale kóždy dźeń dešćik. Ale ( IV ) sym w tutym počasu ličić dyrbjał. Jedna sobustudentka z mojeho lětnika je ( V ) powědała, zo je w aprylu druhdy hižo rjenje ćopło tam. Pozdźišo ( VI ) tam jěć, dokelž mam tuchwilu swobodny čas za masterowe dźěło. Za mnje bě cyle jednorje wažne, ( VII ) wjele materiala za tute dźěło namakam. We Wrócławju je znata uniwersitna biblioteka z wosebitej zběrku ( VIII ) Šleskej a Łužicy. Tam sym wjele slědźił. Kóždy dźeń sym wosom hodźinow ( IX ) dźěłał. ( X ) sym pola Mateusza. Znaješ jeho zawěsće hišće wot loni, hdyž je z ( XI ) na słowjanskim seminarje w Bratisławje był. Předstaj sej, wón je so před poł lětom woženił a ( XII ) žona wočakuje dźěćo. Widźimoj so přichodny tydźeń zaso na treningu.\nLubje strowi\nMatej",
+        "question":"Napjelńće městno čo. XII z prawym słowom.",
+        "possible_answers":{
+            "1":"jeje",
+            "2":"jeho",
+            "3":"jich"
+        },
+        "question_type":"grammar_B1_1"
+    },
+    {
+        "question_id":"B1.2.S13",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. I z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S14",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. II z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S15",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. III z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S16",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. IV z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S17",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. V z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S18",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. VI z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S19",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. VII z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S20",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. VIII z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S21",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. IX z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S22",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. X z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S23",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. XI z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    },
+    {
+        "question_id":"B1.2.S24",
+        "question_level":"B1",
+        "context":"Pytaće kwalifikowanu hudźbnu wučbu? \nPosrědkujemy kursy z čłonami našeho towarstwa. \nTowarstwo serbskich hudźbnych talentow z. t. \nTomaš Fifolak Hłowna dróha 2 \n02625 Njeswačidło \ntelefon: 035933 56 56 56\nČesćeny knježe Fifolako,\n( I ) dźowka Amanda je 7 lět stara a dokelž je ( II ) wučerka hižo husćišo prajiła, zo je Amanda hudźbnje nadarjena, chcemoj jeje talent spěchować. Hdyž smój Waš nawěšk w nowinje čitałoj, smój so ( III ) rozsudźiłoj, zo naju dźowka instrument nawuknje.\nDokelž scyła wo tym ( IV ) njejsmój, kak so hudźba wuwučuje, mamoj někotre prašenja na ( V ). ( VI ) móžemoj na přikład spóznać, ( VII ) instrument je prawy za Amandu? Nochcemoj, ( VIII ) wona cyle jednorje klawěr abo husle wuknje, kaž tójšto druhich dźěći. Hodźi so ( IX ) zwěsćić, što je za nju najlěpje? Mój tež njewěmoj, ( X ) by lěpje było, zo wona w skupinje abo sama wuknje. Kak husto je wučba? A dyrbimoj jej instrument kupić, abo móže sej wona ( XI ) wupožčić?\nWjeselimoj so, ( XII ) namaj na wšitke prašenja wotmołwiće.\nZ přećelnym postrowom\nMariana Lukašowa a Dawid Lukaš",
+        "question":"Napjelńće městno čo. XII z prawym słowom.",
+        "possible_answers":{
+            "1":"naju",
+            "2":"hačrunjež",
+            "3":"kotry",
+            "4":"jeli",
+            "5":"mój",
+            "6":"jeje",
+            "7":"wam",
+            "8":"jón",
+            "9":"informowanaj",
+            "10":"kak",
+            "11":"zo",
+            "12":"jeho",
+            "13":"hač",
+            "14":"was",
+            "15":"za to",
+            "16":"někak"
+        },
+        "question_type":"grammar_B1_2"
+    }
+]

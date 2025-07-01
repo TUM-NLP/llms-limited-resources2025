@@ -1,0 +1,185 @@
+question_id,question_level,context,question,possible_answers,question_type
+A2.2.H01,A2,"knjez: Dobry dźeń! Wodajće prošu, ja pytam knjeza Marka? 
+přistajena: Dobry dźeń! Knjez Mark ma swój běrow na druhej etaži hnydom nalěwo. … Moment prošu, to je stwa 23. Wón je horjeka. 
+knjez: Druha etaža, stwa 23. Wutrobny dźak!",W kotrej stwě móžeće knjeza Marka namakać?,"1 32
+2 13
+3 23",listening_A2_1
+A2.2.H1,A2,"kupc: Maće wy CDje z hudźbu Bjarnata Krawca? 
+předawarka: Haj, mamy „33 serbskich ludowych spěwow“ wot Bjarnata Krawca jako jednoru abo jako dwójnu CD. 
+kupc: Aha, a kajki je rozdźěl? 
+předawarka: Jednora płaći 10,00 €, a dwójna płaći 20,00 €. 
+kupc: A to su samsne spěwy? 
+předawarka: Haj. Chceće wy jednu kupić? 
+kupc: Haj, wozmu jednoru CD za 10,00 €. 
+předawarka: Tu, prošu. Wjele wjesela při słuchanju.",Kelko płaći dwójna cejdejka?,"1 10,00 €
+2 20,00 €
+3 12,00 €",listening_A2_1
+A2.2.H2,A2,"Dawid: Halo, Bjarnato! Što ty tu činiš na dwórnišću? 
+Bjarnat: Witaj, Dawido! Hdźe da ty chceš? 
+Dawid: Chcu do Drježdźan do krajneho sejma. Tam je posedźenje. A ty? 
+Bjarnat: Pojědu do Prahi. Towarstwo přećelow Serbow w Praze je mje přeprosyło. Wěš ty, kak na času nětko je? 
+Dawid: Hladaj, tam wisa časnik. Je tři minuty do wosmich. Hdy jědźe twój ćah? 
+Bjarnat: Pjeć po wosmich. Dyrbju nětko chwatać. 
+Dawid: Tak měj so rjenje! Rjanu jězbu!",Hdy jědźe ćah do Prahi?,"1 we wosmich
+2 tři do wosmich
+3 pjeć po wosmich",listening_A2_1
+A2.2.H3,A2,"pinčnik: Dobry dźeń! Što chceće wy jěsć? 
+hósć: Grjeksku solotej prošu. 
+pinčnik: Och, bohužel žanu grjeksku solotej wjace nimamy. Ale mamy dobru solotej z kokošacym mjasom.
+hósć: Ně, mjaso rady njejěm. Maće tež normalnu měšanu solotej? 
+pinčnik: Wězo. Kotry dressing chceće k tomu měć, zelowy abo jogurtowy? 
+hósć: Zelowy. A k tomu prošu jednu mineralnu wodu. 
+pinčnik: Je to wšo? 
+hósć: Haj.",Što hósć wobjeduje?,"1 měšanu solotej 
+2 grjeksku solotej 
+3 solotej z kokošacym mjasom",listening_A2_1
+A2.2.H4,A2,"kolegina 1: Dobry dźeń, knjeni Hadankowa! Kak so wam wjedźe?
+kolegina 2: Mi so derje wjedźe, ale mój synk je nětko w nowej pěstowarni a jara wjele płaka. Jemu so tam njelubi.
+kolegina 1: A kak stary wón je?
+kolegina 2: Dwě lěće nětko je ... wón je wčera narodniny měł.
+kolegina 1: Moja dźowka je na spočatku tež wjele płakała. Nětko pak wona rady do pěstowarnje chodźi a so kóždy dźeń wjeseli.
+kolegina 2: Aha, potom budźe to zawěsće bórze lěpje. Dźěći dyrbja so tež najprjedy na wšo zwučić.
+kolegina 1: Haj, tak to je.",Čehodla synk płaka?,"1 je chory
+2 nochce do šule
+3 nochce do noweje pěstowarnje",listening_A2_1
+A2.2.H5,A2,"kolegina 1: Dobre ranje, Marina! Ty pak sy dźensa zahe na dźěle. 
+kolegina 2: Haj, mam hišće tak wjele činić. Jutře tola do dowola pojědźemy.
+kolegina 1: Hdźe da chceće jěć? 
+kolegina 2: Chcemy k morju, na pólski bok, do Międzyzdroja. 
+kolegina 1: To ja znaju. Tam sym tež hižo była. Tam je jara rjenje. Kak dołho maš dowol? 
+kolegina 2: Tři njedźele, ale w Pólskej smy jenož dwě njedźeli. Jedyn tydźeń smy hišće doma. 
+kolegina 1: Tak, wjele wjesela!",Kak dołho ma kolegina dowol?,"1 tydźeń
+2 dwě njedźeli
+3 tři njedźele",listening_A2_1
+A2.2.H6,A2,"mać: Marka, přihotuj blido prošu! Chcemy hnydom wobjedować. 
+Marka: Haj maći, ale ja runje telewiziju hladam. 
+mać: Ně, Marka, to njeńdźe. Hasń telewizor a pomhaj mi prošu. 
+Marka: Haj, ja hižo du. Što dyrbju přihotować, hłuboke abo niske talerje, łžicy abo widlički a nóž? 
+mać: Hłuboke talerje dźensa njetrjebamy, a łžicy tež nic. Dźensa warju gulaš, neple a čerwjeny kał. 
+Marka: Hm-m-m, super! … To rady jěm! Hnydom wšitko spřihotuju! 
+mać: Ty sy luba.",Što dyrbi Marka na blido stajić?,"1 niske talerje
+2 hłuboke talerje
+3 wulke łžicy",listening_A2_1
+A2.2.H02,A2,Słuchajće! Nowy termin! Předstajenje noweje Protyki 30. septembra wupadnje. Nowy termin je pjatk 6. oktobra we 18.00 hodź. w Ralbicach. Prosymy wo zrozumjenje!,Protyka ma 6. oktobra premjeru.,"1 prawje
+2 wopak",listening_A2_2
+A2.2.H7,A2,"Lubi kupcy!
+Serbska kulturna informacija ma k hodam wosebite poskitki. Poskićujemy sortiment Załožby za serbski lud za poł płaćizny – to su cejdeje, widejo-paski a paslenski material za dźěći. Kupće pola nas hodowny dar!",Wšitke knihi za dźěći su za poł płaćizny.,"1 prawje
+2 wopak",listening_A2_2
+A2.2.H8,A2,Na wulěće Domowinskeje skupiny praji organizator: „Nětko činimy wobjedowu přestawku. Bus zastanje při hosćencu. Přestawka traje jednu hodźinu. Zetkamy so potom zaso při busu. Budźće prošu dypkowni.“,Skupina zetka so po přestawce w hosćencu.,"1 prawje
+2 wopak",listening_A2_2
+A2.2.H9,A2,"Lubi šulerjo! Sobotu je čitanske wubědźowanje w Budyšinje. Twarskich dźěłow dla pak njeje wubědźowanje w Smolerjec kniharni, kaž najprjedy planowane, ale na žurli Serbskeho doma. Prošu mysliće na to!",Čitanske wubědźowanje je w Serbskim domje.,"1 prawje
+2 wopak",listening_A2_2
+A2.2.H10,A2,"Pěčkec kwětkarnja informuje: Mamy wulki sortiment pisanych kwětkow za zahrodu, na přikład pětrkluče, hyacinty a macoški. W aprylu damy Wam za třiceći rostlinow měch pjeršće k tomu.",Dnja 5. meje wosebita akcija njepłaći.,"1 prawje
+2 wopak",listening_A2_2
+A2.2.H11,A2,Tu je regionalny běrow Domowiny. Njejsym runje w běrowje. Běrow je wot 14.00 hodź. zaso wobsadźeny. Prošu zazwońće we wažnych padach na handyjowe čisło: 0176 – 43 22 58.,Handyjowe čisło je:,"1 0176 – 42 33 58 
+2 0176 – 43 22 58
+3 0176 – 58 33 42",listening_A2_3
+A2.2.H12,A2,"Halo papa, tu je Jan. Sedźu w ćahu do Kamjenca. Naš ćah přijědźe hodźinu pozdźišo. Móžeš prošu z awtom po mnje přijěć? Budu před dwórnišćom čakać.",Hdźe je Jan?,"1 w Kamjencu 
+2 w ćahu 
+3 před dwórnišćom",listening_A2_3
+A2.2.H13,A2,"Halo nano, tu je hišće raz Jan. Hdźe ha ty wostanješ? Steju tu před dwórnišćom. A hdźe sy ty? Steju tu hižo 20 mjeńšin. Hišće 10 minutow čakam, hač do štwórć na tři. Potom pojědu z taksu domoj.",Kak dołho chce Jan hišće čakać?,"1 10 minutow 
+2 12 minutow 
+3 20 minutow",listening_A2_3
+A2.2.H14,A2,"Dobry dźeń, knjeni Měrćinkowa! Tu je praksa dr. Krala. Dyrbimy waš termin bohužel změnić wot wutory na pjatk w 12.45 hodź. Mamy rjemjeslnikow w domje a wot wutory do štwórtka njeje žana ćopła woda.",Hdy je nowy termin knjenje Měrćinkoweje?,"1 wutoru 
+2 pjatk 
+3 štwórtk",listening_A2_3
+A2.2.H15,A2,"Halo Tomašo, tu je Marjana. Móžeš mi prošu pomhać? Moja płokanska mašina je skóncowana. Tam woda won běži. Pój prošu raz nimo, hdyž sy doma! Zwarju ći tež dobry kofej!",Što je skóncowane?,"1 wopłokowanska mašina
+2 kofejowa mašina 
+3 płokanska mašina",listening_A2_3
+A2.2.L01,A2,"Luba wowka!
+Wutrobny postrow z Bad Sulza!
+Kura so mi jara lubi. Smy tu wjele dźěći. Kóždy dźeń mamy terapije a šulu. Naša wučerka rěka knjeni Mayerowa a je jara přećelna. Wona rěči němsce, rusce a pólsce. Ale serbsce wona bohužel njerěči. Wona mały kusk rozumi, štož ja serbsce praju.
+Tu njeje žane druhe serbske dźěćo, jenož ja sama. Mam hižo přećel­ku. Wona rěka Isabell a bydli w Drjež­dźanach. Isabell žane mjaso njejě. Ale kórki, tomaty a neple jej słodźa. Tež jabłuka a banany rady jě. Kakaw rady njepije. Ale brěčku a mloko ma wona rady.
+My sej hrajkamy, knihi čitamy abo cejdejki słuchamy. Popołdnju směmy tež telewiziju hladać. Tu je rjenje.
+Što čini dźěd? Maće hižo małe nukle?
+Božemje, luba wowka!
+Twoja Katarina",Katarina je na kurje w Bad Sulza.,"1 prawje
+2 wopak",reading_A2_1
+A2.2.L1,A2,"Luba wowka!
+Wutrobny postrow z Bad Sulza!
+Kura so mi jara lubi. Smy tu wjele dźěći. Kóždy dźeń mamy terapije a šulu. Naša wučerka rěka knjeni Mayerowa a je jara přećelna. Wona rěči němsce, rusce a pólsce. Ale serbsce wona bohužel njerěči. Wona mały kusk rozumi, štož ja serbsce praju.
+Tu njeje žane druhe serbske dźěćo, jenož ja sama. Mam hižo přećel­ku. Wona rěka Isabell a bydli w Drjež­dźanach. Isabell žane mjaso njejě. Ale kórki, tomaty a neple jej słodźa. Tež jabłuka a banany rady jě. Kakaw rady njepije. Ale brěčku a mloko ma wona rady.
+My sej hrajkamy, knihi čitamy abo cejdejki słuchamy. Popołdnju směmy tež telewiziju hladać. Tu je rjenje.
+Što čini dźěd? Maće hižo małe nukle?
+Božemje, luba wowka!
+Twoja Katarina",Katarina je serbske dźěćo.,"1 prawje
+2 wopak",reading_A2_1
+A2.2.L2,A2,"Luba wowka!
+Wutrobny postrow z Bad Sulza!
+Kura so mi jara lubi. Smy tu wjele dźěći. Kóždy dźeń mamy terapije a šulu. Naša wučerka rěka knjeni Mayerowa a je jara přećelna. Wona rěči němsce, rusce a pólsce. Ale serbsce wona bohužel njerěči. Wona mały kusk rozumi, štož ja serbsce praju.
+Tu njeje žane druhe serbske dźěćo, jenož ja sama. Mam hižo přećel­ku. Wona rěka Isabell a bydli w Drjež­dźanach. Isabell žane mjaso njejě. Ale kórki, tomaty a neple jej słodźa. Tež jabłuka a banany rady jě. Kakaw rady njepije. Ale brěčku a mloko ma wona rady.
+My sej hrajkamy, knihi čitamy abo cejdejki słuchamy. Popołdnju směmy tež telewiziju hladać. Tu je rjenje.
+Što čini dźěd? Maće hižo małe nukle?
+Božemje, luba wowka!
+Twoja Katarina",Katarina rěči rusce a pólsce.,"1 prawje
+2 wopak",reading_A2_1
+A2.2.L3,A2,"Luba wowka!
+Wutrobny postrow z Bad Sulza!
+Kura so mi jara lubi. Smy tu wjele dźěći. Kóždy dźeń mamy terapije a šulu. Naša wučerka rěka knjeni Mayerowa a je jara přećelna. Wona rěči němsce, rusce a pólsce. Ale serbsce wona bohužel njerěči. Wona mały kusk rozumi, štož ja serbsce praju.
+Tu njeje žane druhe serbske dźěćo, jenož ja sama. Mam hižo přećel­ku. Wona rěka Isabell a bydli w Drjež­dźanach. Isabell žane mjaso njejě. Ale kórki, tomaty a neple jej słodźa. Tež jabłuka a banany rady jě. Kakaw rady njepije. Ale brěčku a mloko ma wona rady.
+My sej hrajkamy, knihi čitamy abo cejdejki słuchamy. Popołdnju směmy tež telewiziju hladać. Tu je rjenje.
+Što čini dźěd? Maće hižo małe nukle?
+Božemje, luba wowka!
+Twoja Katarina",Isabell jě rady tomaty.,"1 prawje
+2 wopak",reading_A2_1
+A2.2.L4,A2,"Dźensa warimy
+rybu ze žonopowej butru
+Za 4 wosoby trjebaće:
+4 rybjace fileje, 3 wulke cyble, 50 g butry, 3 łžicy žonopa, sel, citronu a 100 g twarožka.
+Najprjedy dyrbimy rybu myć a tróšku selić. Potom damy citronu na rybu a rozkrajemy cyble. Cyble damy do pónoje a z butru pražimy. Nětko změšamy žonop a cyble a namazamy rybu ze žonopowej butru. Rybu dyrbimy w kachlach (200 do 220 °C) 20 min. pjec. Potom rozkrajemy twarožk a damy na rybu. Nětko dyrbimy rybu z twarožkom hišće raz 10 min. pjec. 
+K tomu přihotujemy kisałe neple a kórkacu solojtej.
+Dajće sej słodźeć!","Trjebamy žonop, twaroh a butru. ","1 prawje
+2 wopak",reading_A2_1
+A2.2.L5,A2,"Dźensa warimy
+rybu ze žonopowej butru
+Za 4 wosoby trjebaće:
+4 rybjace fileje, 3 wulke cyble, 50 g butry, 3 łžicy žonopa, sel, citronu a 100 g twarožka.
+Najprjedy dyrbimy rybu myć a tróšku selić. Potom damy citronu na rybu a rozkrajemy cyble. Cyble damy do pónoje a z butru pražimy. Nětko změšamy žonop a cyble a namazamy rybu ze žonopowej butru. Rybu dyrbimy w kachlach (200 do 220 °C) 20 min. pjec. Potom rozkrajemy twarožk a damy na rybu. Nětko dyrbimy rybu z twarožkom hišće raz 10 min. pjec. 
+K tomu přihotujemy kisałe neple a kórkacu solojtej.
+Dajće sej słodźeć!",Rybu dyrbimy třinaće minutow pjec.,"1 prawje
+2 wopak",reading_A2_1
+A2.2.L11,A2,"Halo Tomašo,
+kak so ći wjedźe? Što sy kónc tydźenja činił?
+Mój kónc tydźenja bě super: Pjatk smy (Sandra, Timo, Petra a ja) do hosćenca k wječeri šli. Smy w indiskim hosćencu byli. Mi je woprawdźe jara derje słodźało! Potom smy na disko šli. Skónčnje zaso rejować – to bě fajn! Sym hakle pozdźe domoj přišoł.
+Sobotu rano w dźewjećich(!) je Maja zawołała. Wona je prajiła: „Do hosćenca a na reje ty chodźiš, ale do muzeja ty njechodźiš!“ Potajkim sym z Maju najprjedy do měšćanskeho muzeja a potom hišće do wuměłskeje galerije šoł. Sym wjele noweho nawuknył wo našim měsće a wjele wobrazow widźał. Potom pak sym jara mučny był. Sym hižo wječor w dźewjećich do łoža šoł.
+Njedźelu rano sym hižo zahe stanył. Sym do Koblenca jěł a w kofejowni při jězorje snědał. Tam sym tež wjele fotografował. Doma sym sej wobrazy na kompjuterje wobhladał. To su woprawdźe krasne fota! Pósćelu tebi dwě abo tři.
+A što sy ty činił? Sy tež tak aktiwny był?
+Lubje strowi
+Ben",Ben je pjatk w indiskim hosćencu wobjedował. ,"1 prawje
+2 wopak",reading_A2_3
+A2.2.L12,A2,"Halo Tomašo,
+kak so ći wjedźe? Što sy kónc tydźenja činił?
+Mój kónc tydźenja bě super: Pjatk smy (Sandra, Timo, Petra a ja) do hosćenca k wječeri šli. Smy w indiskim hosćencu byli. Mi je woprawdźe jara derje słodźało! Potom smy na disko šli. Skónčnje zaso rejować – to bě fajn! Sym hakle pozdźe domoj přišoł.
+Sobotu rano w dźewjećich(!) je Maja zawołała. Wona je prajiła: „Do hosćenca a na reje ty chodźiš, ale do muzeja ty njechodźiš!“ Potajkim sym z Maju najprjedy do měšćanskeho muzeja a potom hišće do wuměłskeje galerije šoł. Sym wjele noweho nawuknył wo našim měsće a wjele wobrazow widźał. Potom pak sym jara mučny był. Sym hižo wječor w dźewjećich do łoža šoł.
+Njedźelu rano sym hižo zahe stanył. Sym do Koblenca jěł a w kofejowni při jězorje snědał. Tam sym tež wjele fotografował. Doma sym sej wobrazy na kompjuterje wobhladał. To su woprawdźe krasne fota! Pósćelu tebi dwě abo tři.
+A što sy ty činił? Sy tež tak aktiwny był?
+Lubje strowi
+Ben",Wječor je Ben z přećelemi na disko šoł.,"1 prawje
+2 wopak",reading_A2_3
+A2.2.L13,A2,"Halo Tomašo,
+kak so ći wjedźe? Što sy kónc tydźenja činił?
+Mój kónc tydźenja bě super: Pjatk smy (Sandra, Timo, Petra a ja) do hosćenca k wječeri šli. Smy w indiskim hosćencu byli. Mi je woprawdźe jara derje słodźało! Potom smy na disko šli. Skónčnje zaso rejować – to bě fajn! Sym hakle pozdźe domoj přišoł.
+Sobotu rano w dźewjećich(!) je Maja zawołała. Wona je prajiła: „Do hosćenca a na reje ty chodźiš, ale do muzeja ty njechodźiš!“ Potajkim sym z Maju najprjedy do měšćanskeho muzeja a potom hišće do wuměłskeje galerije šoł. Sym wjele noweho nawuknył wo našim měsće a wjele wobrazow widźał. Potom pak sym jara mučny był. Sym hižo wječor w dźewjećich do łoža šoł.
+Njedźelu rano sym hižo zahe stanył. Sym do Koblenca jěł a w kofejowni při jězorje snědał. Tam sym tež wjele fotografował. Doma sym sej wobrazy na kompjuterje wobhladał. To su woprawdźe krasne fota! Pósćelu tebi dwě abo tři.
+A što sy ty činił? Sy tež tak aktiwny był?
+Lubje strowi
+Ben",Sobotu připołdnju je Maja zawołała. ,"1 prawje
+2 wopak",reading_A2_3
+A2.2.L14,A2,"Halo Tomašo,
+kak so ći wjedźe? Što sy kónc tydźenja činił?
+Mój kónc tydźenja bě super: Pjatk smy (Sandra, Timo, Petra a ja) do hosćenca k wječeri šli. Smy w indiskim hosćencu byli. Mi je woprawdźe jara derje słodźało! Potom smy na disko šli. Skónčnje zaso rejować – to bě fajn! Sym hakle pozdźe domoj přišoł.
+Sobotu rano w dźewjećich(!) je Maja zawołała. Wona je prajiła: „Do hosćenca a na reje ty chodźiš, ale do muzeja ty njechodźiš!“ Potajkim sym z Maju najprjedy do měšćanskeho muzeja a potom hišće do wuměłskeje galerije šoł. Sym wjele noweho nawuknył wo našim měsće a wjele wobrazow widźał. Potom pak sym jara mučny był. Sym hižo wječor w dźewjećich do łoža šoł.
+Njedźelu rano sym hižo zahe stanył. Sym do Koblenca jěł a w kofejowni při jězorje snědał. Tam sym tež wjele fotografował. Doma sym sej wobrazy na kompjuterje wobhladał. To su woprawdźe krasne fota! Pósćelu tebi dwě abo tři.
+A što sy ty činił? Sy tež tak aktiwny był?
+Lubje strowi
+Ben",Ben je z Maju do Serbskeho muzeja šoł.,"1 prawje
+2 wopak",reading_A2_3
+A2.2.L15,A2,"Halo Tomašo,
+kak so ći wjedźe? Što sy kónc tydźenja činił?
+Mój kónc tydźenja bě super: Pjatk smy (Sandra, Timo, Petra a ja) do hosćenca k wječeri šli. Smy w indiskim hosćencu byli. Mi je woprawdźe jara derje słodźało! Potom smy na disko šli. Skónčnje zaso rejować – to bě fajn! Sym hakle pozdźe domoj přišoł.
+Sobotu rano w dźewjećich(!) je Maja zawołała. Wona je prajiła: „Do hosćenca a na reje ty chodźiš, ale do muzeja ty njechodźiš!“ Potajkim sym z Maju najprjedy do měšćanskeho muzeja a potom hišće do wuměłskeje galerije šoł. Sym wjele noweho nawuknył wo našim měsće a wjele wobrazow widźał. Potom pak sym jara mučny był. Sym hižo wječor w dźewjećich do łoža šoł.
+Njedźelu rano sym hižo zahe stanył. Sym do Koblenca jěł a w kofejowni při jězorje snědał. Tam sym tež wjele fotografował. Doma sym sej wobrazy na kompjuterje wobhladał. To su woprawdźe krasne fota! Pósćelu tebi dwě abo tři.
+A što sy ty činił? Sy tež tak aktiwny był?
+Lubje strowi
+Ben",Njedźelu je Ben wjele fotografował.,"1 prawje
+2 wopak",reading_A2_3

@@ -22,7 +22,7 @@ Datasets and details about Ukrainian can be found in the `Ukrainian` folder.
 
 Notes: 
 - The licences in both subfolders differ.
-- External datasets can be used on top of the provided corpora. For fairness and reproducibility, they should, however, be publicly available
+- External datasets can be used on top of the provided corpora. For fairness and reproducibility, they should, however, be publicly available.
 
 
 ## Evaluation Methods
@@ -34,6 +34,13 @@ The final ranking in the leaderboard will consider the scores from MT and QA equ
 For consistency with the previous WMT 2022 Shared Task, we also report BLEU for MT.
 
 We provide this [repository](https://github.com/TUM-NLP/wmt25-lrsl-evaluation) to help with the evaluation. It is a fork of [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) and can be used to reproduce the baseline results and run evaluation script.
+
+## Testset
+
+### Upper and Lower Sorbian
+The test sets for both Sorbian languages are released in the same fashion:
+- for MT, the test file has a test prefix (`test.de-{hsb|dsb}.de`) and contains the German source sentences (in their respective MT folder)
+- for QA, the five test files (available in CSV and JSON formats) are in the `test` folder, with a test_ prefix (e.g., `test_{HSB|DSB}_A1.{csv|json}`). There are the same A1-B2 level questions and additionally a C1 level file (in their respective QA folder). 
 
 
 ## Baseline results (development datasets)
