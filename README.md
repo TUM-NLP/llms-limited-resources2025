@@ -35,12 +35,18 @@ For consistency with the previous WMT 2022 Shared Task, we also report BLEU for 
 
 We provide this [repository](https://github.com/TUM-NLP/wmt25-lrsl-evaluation) to help with the evaluation. It is a fork of [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) and can be used to reproduce the baseline results and run evaluation script.
 
-## Testset
+## Test sets
 
 ### Upper and Lower Sorbian
 The test sets for both Sorbian languages are released in the same fashion:
 - for MT, the test file has a test prefix (`test.de-{hsb|dsb}.de`) and contains the German source sentences (in their respective MT folder)
 - for QA, the five test files (available in CSV and JSON formats) are in the `test` folder, with a test_ prefix (e.g., `test_{HSB|DSB}_A1.{csv|json}`). There are the same A1-B2 level questions and additionally a C1 level file (in their respective QA folder). 
+
+### Ukrainian
+The test sets for Ukrainian are in their respective folders: 
+- for MT, `test.{cs|en}_uk.jsonl`
+- for QA, `test.json`
+We note here that the MT datasets come from the General MT Shared Task (WMT). Hence, they are in a format different from the development sets.
 
 
 ## Baseline results (development datasets)
