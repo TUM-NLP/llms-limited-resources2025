@@ -84,6 +84,47 @@ For information purposes, we provide the baseline (zero-shot) results of Qwen2.5
 | - eng-ukr | chrf++ | 27.0139 | 0.2574 |
 | UKR QA | acc | 0.3018 | 0.0186 |
 
+
+## Submission procedures
+
+### Output format
+The output format for the Shared Task is a standardised **JSONL** file across languages and tasks, with four fields per instance:
+- For MT, each output should contain: `dataset_id` (`wmtslavicllm2025_{lang_pair}`), `sent_id`, `source`, and `pred`
+- For QA, each output should contain: `dataset_id` (`wmtslavicllm2025_qa_{lang}`), `question_id`, `question`, and `pred`
+
+Below is the description of the four fields:
+- `dataset_id`: this field is needed to assign your submission to the right track (i.e., language+task). It consists of `wmtslavicllm2025_` with the language pair for MT (`de-{hsb|dsb}` or `{cs|en}-uk`) and the language for QA (`qa_{hsb|dsb|uk}`)
+- `sent_id` or `question_id`: this is a unique ID per instance. In some datasets, it is already present (Upper and Lower Sorbian QA). For the others, it is simply an ascending ID
+- `source` or `question`: this comes from the input file with the source sentence (for MT) or the question (for QA) to check the correspondence between inputs and outputs
+- `pred`: the output from your system (string or integer for Sorbian QA)
+
+Moreover, please note that the Upper and Lower Sorbian QA outputs should be concatenated into one file in order of difficulty (A1, A2, B1, B2, C1).
+
+To make the output format conversion easier, we provide two resources. 
+First, dummy outputs are present in the `dummy_submission` folder of this GitHub repository. 
+Second, if you are using our fork of `lm-evaluation-harness` (see above), the [conversion script](https://github.com/TUM-NLP/wmt25-lrsl-evaluation/blob/main/testphase-eval/convert_output_formats.py) has been updated to the final output format.
+
+Summary of the modifications to make in the output:
+- Ukrainian MT: changing the `dataset_id` for our shared task (`wmtslavicllm2025_{cs-uk|en-uk}`), adding a simple `sent_id` (e.g., `cs-uk-XXXXX`), changing the `src_text` field name into `source`
+- Ukrainian QA: adding the dataset_id (`wmtslavicllm2025_qa_ukr`) and `question_id` (e.g., `question-XXXX`); the prediction should be a **string** (not a list)
+- Upper and Lower Sorbian MT: adding the dataset_id (`wmtslavicllm2025_de-{hsb|dsb}`) and sent_id (e.g., `de-hsb-XXXXX`)
+- Upper and Lower Sorbian QA: adding the dataset_id (`wmtslavicllm2025_qa_{hsb|dsb}`), concatenating all QA files in increasing order of difficulty (A1, A2, B1, B2, C1)
+
+For a full participation in our Shared Task, there will be seven files: 3 files for the Ukrainian track (CS-UK, EN-UK MT & UK QA), 2 files each for Upper and Lower Sorbian (DE-DSB|HSB MT & DSB|HSB QA).
+
+### Submission platform
+Thanks to the main Shared Task organisers, the submissions for our Shared Task can also be handled by the **OCELoT platform**: https://ocelot-wmt.azurewebsites.net/.
+
+Tutorial:
+1. After selecting our Shared Task, please register your team (yellow button). You need a team name and an email. You will then receive an email with a unique token to use (akin to a password).
+2. Output files can be uploaded using the ‘create submission’ button (green button). Please select the corresponding test file (i.e., task + language) for your submission (warning: the names are quite similar, so please double check the selected file). You can choose whether this is your primary submission or not (it can be changed later).
+3. Each output file must be submitted separately. Please remember that a submission is valid for us only when **both MT and QA outputs** are uploaded.
+4. Once you have submitted your files, you will see a publication details section to fill in (with the institution name, the system name, and a small description of the system). The platform also needs a short paragraph describing your system, which we will use for our findings article. Please detail the models, datasets, and main techniques that you relied on. 
+
+For better reproducibility, we highly recommend providing a link to your model in the system description paragraph by uploading it to HuggingFace (and mentioning external public datasets, when used).
+
+To check whether your submissions are correctly taken into account by the system, OCELoT displays some automatic metrics: BLEU and chrF for MT and accuracy for QA (except for CS-UK MT). Please note that **these leaderboards are not the final ones**; we will provide the final ranking shortly after the submissions phase is closed.
+
 ## Contact / Organisers
 Please join our Google group for further information: https://groups.google.com/g/slavic-llms-mt2025.
 
