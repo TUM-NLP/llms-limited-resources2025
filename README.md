@@ -105,7 +105,7 @@ First, dummy outputs are present in the `dummy_submission` folder of this GitHub
 Second, if you are using our fork of `lm-evaluation-harness` (see above), the [conversion script](https://github.com/TUM-NLP/wmt25-lrsl-evaluation/blob/main/testphase-eval/convert_output_formats.py) has been updated to the final output format.
 
 Summary of the modifications to make in the output:
-- Ukrainian MT: changing the `dataset_id` for our shared task (`wmtslavicllm2025_{cs-uk|en-uk}`), adding a simple `sent_id` (e.g., `cs-uk-XXXXX`), changing the `src_text` field name into `source`
+- Ukrainian MT: changing the `dataset_id` for our shared task (`wmtslavicllm2025_{cs-uk|en-uk}`), changing the `doc_id` field name into `sent_id` and the `src_text` field name into `source`
 - Ukrainian QA: adding the dataset_id (`wmtslavicllm2025_qa_ukr`) and `question_id` (e.g., `question-XXXX`); the prediction should be a **string** (not a list)
 - Upper and Lower Sorbian MT: adding the dataset_id (`wmtslavicllm2025_de-{hsb|dsb}`) and sent_id (e.g., `de-hsb-XXXXX`)
 - Upper and Lower Sorbian QA: adding the dataset_id (`wmtslavicllm2025_qa_{hsb|dsb}`), concatenating all QA files in increasing order of difficulty (A1, A2, B1, B2, C1)
