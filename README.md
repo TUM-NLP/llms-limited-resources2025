@@ -120,6 +120,7 @@ Tutorial:
 2. Output files can be uploaded using the ‘create submission’ button (green button). Please select the corresponding test file (i.e., task + language) for your submission (warning: the names are quite similar, so please double check the selected file). You can choose whether this is your primary submission or not (it can be changed later).
 3. Each output file must be submitted separately. Please remember that a submission is valid for us only when **both MT and QA outputs** are uploaded.
 4. Once you have submitted your files, you will see a publication details section to fill in (with the institution name, the system name, and a small description of the system). The platform also needs a short paragraph describing your system, which we will use for our findings article. Please detail the models, datasets, and main techniques that you relied on. 
+5. There is *no need* to fill in the form in the 'primary submissions' section of the publication details page, as it is for the main Shared Task.
 
 For better reproducibility, we highly recommend providing a link to your model in the system description paragraph by uploading it to HuggingFace (and mentioning external public datasets, when used).
 
