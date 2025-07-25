@@ -126,6 +126,10 @@ For better reproducibility, we highly recommend providing a link to your model i
 
 To check whether your submissions are correctly taken into account by the system, OCELoT displays some automatic metrics: BLEU and chrF for MT and accuracy for QA (except for CS-UK MT). Please note that **these leaderboards are not the final ones**; we will provide the final ranking shortly after the submissions phase is closed.
 
+## Results
+The results for the primary submissions are available in the `results.md` file. 
+More results will be uploaded soon (e.g., for the other submissions).
+
 ## Contact / Organisers
 Please join our Google group for further information: https://groups.google.com/g/slavic-llms-mt2025.
 
